@@ -1,0 +1,1001 @@
+txn_id,branch,city,amount,transaction_type,status,timestamp
+T835247,Branch 5,Delhi,1769.77,Deposit,Failed,2025-04-05 08:53:19.689303
+T766185,Branch 5,Delhi,4339.16,Transfer,Failed,2025-04-04 00:51:47.816887
+T425666,Branch 5,Delhi,3334.09,Withdrawal,Failed,2025-04-06 15:32:39.831952
+T107860,Branch 5,Delhi,735.29,Transfer,Success,2025-04-04 05:21:28.067731
+T452073,Branch 5,Delhi,868.24,Withdrawal,Failed,2025-04-01 10:46:16.748585
+T940943,Branch 5,Delhi,4893.6,Transfer,Failed,2025-04-05 11:05:22.041980
+T359917,Branch 5,Delhi,4310.79,,Failed,2025-04-02 10:34:24.290534
+T406477,Branch 5,Delhi,2516.23,Transfer,Success,2025-04-05 13:36:28.893200
+T372619,Branch 5,Delhi,2190.7,Deposit,Success,2025-04-03 02:32:16.005640
+T655736,Branch 5,Delhi,1731.16,Transfer,Success,2025-04-02 17:35:22.129398
+T647541,Branch 5,Delhi,4785.05,Transfer,Success,2025-04-01 17:41:45.192056
+T804972,Branch 5,Delhi,840.54,Deposit,Success,2025-04-02 01:59:14.588864
+T965033,Branch 5,Delhi,2840.48,Transfer,Success,2025-04-03 23:29:45.813036
+T458764,Branch 5,Delhi,3111.05,Deposit,Success,2025-04-05 18:29:12.295904
+T548999,,Delhi,828.1,Withdrawal,Failed,2025-04-01 14:33:45.042299
+T139164,Branch 5,Delhi,242.97,Withdrawal,,2025-04-04 14:43:07.185651
+T303857,Branch 5,Delhi,1606.85,Transfer,Failed,2025-04-04 05:50:59.320097
+T416434,Branch 5,Delhi,1361.19,Deposit,Failed,2025-04-05 22:11:07.024728
+T854655,Branch 5,Delhi,4433.08,Withdrawal,Failed,2025-04-04 11:43:42.424416
+T979791,Branch 5,Delhi,,Withdrawal,Success,2025-04-07 09:04:14.696512
+T104635,Branch 5,Delhi,3924.82,Transfer,Success,2025-04-07 18:22:22.836622
+T820353,Branch 5,Delhi,2848.52,Failed,Success,2025-04-01 10:17:36.505742
+T237264,Branch 5,Delhi,794.5,Failed,Failed,2025-04-03 02:16:36.744801
+T475152,Branch 5,Delhi,1781.4,Deposit,Failed,2025-04-05 10:01:02.184648
+T645494,Branch 5,Delhi,3976.49,Transfer,,2025-04-01 06:44:45.998306
+T756832,Branch 5,Delhi,3459.97,Transfer,Failed,2025-04-01 16:50:34.394939
+T642102,Branch 5,Delhi,3603.06,Withdrawal,Failed,2025-04-06 00:59:25.688731
+T595294,Branch 5,Delhi,691.32,Failed,Failed,2025-04-03 16:40:25.947176
+T933431,,Delhi,892.3,Transfer,Success,2025-04-05 12:46:01.150306
+T532344,Branch 5,Delhi,3172.82,Transfer,Failed,2025-04-03 11:05:25.395520
+T445622,Branch 5,Delhi,3731.23,Deposit,Failed,2025-04-05 22:17:38.036969
+,Branch 5,Delhi,,Deposit,Failed,2025-04-02 03:16:49.326275
+T478127,Branch 5,Delhi,2573.81,,Success,2025-04-05 13:42:48.277262
+T881149,Branch 5,Delhi,1948.12,Deposit,Success,2025-04-01 08:46:02.572224
+T947174,Branch 5,Delhi,165.29,Withdrawal,Success,2025-04-04 23:33:28.523621
+T220171,Branch 5,Delhi,,Transfer,Failed,2025-04-03 12:58:05.876729
+T645111,Branch 5,Delhi,2219.24,Deposit,Success,2025-04-02 10:09:19.996605
+T328724,Branch 5,Delhi,2764.88,Failed,Failed,2025-04-03 19:25:11.329066
+,Branch 5,Delhi,755.21,Transfer,Success,2025-04-04 00:07:20.102812
+,Branch 5,Delhi,849.08,Deposit,Success,2025-04-05 10:14:45.901387
+T864075,Branch 5,Delhi,293.84,Deposit,Failed,2025-04-01 08:09:18.408022
+T953922,Branch 5,Delhi,659.71,Deposit,Success,2025-04-05 21:50:45.117752
+T628822,Branch 5,Delhi,1218.79,Withdrawal,Failed,2025-04-07 13:48:56.949775
+T264416,Branch 5,Delhi,3325.08,Withdrawal,Failed,2025-04-05 14:50:28.281397
+T412726,Branch 5,Delhi,4429.17,Transfer,Failed,2025-04-05 15:22:51.545755
+T479830,Branch 5,Delhi,3150.92,Failed,Success,2025-04-03 18:34:20.777100
+,Branch 5,Delhi,3205.99,Withdrawal,Failed,2025-04-06 19:53:43.638993
+T712747,Branch 5,Delhi,,Transfer,Success,2025-04-02 17:59:11.038313
+T333761,Branch 5,Delhi,1907.76,Transfer,Success,2025-04-06 16:20:27.576067
+T294298,Branch 5,Delhi,2260.98,Transfer,Failed,2025-04-05 10:06:52.782217
+T878180,Branch 5,Delhi,1995.2,Transfer,Failed,2025-04-06 10:04:07.998419
+T247389,Branch 5,Delhi,997.77,Failed,Failed,2025-04-02 12:02:28.730962
+T665569,Branch 5,Delhi,1299.47,Withdrawal,Success,
+T605724,Branch 5,Delhi,2271.06,Failed,Success,2025-04-03 19:55:47.318955
+,,Delhi,3838.0,Transfer,Success,2025-04-01 07:12:32.080953
+T386413,Branch 5,Delhi,2074.19,Transfer,Failed,2025-04-06 00:22:04.282468
+T496854,Branch 5,Delhi,4419.78,Withdrawal,Success,2025-04-06 15:23:50.128121
+T919459,Branch 5,Delhi,3892.18,Deposit,Failed,2025-04-01 21:22:40.396895
+T604686,Branch 5,Delhi,4867.0,Deposit,Failed,2025-04-04 00:39:16.859154
+T250154,Branch 5,Delhi,,Failed,Success,2025-04-07 13:57:56.901575
+T202826,Branch 5,Delhi,3707.63,Transfer,Success,2025-04-03 11:57:07.449890
+T294945,Branch 5,Delhi,,Failed,Success,2025-04-01 07:09:32.802666
+T216801,Branch 5,Delhi,4937.01,Withdrawal,Failed,2025-04-06 12:46:15.572057
+T822533,Branch 5,Delhi,3386.83,Withdrawal,Success,2025-04-06 07:46:35.149222
+T771736,Branch 5,Delhi,1012.33,Withdrawal,Failed,2025-04-01 18:53:45.903309
+T530000,Branch 5,Delhi,2276.16,Failed,Success,2025-04-02 23:05:34.145488
+T363239,,Delhi,2767.34,Deposit,Failed,2025-04-07 07:10:56.378488
+T774284,Branch 5,Delhi,4008.19,Transfer,Failed,2025-04-02 10:51:35.660555
+T358862,Branch 5,Delhi,4992.65,Transfer,Failed,2025-04-06 01:33:52.396303
+T901111,Branch 5,Delhi,145.41,Failed,Success,2025-04-02 04:14:34.106529
+T718346,Branch 5,Delhi,1893.34,Withdrawal,Success,2025-04-01 07:00:09.648654
+T679153,Branch 5,Delhi,2942.14,Deposit,Success,2025-04-05 21:33:00.810219
+T673479,Branch 5,Delhi,3396.88,Transfer,Success,2025-04-07 15:19:04.169104
+T202825,Branch 5,Delhi,1600.18,Failed,Success,2025-04-07 17:29:52.549340
+T176463,Branch 5,Delhi,3140.12,Failed,Failed,2025-04-02 15:02:23.700001
+T161808,Branch 5,Delhi,2643.2,Deposit,Success,2025-04-02 02:11:26.990770
+T761031,Branch 5,Delhi,1918.18,Deposit,Success,2025-04-02 17:56:46.784041
+T833213,Branch 5,Delhi,1872.91,Failed,Success,2025-04-01 08:18:01.420166
+T578294,Branch 5,Delhi,3011.99,Transfer,Success,2025-04-07 07:06:21.047274
+T525323,Branch 5,Delhi,4507.15,Failed,Success,2025-04-03 04:38:09.626862
+T704531,Branch 5,Delhi,2487.54,Transfer,Failed,2025-04-04 04:08:10.221342
+T153930,Branch 5,Delhi,4220.56,Withdrawal,Failed,2025-04-02 23:58:52.620054
+T873841,Branch 5,Delhi,1209.67,Deposit,Failed,2025-04-03 21:07:28.224635
+,Branch 5,Delhi,1932.33,Failed,Failed,2025-04-02 03:41:34.035045
+T838097,Branch 5,Delhi,1389.84,Transfer,Success,2025-04-04 11:47:24.561808
+T753678,Branch 5,Delhi,546.37,Deposit,Failed,2025-04-01 13:20:35.903124
+T255301,Branch 5,Delhi,3941.04,Failed,Success,2025-04-02 10:26:30.738296
+T562704,Branch 5,Delhi,4728.16,Failed,Failed,2025-04-04 10:01:55.743824
+T891453,Branch 5,Delhi,4366.28,Withdrawal,Failed,2025-04-07 13:00:20.237462
+T660836,Branch 5,Delhi,1927.23,Deposit,Failed,2025-04-02 04:45:24.091251
+T519232,Branch 5,Delhi,4844.01,Deposit,Failed,2025-04-06 03:48:56.477117
+T738446,Branch 5,Delhi,3245.59,Withdrawal,Failed,2025-04-06 04:14:45.213446
+,Branch 5,Delhi,,,Failed,2025-04-03 03:47:31.290464
+T607316,Branch 5,Delhi,414.96,Transfer,Failed,2025-04-07 07:07:48.610861
+T438022,Branch 5,Delhi,4410.6,Deposit,Failed,2025-04-03 23:36:38.953148
+T428364,Branch 5,Delhi,1256.84,Failed,Success,2025-04-04 01:47:48.587388
+T928314,Branch 5,Delhi,103.76,Failed,Failed,2025-04-07 06:34:42.509477
+T885524,Branch 5,Delhi,828.87,Withdrawal,Success,2025-04-02 07:44:21.535522
+T558360,Branch 5,Delhi,,Deposit,,2025-04-04 14:02:19.793778
+,Branch 5,Delhi,3389.83,,Success,2025-04-04 20:11:38.166743
+T503077,,Delhi,2228.89,,Failed,2025-04-02 19:38:43.436628
+T711839,Branch 5,Delhi,2228.79,Failed,Success,2025-04-05 02:01:03.541502
+,Branch 5,,1296.05,Deposit,Success,2025-04-05 20:02:51.420098
+T617001,Branch 5,Delhi,3823.45,Failed,Failed,2025-04-06 22:21:37.423521
+T731933,Branch 5,Delhi,4533.86,Withdrawal,Failed,2025-04-02 16:33:23.395558
+T665972,Branch 5,Delhi,3831.4,Transfer,Failed,
+T378623,Branch 5,Delhi,4099.08,Withdrawal,Failed,2025-04-04 20:00:02.714262
+,Branch 5,Delhi,3752.52,Withdrawal,Success,2025-04-01 04:11:02.112543
+T508955,Branch 5,Delhi,1069.52,Failed,Failed,2025-04-02 16:47:09.326273
+,Branch 5,Delhi,673.87,Failed,Success,2025-04-05 02:42:18.887387
+T761200,Branch 5,Delhi,3815.07,Transfer,Failed,2025-04-01 13:55:57.855222
+T701559,Branch 5,Delhi,4492.84,Transfer,Success,2025-04-02 04:21:22.462531
+T325819,Branch 5,Delhi,2957.89,Transfer,Success,2025-04-01 02:02:16.340890
+T687019,Branch 5,Delhi,,Withdrawal,Failed,2025-04-02 05:43:48.426538
+T692648,Branch 5,Delhi,3523.26,Withdrawal,Success,2025-04-07 05:53:09.876699
+,Branch 5,Delhi,,Deposit,Success,2025-04-06 14:26:18.536533
+T529734,Branch 5,,1315.6,Transfer,Success,2025-04-06 03:37:51.242463
+T535534,Branch 5,Delhi,4575.27,Failed,,2025-04-05 09:53:17.350869
+T197198,Branch 5,Delhi,2373.25,Transfer,Failed,2025-04-05 20:43:34.618203
+T796798,Branch 5,Delhi,4523.81,Failed,Failed,2025-04-05 09:26:20.460667
+T934860,Branch 5,Delhi,187.48,Failed,Success,2025-04-07 13:10:12.153383
+T387727,,Delhi,3333.22,Failed,Failed,2025-04-04 18:12:33.374452
+,Branch 5,Delhi,1929.82,Failed,Success,2025-04-01 10:41:18.991862
+T335715,Branch 5,Delhi,3226.85,Transfer,Failed,2025-04-03 14:47:53.492957
+T175581,Branch 5,Delhi,254.01,Deposit,Failed,2025-04-03 04:56:48.611098
+,,Delhi,3317.73,Failed,,2025-04-04 14:37:40.566168
+T718780,Branch 5,Delhi,2415.91,Failed,Success,2025-04-05 01:12:18.540611
+T144386,Branch 5,Delhi,1740.23,Transfer,Failed,2025-04-02 02:59:20.211024
+T880354,Branch 5,Delhi,,Deposit,Success,2025-04-04 18:56:59.605564
+T705904,Branch 5,Delhi,2524.59,,Failed,2025-04-07 14:47:38.339540
+T421134,Branch 5,Delhi,,Failed,Success,2025-04-03 04:49:25.734966
+T396545,Branch 5,Delhi,794.27,Withdrawal,Failed,2025-04-03 14:22:33.710575
+T855151,Branch 5,Delhi,675.39,Transfer,Failed,
+T914398,Branch 5,Delhi,2498.82,,Failed,2025-04-04 19:03:39.438077
+T655239,Branch 5,Delhi,667.65,Failed,Success,2025-04-01 14:38:41.694486
+T646989,Branch 5,Delhi,560.88,Withdrawal,Success,2025-04-02 14:20:24.973864
+T195284,Branch 5,Delhi,1489.55,Failed,Success,2025-04-05 16:12:51.178432
+,Branch 5,Delhi,4147.63,Deposit,Success,2025-04-05 23:24:15.056139
+T768113,,Delhi,2412.14,Deposit,Failed,2025-04-05 04:02:34.035101
+T907166,Branch 5,Delhi,,Deposit,Failed,2025-04-06 23:59:37.850667
+T799356,Branch 5,Delhi,1275.97,Failed,Success,2025-04-01 09:04:01.828637
+,Branch 5,Delhi,3354.29,Withdrawal,,2025-04-06 04:05:03.774451
+,Branch 5,Delhi,420.17,Failed,Failed,2025-04-06 03:55:27.181155
+T828539,Branch 5,Delhi,4179.34,Transfer,Success,2025-04-02 23:52:47.705725
+T981043,Branch 5,Delhi,2042.6,Deposit,Success,2025-04-01 00:46:00.689064
+T190983,Branch 5,Delhi,2164.71,Transfer,Failed,2025-04-04 14:41:42.696274
+T285044,Branch 5,Delhi,3229.8,Deposit,Failed,2025-04-07 01:48:15.051125
+T909226,Branch 5,Delhi,4465.31,Failed,,2025-04-01 10:51:36.140888
+T659121,Branch 5,Delhi,3344.03,Withdrawal,Success,2025-04-02 14:30:13.381953
+,Branch 5,Delhi,2873.74,Failed,,2025-04-01 15:47:51.244737
+T324275,Branch 5,Delhi,2750.34,,Success,2025-04-01 01:07:59.352290
+T699258,Branch 5,Delhi,500.68,Deposit,,2025-04-03 21:46:26.052023
+T604119,Branch 5,Delhi,861.02,,Success,2025-04-04 22:33:30.753604
+T493715,Branch 5,Delhi,3107.31,Transfer,Failed,2025-04-03 11:28:29.842139
+T142982,Branch 5,Delhi,804.28,Transfer,Failed,2025-04-05 09:08:46.954674
+T544496,Branch 5,Delhi,1988.76,Deposit,Failed,2025-04-07 18:58:04.031893
+T596679,Branch 5,Delhi,,Failed,Failed,2025-04-03 14:05:16.534067
+T702182,Branch 5,Delhi,1056.46,Deposit,Failed,2025-04-04 11:32:33.464659
+T502062,,Delhi,,Transfer,Success,2025-04-02 23:02:35.620184
+T263802,Branch 5,Delhi,2958.41,Withdrawal,Failed,2025-04-01 15:29:30.657782
+T364978,Branch 5,Delhi,,Failed,Success,2025-04-01 04:18:10.751357
+T812685,Branch 5,Delhi,325.6,Failed,,2025-04-07 08:31:59.907521
+T219315,Branch 5,Delhi,1693.26,Withdrawal,Success,2025-04-02 21:50:12.827015
+T474541,Branch 5,Delhi,1232.55,,Success,2025-04-01 07:36:12.985364
+,Branch 5,Delhi,3971.42,Failed,Success,2025-04-06 16:38:54.741691
+T156149,Branch 5,Delhi,1597.3,Deposit,Failed,2025-04-05 18:56:07.833066
+T982911,Branch 5,Delhi,,Withdrawal,Failed,2025-04-07 08:20:05.530735
+T986333,Branch 5,Delhi,4234.69,Transfer,Success,2025-04-04 08:12:19.146828
+T982027,Branch 5,Delhi,2210.54,Withdrawal,Failed,2025-04-04 11:01:57.410277
+T190541,Branch 5,Delhi,3524.83,Withdrawal,Success,2025-04-02 06:33:51.562123
+T383354,Branch 5,Delhi,2266.23,,Success,2025-04-01 23:48:00.939568
+T640408,Branch 5,Delhi,4880.04,Withdrawal,Failed,2025-04-02 22:36:30.581727
+T523153,Branch 5,Delhi,4177.85,Transfer,,2025-04-07 04:08:03.984248
+T168764,Branch 5,Delhi,2306.35,Failed,Failed,2025-04-07 15:37:01.705815
+T694213,Branch 5,Delhi,2856.08,Deposit,Success,2025-04-02 20:49:46.919822
+T239558,Branch 5,Delhi,2480.72,Withdrawal,Failed,2025-04-07 09:44:46.209019
+T942572,Branch 5,Delhi,3901.98,Withdrawal,Failed,2025-04-02 06:47:48.998521
+T217320,Branch 5,Delhi,4245.69,Withdrawal,Failed,2025-04-01 11:26:33.766407
+T309342,Branch 5,Delhi,1840.61,Deposit,Success,
+,Branch 5,Delhi,4671.29,Transfer,Failed,
+T213610,Branch 5,Delhi,4814.22,Failed,Failed,2025-04-07 16:09:12.970944
+T854723,Branch 5,Delhi,2541.27,Failed,Failed,2025-04-02 19:44:12.504061
+,Branch 5,Delhi,110.73,Failed,Failed,2025-04-03 11:11:41.131973
+T752700,Branch 5,Delhi,3913.32,Deposit,,2025-04-06 01:48:32.607409
+T218283,Branch 5,Delhi,2248.09,Failed,Failed,2025-04-01 10:55:00.200250
+T980874,Branch 5,Delhi,2078.54,Deposit,Success,2025-04-04 21:42:54.898837
+T971529,Branch 5,Delhi,2047.38,Withdrawal,Success,2025-04-03 13:35:37.445750
+T601310,Branch 5,Delhi,2458.42,Deposit,,2025-04-06 16:01:07.098471
+T352710,Branch 5,Delhi,1671.53,Transfer,Failed,2025-04-01 06:20:41.464171
+T258397,Branch 5,Delhi,303.63,Transfer,Failed,2025-04-02 14:06:55.605621
+T553680,Branch 5,Delhi,2507.41,Failed,Failed,2025-04-07 19:28:59.995053
+T894688,Branch 5,Delhi,3859.99,Transfer,,2025-04-04 18:08:50.094723
+,Branch 5,Delhi,106.0,Withdrawal,Failed,2025-04-01 21:33:57.880527
+T344896,Branch 5,,,Deposit,Failed,2025-04-01 16:21:46.929015
+T345202,Branch 5,Delhi,,Transfer,Success,2025-04-04 23:42:41.845395
+T870209,Branch 5,Delhi,2694.93,Withdrawal,Success,2025-04-04 13:47:20.162877
+T407730,Branch 5,Delhi,3767.8,,Failed,2025-04-02 21:32:00.131238
+T669511,Branch 5,Delhi,1071.53,Deposit,Success,2025-04-05 02:39:18.996060
+T673398,Branch 5,Delhi,4719.04,Withdrawal,,2025-04-07 02:26:40.619712
+T820055,Branch 5,Delhi,2525.03,Deposit,Success,
+T429840,Branch 5,Delhi,,,Failed,2025-04-05 05:10:32.288254
+,Branch 5,Delhi,4129.44,Withdrawal,,2025-04-02 03:27:31.702416
+T223631,Branch 5,Delhi,1850.56,Deposit,Failed,2025-04-05 09:15:15.770692
+T243546,Branch 5,Delhi,106.33,Failed,Success,2025-04-06 12:26:53.806748
+T539980,Branch 5,Delhi,3779.61,,Success,
+,Branch 5,Delhi,1211.68,Withdrawal,Success,2025-04-01 06:30:22.117090
+,Branch 5,Delhi,3193.77,Transfer,Success,2025-04-07 09:48:33.431127
+T912207,Branch 5,Delhi,1767.9,,Failed,
+T402083,Branch 5,Delhi,550.83,Transfer,Success,2025-04-01 20:48:25.899133
+T812081,Branch 5,Delhi,,Withdrawal,Failed,2025-04-07 14:28:26.055256
+T819015,Branch 5,Delhi,1534.62,Failed,Success,2025-04-03 08:32:32.580989
+T975092,Branch 5,Delhi,3003.82,Deposit,Success,2025-04-06 12:58:34.913419
+T972512,Branch 5,Delhi,4315.94,,Failed,2025-04-07 03:12:03.024502
+T659969,Branch 5,Delhi,2241.99,Transfer,Success,2025-04-06 20:19:01.210260
+T987770,Branch 5,Delhi,1358.1,Withdrawal,Failed,2025-04-01 23:37:59.205454
+T323001,Branch 5,Delhi,2527.94,,Success,2025-04-04 04:08:37.682311
+T444450,Branch 5,Delhi,4358.45,Deposit,Failed,2025-04-03 16:51:20.823873
+T674615,Branch 5,Delhi,450.89,,Success,2025-04-04 14:06:16.213153
+T766143,Branch 5,Delhi,335.33,Failed,Failed,2025-04-02 23:01:34.656035
+T858032,Branch 5,Delhi,4758.4,Failed,Success,2025-04-07 14:05:04.428789
+T246294,Branch 5,Delhi,2391.74,Deposit,Success,2025-04-02 05:06:06.263526
+T313639,Branch 5,Delhi,4144.77,Transfer,Failed,2025-04-03 11:35:06.209876
+T636563,Branch 5,Delhi,2936.3,Deposit,Failed,2025-04-03 09:20:38.120271
+T411821,Branch 5,Delhi,778.37,Transfer,Success,2025-04-04 05:11:51.823065
+,Branch 5,Delhi,4590.6,Transfer,Success,2025-04-06 21:42:51.205436
+T256802,Branch 5,Delhi,4077.49,Deposit,,2025-04-06 00:03:36.580788
+,Branch 5,Delhi,1463.49,Failed,Success,2025-04-07 01:08:31.765649
+T872772,Branch 5,Delhi,597.76,Failed,Success,2025-04-05 06:24:39.462952
+T166523,Branch 5,Delhi,4303.28,Failed,Failed,2025-04-07 13:09:59.561261
+T639574,Branch 5,Delhi,2837.59,Failed,Failed,2025-04-04 17:18:27.713653
+T432744,,Delhi,3589.9,Deposit,Success,2025-04-06 00:31:25.809636
+T231782,Branch 5,Delhi,740.92,Withdrawal,Failed,2025-04-01 19:07:55.335407
+T789551,Branch 5,Delhi,737.7,Failed,Success,2025-04-06 06:31:00.949152
+T677768,Branch 5,Delhi,4091.53,Failed,Failed,
+T499979,Branch 5,Delhi,4571.37,,Success,2025-04-01 03:03:15.148014
+T573877,Branch 5,Delhi,160.25,Transfer,,2025-04-01 09:26:44.514900
+T158317,Branch 5,Delhi,4669.68,Withdrawal,Failed,2025-04-04 09:23:18.754797
+T523867,Branch 5,Delhi,1539.1,Deposit,Failed,2025-04-03 09:22:07.068110
+T727603,Branch 5,Delhi,3086.84,Deposit,Failed,
+T389676,Branch 5,Delhi,,Withdrawal,Success,2025-04-04 03:17:45.136551
+T957258,Branch 5,Delhi,1171.99,Deposit,Failed,
+T959609,Branch 5,Delhi,2455.37,Failed,Failed,2025-04-01 02:42:05.230004
+T191009,Branch 5,Delhi,2978.51,Failed,,2025-04-06 21:29:01.538074
+,Branch 5,Delhi,1727.26,Transfer,Failed,
+T294728,Branch 5,Delhi,1699.03,Deposit,Success,2025-04-02 18:31:36.602599
+T618193,Branch 5,Delhi,,Transfer,Failed,2025-04-06 07:57:10.645814
+T174748,Branch 5,Delhi,444.67,Withdrawal,Failed,2025-04-02 17:00:37.242671
+T795672,Branch 5,Delhi,2011.3,Failed,Failed,2025-04-04 13:58:49.783250
+,Branch 5,Delhi,4629.83,Transfer,Success,2025-04-02 11:18:52.924961
+T180717,Branch 5,Delhi,357.53,Withdrawal,Failed,2025-04-07 09:36:59.470021
+,Branch 5,Delhi,1580.38,Withdrawal,Failed,2025-04-05 23:47:40.928752
+,Branch 5,Delhi,1045.97,,Failed,2025-04-04 18:09:25.040859
+,Branch 5,Delhi,167.18,,Success,2025-04-05 03:50:35.619330
+,Branch 5,Delhi,3738.93,Transfer,Success,2025-04-04 22:08:45.828530
+T722268,Branch 5,Delhi,3950.5,Failed,Failed,2025-04-01 05:03:54.696862
+T501871,Branch 5,Delhi,644.32,Failed,Failed,2025-04-06 09:21:39.233867
+T366297,,Delhi,873.63,Deposit,Success,2025-04-05 20:10:37.602961
+T128158,Branch 5,Delhi,1114.17,Transfer,Success,2025-04-07 12:59:20.610232
+T165257,Branch 5,Delhi,4942.99,Withdrawal,,2025-04-01 14:14:42.150294
+T511649,Branch 5,Delhi,1426.24,Deposit,Failed,2025-04-03 17:40:54.716533
+T441188,Branch 5,Delhi,3480.31,Failed,Success,2025-04-04 06:57:03.639789
+T569372,Branch 5,Delhi,,,Failed,
+T664723,Branch 5,Delhi,2416.28,Transfer,Success,2025-04-06 01:18:16.959107
+T547198,Branch 5,Delhi,2182.34,,Success,2025-04-07 14:19:42.716957
+,Branch 5,Delhi,4460.87,Withdrawal,Failed,2025-04-05 20:34:38.439012
+,Branch 5,Delhi,4647.58,Failed,Failed,2025-04-05 17:01:45.584291
+T528818,Branch 5,Delhi,3742.3,Transfer,Failed,2025-04-07 06:29:33.065691
+T453131,,Delhi,153.37,Deposit,Success,2025-04-05 17:40:35.182677
+T715327,Branch 5,Delhi,338.38,Failed,Failed,2025-04-04 10:17:42.258729
+T237024,Branch 5,Delhi,2528.61,Withdrawal,Success,2025-04-04 23:00:33.748084
+T546247,Branch 5,Delhi,1326.03,Withdrawal,Failed,2025-04-03 07:34:48.104399
+T877189,Branch 5,Delhi,1852.63,Failed,Success,2025-04-04 23:29:47.664412
+T992688,Branch 5,Delhi,2731.14,Withdrawal,Failed,2025-04-05 00:47:31.503285
+T256586,Branch 5,Delhi,,Transfer,Failed,2025-04-01 06:59:55.595632
+T758964,Branch 5,Delhi,,Withdrawal,Success,2025-04-07 17:01:43.802258
+T934475,Branch 5,Delhi,,Failed,Failed,
+T477830,Branch 5,Delhi,156.21,Withdrawal,Success,2025-04-04 01:18:37.839121
+T558953,Branch 5,Delhi,2440.97,Transfer,Failed,2025-04-05 20:22:54.710131
+T233117,Branch 5,Delhi,2433.12,Transfer,Success,2025-04-05 08:49:49.458261
+,Branch 5,Delhi,1949.03,Transfer,,2025-04-03 19:32:13.391035
+T504491,Branch 5,Delhi,1111.31,Withdrawal,Failed,2025-04-06 18:12:44.516672
+T524433,Branch 5,Delhi,,Failed,Failed,2025-04-07 19:16:28.813298
+T537690,Branch 5,Delhi,2631.96,Failed,Success,2025-04-05 17:51:50.418820
+T110074,Branch 5,Delhi,2094.56,Failed,Failed,2025-04-03 11:37:34.285753
+T551357,Branch 5,Delhi,130.09,Withdrawal,Success,2025-04-01 13:10:01.373812
+,Branch 5,Delhi,2208.14,Withdrawal,,2025-04-06 00:50:46.916568
+T165391,Branch 5,Delhi,324.3,Failed,Success,2025-04-03 02:25:00.078090
+T500136,Branch 5,Delhi,724.52,Transfer,Success,2025-04-03 23:57:01.756619
+T450158,Branch 5,Delhi,4815.84,Transfer,Failed,2025-04-06 15:04:15.055949
+T394650,Branch 5,,1510.23,Withdrawal,Success,2025-04-04 14:36:04.623745
+T269627,Branch 5,Delhi,,Failed,Failed,2025-04-04 17:26:49.684802
+T519899,Branch 5,Delhi,4322.96,,Failed,2025-04-07 00:51:53.503335
+T697497,Branch 5,Delhi,3184.21,Withdrawal,Success,2025-04-05 21:27:44.309132
+T426853,Branch 5,Delhi,4438.7,Deposit,Failed,2025-04-04 15:46:06.079679
+T892819,Branch 5,,1335.54,Withdrawal,Failed,2025-04-06 07:38:26.532573
+T261764,Branch 5,Delhi,3698.71,Transfer,Failed,2025-04-07 01:56:23.888610
+T693512,Branch 5,Delhi,,,Failed,2025-04-01 04:48:26.065294
+T772417,Branch 5,Delhi,,Deposit,Success,
+T308466,Branch 5,Delhi,,Transfer,,2025-04-04 04:55:41.514717
+T266682,Branch 5,Delhi,2211.38,Deposit,Failed,2025-04-02 22:08:17.578444
+T126094,Branch 5,Delhi,1511.51,Failed,Failed,2025-04-07 17:26:55.378443
+T275485,Branch 5,Delhi,3206.17,Deposit,Failed,2025-04-01 14:21:49.919783
+T578064,Branch 5,Delhi,854.85,Transfer,Failed,2025-04-07 16:30:03.404541
+T256971,Branch 5,Delhi,4224.16,Deposit,Success,2025-04-03 01:43:35.582883
+,Branch 5,Delhi,2266.78,Failed,Failed,2025-04-03 08:10:02.571345
+T634386,Branch 5,Delhi,2682.74,Failed,Failed,2025-04-05 04:21:00.357820
+T277400,,Delhi,276.67,Withdrawal,Success,2025-04-06 05:54:08.204443
+T274460,Branch 5,Delhi,2133.06,Transfer,Success,2025-04-03 02:40:19.526798
+T199043,Branch 5,Delhi,2987.74,Withdrawal,Failed,2025-04-04 12:18:16.271662
+,,Delhi,2481.25,Failed,Success,2025-04-03 11:04:10.577573
+T310816,Branch 5,Delhi,2849.07,Deposit,Failed,
+T643237,Branch 5,Delhi,814.88,Deposit,Failed,2025-04-06 17:43:12.513641
+T196264,Branch 5,Delhi,3446.52,Transfer,Failed,
+T544094,Branch 5,Delhi,4475.81,Failed,Failed,2025-04-05 09:04:23.367025
+T425889,Branch 5,Delhi,3426.88,Withdrawal,Failed,2025-04-05 04:10:07.150902
+T627885,Branch 5,Delhi,4285.77,Withdrawal,Success,2025-04-01 09:41:01.808739
+T969129,Branch 5,Delhi,4245.36,Withdrawal,Success,2025-04-04 18:32:15.721021
+T265659,Branch 5,Delhi,4579.57,Deposit,Success,2025-04-03 14:52:56.149960
+T640305,Branch 5,Delhi,2083.66,Transfer,Failed,2025-04-05 12:16:32.215256
+T614035,Branch 5,Delhi,4727.52,Deposit,Success,2025-04-05 05:27:51.305604
+T966706,Branch 5,Delhi,,Withdrawal,Success,2025-04-05 12:18:28.302510
+T139852,Branch 5,Delhi,4953.76,Transfer,Failed,2025-04-03 13:21:21.888606
+T993632,Branch 5,Delhi,4173.46,Deposit,Success,2025-04-04 13:13:33.909275
+T620634,Branch 5,Delhi,,Transfer,Failed,2025-04-06 21:09:17.364620
+T184576,Branch 5,Delhi,4343.05,Deposit,Failed,2025-04-01 18:05:36.207508
+T878191,Branch 5,Delhi,1899.58,,Failed,2025-04-03 21:14:08.225645
+T478781,Branch 5,Delhi,3899.39,Failed,Failed,
+T166365,Branch 5,Delhi,140.4,Deposit,,2025-04-04 04:15:43.824455
+T246976,Branch 5,Delhi,3597.29,Deposit,Failed,2025-04-07 05:09:02.856786
+T756651,Branch 5,Delhi,3858.4,Failed,Failed,2025-04-05 02:16:22.202979
+T141016,Branch 5,Delhi,3329.38,,Success,2025-04-03 18:12:20.141843
+T867809,Branch 5,Delhi,4663.03,Deposit,Failed,2025-04-03 21:59:54.251055
+,Branch 5,Delhi,1749.48,Deposit,Success,2025-04-06 15:55:33.897091
+,Branch 5,Delhi,915.84,Withdrawal,Success,2025-04-06 22:15:14.358186
+T534708,Branch 5,Delhi,4384.41,Failed,Failed,2025-04-06 16:29:05.736599
+T692426,Branch 5,Delhi,2046.06,Failed,Failed,2025-04-05 11:30:37.969843
+T116574,Branch 5,Delhi,1483.08,Transfer,Failed,2025-04-01 18:46:10.567554
+T336790,Branch 5,Delhi,2641.15,Transfer,Success,2025-04-01 16:07:21.321603
+T887285,Branch 5,Delhi,166.81,Deposit,Success,2025-04-07 17:24:57.946093
+T971375,,Delhi,4294.87,Withdrawal,Failed,2025-04-01 00:22:53.825761
+T230558,Branch 5,Delhi,252.01,Deposit,Success,2025-04-05 16:42:59.897218
+,Branch 5,Delhi,2890.6,,Failed,2025-04-06 03:10:03.162932
+T409384,Branch 5,Delhi,2047.97,Failed,Failed,2025-04-01 01:42:50.417026
+T360803,Branch 5,Delhi,,Failed,,2025-04-04 11:34:47.583705
+T215303,Branch 5,Delhi,3989.53,Failed,Success,2025-04-06 17:34:09.981025
+T132058,Branch 5,Delhi,4925.08,Failed,Success,2025-04-05 10:12:30.244123
+T852920,Branch 5,Delhi,2676.59,Deposit,Success,2025-04-07 05:49:50.650355
+T146291,Branch 5,Delhi,,Withdrawal,Failed,2025-04-04 17:04:59.422150
+T460623,Branch 5,Delhi,419.62,Transfer,Success,2025-04-05 15:37:20.588952
+T946242,Branch 5,Delhi,4182.39,Transfer,Failed,2025-04-07 02:45:36.312356
+,Branch 5,Delhi,3959.9,Transfer,Failed,2025-04-03 23:49:17.588447
+T875785,Branch 5,Delhi,4401.93,Transfer,Failed,2025-04-06 21:09:06.380821
+,Branch 5,Delhi,4115.96,Withdrawal,Failed,2025-04-03 21:00:40.347939
+T163424,Branch 5,Delhi,1322.86,Deposit,Success,2025-04-04 11:21:30.556290
+T344403,,Delhi,4399.25,Withdrawal,Failed,2025-04-04 18:36:49.222999
+T104570,Branch 5,Delhi,4176.46,Withdrawal,Success,2025-04-02 04:04:08.701984
+T603962,Branch 5,Delhi,,Withdrawal,Success,2025-04-04 03:33:10.469218
+T772751,Branch 5,Delhi,,Failed,Failed,2025-04-02 09:37:53.687466
+T559752,Branch 5,Delhi,,Withdrawal,Success,2025-04-04 19:51:52.894794
+T543090,Branch 5,Delhi,2581.73,Failed,Failed,
+T401631,Branch 5,Delhi,2445.31,Failed,Failed,
+T372752,Branch 5,Delhi,1411.36,Failed,Success,2025-04-03 05:53:10.626674
+T542237,Branch 5,Delhi,4599.21,Deposit,Success,2025-04-03 16:01:33.106681
+T190216,Branch 5,Delhi,2831.67,,Success,2025-04-07 01:11:25.687798
+T286724,Branch 5,Delhi,4963.01,Transfer,Failed,2025-04-07 04:46:00.326553
+,Branch 5,Delhi,341.92,Deposit,Success,2025-04-04 17:32:04.175617
+T647700,Branch 5,Delhi,3361.71,Deposit,Success,2025-04-01 20:58:59.525899
+T156524,Branch 5,Delhi,485.94,Deposit,Failed,2025-04-04 07:45:58.960786
+T514367,Branch 5,Delhi,540.45,Deposit,Failed,
+,Branch 5,Delhi,389.58,Transfer,,2025-04-05 15:32:39.354554
+T717650,Branch 5,Delhi,155.4,Withdrawal,Failed,2025-04-01 15:12:58.685435
+T749214,Branch 5,Delhi,4720.25,Transfer,Failed,2025-04-03 15:02:16.609499
+T215307,Branch 5,Delhi,4236.44,,Failed,2025-04-03 22:37:30.889975
+T690210,Branch 5,Delhi,,Withdrawal,Success,2025-04-03 13:15:14.675160
+,Branch 5,Delhi,1949.07,Withdrawal,,2025-04-07 15:59:10.488283
+T233456,Branch 5,Delhi,363.14,Transfer,Success,2025-04-02 11:29:16.033107
+T486862,Branch 5,Delhi,1482.48,Deposit,Success,2025-04-07 21:53:19.093343
+T496111,Branch 5,Delhi,1657.17,Failed,Success,2025-04-04 15:14:34.361907
+T684581,Branch 5,Delhi,4439.54,Withdrawal,Failed,2025-04-07 09:18:43.916575
+T653036,Branch 5,Delhi,3354.14,Deposit,Failed,
+,Branch 5,Delhi,3598.26,Transfer,Failed,2025-04-04 04:09:34.499567
+T153012,Branch 5,Delhi,,Transfer,Failed,2025-04-05 12:25:34.719959
+T892368,Branch 5,Delhi,3897.81,Failed,Success,2025-04-03 20:45:11.210352
+T951276,Branch 5,Delhi,2784.72,Failed,Success,2025-04-06 08:14:02.101347
+T997363,Branch 5,Delhi,2158.04,Withdrawal,Failed,2025-04-03 21:31:11.615590
+T179216,Branch 5,Delhi,1168.28,Failed,Success,2025-04-07 02:31:25.890945
+T201373,Branch 5,Delhi,2233.25,Withdrawal,Success,2025-04-04 16:35:37.300893
+T213622,Branch 5,Delhi,3610.35,Failed,Failed,2025-04-02 21:26:36.203604
+T376371,Branch 5,Delhi,2190.27,Withdrawal,Success,2025-04-03 06:53:10.929906
+T560256,Branch 5,Delhi,,Failed,Success,2025-04-01 08:25:29.711021
+T806597,Branch 5,Delhi,4184.24,Deposit,Failed,2025-04-03 10:51:43.970622
+T851164,Branch 5,Delhi,4261.06,Transfer,Failed,2025-04-02 12:25:42.942116
+T771131,Branch 5,Delhi,4385.9,,Failed,2025-04-06 13:13:58.643644
+T711841,Branch 5,Delhi,2252.61,Failed,Failed,2025-04-05 20:10:21.626065
+T133757,Branch 5,Delhi,3386.39,Failed,Success,2025-04-03 01:11:21.176297
+T224708,Branch 5,Delhi,3494.28,Transfer,Failed,2025-04-05 07:57:13.553582
+T821308,Branch 5,Delhi,4950.9,Withdrawal,Failed,2025-04-02 09:04:28.335584
+T476556,Branch 5,Delhi,1725.92,Deposit,Failed,2025-04-07 07:38:31.342350
+T876727,,Delhi,2711.0,Transfer,Failed,2025-04-04 19:22:37.242505
+T402301,Branch 5,Delhi,3365.36,Transfer,Success,2025-04-06 12:58:18.382300
+T962452,Branch 5,Delhi,1772.16,Deposit,Success,2025-04-06 11:00:15.819855
+T549193,Branch 5,Delhi,2583.11,Transfer,Failed,2025-04-04 17:19:14.632604
+T943968,Branch 5,Delhi,4381.79,Deposit,Success,2025-04-03 04:07:58.463858
+T152029,Branch 5,Delhi,,Deposit,Failed,2025-04-01 23:10:48.110408
+T273785,Branch 5,Delhi,4739.28,,Failed,2025-04-03 18:10:35.581060
+T418641,Branch 5,Delhi,1424.42,Failed,Failed,2025-04-04 13:45:25.494088
+T565942,Branch 5,Delhi,4029.26,Deposit,Success,2025-04-03 14:54:15.907634
+T652215,Branch 5,,4220.08,Transfer,Failed,2025-04-02 10:24:07.031498
+T441365,Branch 5,Delhi,,Withdrawal,Success,2025-04-01 03:47:39.044786
+T186426,Branch 5,Delhi,1602.12,Deposit,Success,2025-04-04 13:51:04.743330
+T762503,Branch 5,Delhi,1092.02,Withdrawal,Success,
+T600052,Branch 5,Delhi,,Transfer,Success,2025-04-05 16:41:27.859710
+T242126,Branch 5,Delhi,710.12,Deposit,Success,2025-04-01 05:55:11.978121
+T112401,Branch 5,Delhi,420.28,Transfer,Failed,2025-04-01 08:10:07.257324
+T964582,Branch 5,Delhi,2186.97,,Failed,2025-04-05 03:43:46.399837
+T906804,Branch 5,Delhi,3881.72,Deposit,Failed,2025-04-04 16:37:24.951864
+T203580,Branch 5,Delhi,206.16,Failed,Success,2025-04-02 21:39:00.005392
+T814741,,Delhi,1207.9,Transfer,Failed,2025-04-04 02:43:28.656352
+T728371,Branch 5,Delhi,359.9,Transfer,Success,2025-04-04 07:33:15.473342
+T963858,Branch 5,Delhi,4129.1,Transfer,Failed,2025-04-07 19:34:32.035984
+T318291,Branch 5,Delhi,1902.95,,Success,2025-04-04 13:17:15.495159
+T335264,Branch 5,Delhi,1629.03,Transfer,Success,2025-04-07 10:16:06.062858
+,Branch 5,Delhi,4374.07,Transfer,Success,2025-04-05 18:56:01.246465
+T509737,Branch 5,Delhi,578.18,Withdrawal,Failed,2025-04-07 11:21:16.738144
+T314488,Branch 5,Delhi,3816.5,Failed,Success,2025-04-04 21:15:22.727703
+T219514,Branch 5,Delhi,3507.06,Failed,Failed,2025-04-03 11:59:46.154536
+T428640,Branch 5,Delhi,4234.13,Failed,Failed,2025-04-07 02:05:20.759036
+T721442,Branch 5,Delhi,315.68,Withdrawal,Failed,2025-04-05 12:05:03.041348
+T422928,Branch 5,Delhi,2324.67,Deposit,Success,2025-04-04 00:09:03.362723
+T684558,Branch 5,Delhi,1954.81,Failed,Success,2025-04-01 15:24:34.670778
+T213244,Branch 5,Delhi,4226.41,,Success,2025-04-01 12:06:07.245826
+T120056,Branch 5,Delhi,3808.61,Deposit,Success,2025-04-03 13:23:22.830796
+T445854,Branch 5,Delhi,340.15,Transfer,Success,2025-04-01 18:51:07.408225
+T672794,Branch 5,Delhi,600.93,Deposit,Failed,2025-04-04 13:27:09.052451
+T255951,Branch 5,Delhi,637.48,Deposit,Failed,2025-04-01 04:27:35.798775
+T734431,Branch 5,Delhi,3561.21,Transfer,Failed,2025-04-02 03:22:35.273016
+T165710,Branch 5,Delhi,718.2,Deposit,Failed,
+T229997,Branch 5,Delhi,3147.39,,Failed,2025-04-01 12:36:56.581064
+T504624,Branch 5,Delhi,414.67,Transfer,Failed,2025-04-03 23:06:31.129475
+T699340,Branch 5,Delhi,2408.82,Withdrawal,Success,2025-04-07 15:29:28.203038
+T630500,Branch 5,Delhi,4529.91,Deposit,Failed,2025-04-05 11:42:08.155541
+T748681,Branch 5,Delhi,1670.66,Withdrawal,Success,2025-04-01 16:39:33.444770
+T647636,Branch 5,Delhi,3404.77,Withdrawal,Failed,2025-04-01 19:50:49.785634
+T435518,Branch 5,Delhi,1817.54,Transfer,Success,2025-04-07 15:06:36.078224
+T733484,,Delhi,,Failed,Failed,2025-04-02 13:28:14.846877
+,Branch 5,Delhi,2695.94,Failed,Success,2025-04-04 01:59:48.820238
+T752332,Branch 5,Delhi,4943.02,Transfer,Success,2025-04-07 05:27:19.168999
+T872308,Branch 5,Delhi,2761.53,Deposit,Failed,2025-04-04 11:01:55.968344
+T258749,Branch 5,Delhi,1619.39,Failed,Failed,
+T952483,Branch 5,Delhi,4430.18,Withdrawal,Failed,2025-04-05 18:46:37.670793
+T103502,Branch 5,Delhi,1894.24,Deposit,Success,2025-04-03 12:30:43.950878
+T243255,Branch 5,Delhi,2655.71,Transfer,Success,2025-04-03 22:54:03.877921
+T236045,Branch 5,Delhi,2947.9,Withdrawal,Success,2025-04-04 08:21:54.051508
+,Branch 5,,3561.37,,,2025-04-01 10:38:15.256745
+T240235,Branch 5,Delhi,4246.37,Deposit,,2025-04-05 13:06:07.905466
+T603919,Branch 5,Delhi,3857.1,Transfer,,
+T343417,Branch 5,Delhi,1288.3,Deposit,Success,2025-04-02 04:03:22.389461
+T172198,Branch 5,Delhi,1524.45,Withdrawal,Failed,2025-04-01 19:41:08.862493
+T739500,Branch 5,Delhi,208.85,Failed,Failed,2025-04-01 05:15:35.037371
+T832561,Branch 5,Delhi,3408.07,Deposit,Failed,2025-04-04 12:11:52.630621
+T989325,Branch 5,Delhi,1519.88,Failed,,2025-04-07 16:47:25.197480
+T572166,Branch 5,,4002.23,Deposit,,2025-04-03 00:37:05.128977
+T739393,Branch 5,Delhi,801.57,Deposit,Failed,2025-04-05 18:58:48.796574
+T354854,Branch 5,Delhi,,Deposit,Success,2025-04-04 23:50:11.924262
+T104526,Branch 5,Delhi,2073.47,Failed,Failed,2025-04-01 13:49:48.858328
+T255506,Branch 5,Delhi,,Failed,Failed,2025-04-05 18:56:24.062798
+T613301,,Delhi,4211.51,Deposit,Failed,2025-04-02 20:54:02.827501
+T989486,Branch 5,Delhi,283.81,Withdrawal,Success,2025-04-01 20:57:31.595818
+T164999,Branch 5,Delhi,995.9,Withdrawal,Failed,2025-04-03 17:58:31.648359
+T231010,Branch 5,Delhi,4256.99,Failed,Failed,2025-04-01 23:25:39.453350
+T341774,Branch 5,Delhi,384.58,Deposit,Success,2025-04-06 20:31:27.853926
+T133825,Branch 5,Delhi,1817.41,Failed,Failed,2025-04-04 11:01:07.210227
+T885977,Branch 5,Delhi,,Transfer,Failed,2025-04-06 01:44:42.394363
+T521393,,Delhi,,Failed,Failed,2025-04-07 20:46:15.799772
+T736649,Branch 5,Delhi,156.51,Failed,Success,2025-04-02 02:01:57.228214
+,Branch 5,Delhi,3061.13,,Failed,2025-04-04 12:30:53.698266
+T996443,Branch 5,Delhi,1649.62,,Success,2025-04-01 18:00:31.000551
+T471166,Branch 5,Delhi,309.85,Transfer,Success,2025-04-05 07:27:45.435289
+T811520,Branch 5,Delhi,4625.27,Withdrawal,,
+T498457,Branch 5,Delhi,2939.13,Failed,Success,2025-04-07 20:26:12.736273
+T845145,Branch 5,Delhi,1416.19,Deposit,Failed,2025-04-01 22:26:31.504098
+T220409,,Delhi,4282.58,Withdrawal,Failed,
+T295528,Branch 5,Delhi,3060.29,Transfer,Failed,2025-04-04 08:43:47.193756
+T417917,Branch 5,Delhi,2973.77,,Failed,2025-04-05 03:20:26.984862
+T680832,Branch 5,Delhi,1888.98,Transfer,Failed,2025-04-01 17:50:26.369038
+T816863,Branch 5,Delhi,4203.95,Transfer,Success,2025-04-03 02:43:39.570844
+T547803,Branch 5,Delhi,4005.22,Transfer,Success,2025-04-06 14:32:59.696872
+T587024,Branch 5,Delhi,1570.89,Transfer,Failed,2025-04-07 08:28:13.689218
+T731094,Branch 5,Delhi,4332.82,Failed,Failed,2025-04-07 14:35:36.851166
+T931451,Branch 5,Delhi,190.66,,Failed,2025-04-02 08:43:21.813221
+,,Delhi,4662.83,Failed,Failed,2025-04-04 00:41:29.726790
+,Branch 5,Delhi,807.17,Transfer,Success,2025-04-04 09:12:42.243047
+T223604,Branch 5,Delhi,847.93,Deposit,Failed,2025-04-03 22:01:34.666285
+T500313,Branch 5,Delhi,3967.99,Withdrawal,Failed,2025-04-05 23:00:32.373715
+T159725,Branch 5,Delhi,1268.86,Transfer,,2025-04-02 21:48:52.449883
+T146260,Branch 5,Delhi,3857.86,Failed,Failed,2025-04-01 06:21:14.403451
+T396331,Branch 5,Delhi,2499.63,Transfer,Failed,2025-04-01 07:02:29.042668
+T748048,,Delhi,3233.82,Failed,Failed,2025-04-02 09:21:10.500574
+T969468,Branch 5,Delhi,929.37,Transfer,Failed,2025-04-03 22:55:03.601354
+T485785,Branch 5,Delhi,4556.72,Deposit,Failed,2025-04-07 18:36:24.859013
+T561276,Branch 5,Delhi,4274.73,Withdrawal,Failed,2025-04-03 07:50:21.092695
+T506400,Branch 5,Delhi,3085.14,,Failed,
+T671736,,Delhi,2357.93,Deposit,Success,2025-04-07 16:33:20.698610
+T324502,Branch 5,Delhi,1104.19,Deposit,Failed,2025-04-01 23:43:04.463010
+T872480,Branch 5,Delhi,4190.09,Deposit,Success,2025-04-01 23:06:40.694865
+T584278,Branch 5,Delhi,2431.57,Deposit,Failed,2025-04-03 05:52:00.872755
+T641135,Branch 5,Delhi,4381.61,Withdrawal,Success,2025-04-07 07:31:06.902432
+T565637,Branch 5,Delhi,4327.87,Failed,Success,
+T109429,Branch 5,Delhi,1272.78,Deposit,Failed,2025-04-04 14:15:06.711427
+T901434,Branch 5,Delhi,2331.72,Transfer,Success,2025-04-01 14:14:18.677295
+,Branch 5,Delhi,4735.68,Failed,Failed,2025-04-06 01:48:59.200794
+T606814,Branch 5,Delhi,4190.8,Transfer,Success,2025-04-05 16:49:29.387002
+T352578,Branch 5,Delhi,2482.04,Deposit,,
+T559809,Branch 5,Delhi,,Deposit,Failed,2025-04-01 01:43:55.631972
+T586721,Branch 5,Delhi,3912.5,Deposit,Success,2025-04-02 07:59:32.188782
+T136984,Branch 5,Delhi,4809.18,Transfer,Success,
+T786210,Branch 5,Delhi,3195.43,Deposit,Success,2025-04-01 15:13:39.573982
+,Branch 5,Delhi,115.79,Deposit,Success,2025-04-03 06:01:55.254437
+T186129,Branch 5,Delhi,,Deposit,Failed,2025-04-01 16:46:33.056723
+T539929,Branch 5,Delhi,1940.98,Withdrawal,Success,2025-04-01 13:28:35.812951
+T931870,Branch 5,Delhi,1357.78,Deposit,Failed,2025-04-07 16:39:24.211541
+T417280,Branch 5,Delhi,1432.78,,Success,2025-04-04 13:44:19.667763
+T429904,Branch 5,Delhi,1613.58,Withdrawal,Failed,2025-04-01 10:51:05.008815
+T660934,Branch 5,Delhi,4627.25,Withdrawal,Failed,2025-04-03 09:49:23.462971
+T247359,Branch 5,Delhi,4353.2,Failed,Failed,2025-04-04 19:04:45.203379
+T354490,Branch 5,Delhi,4907.75,Withdrawal,Success,2025-04-02 09:11:19.014978
+T266003,Branch 5,Delhi,1206.27,Transfer,Success,2025-04-04 11:52:33.699779
+T521345,Branch 5,Delhi,1712.93,Withdrawal,Failed,2025-04-04 05:29:13.048087
+T777207,,Delhi,2043.09,,Failed,2025-04-05 06:53:07.583424
+T351495,Branch 5,Delhi,1423.66,Failed,Failed,2025-04-02 11:09:56.723629
+T973605,Branch 5,Delhi,4738.66,Deposit,Failed,2025-04-04 06:43:28.601217
+,,Delhi,353.14,Withdrawal,Success,2025-04-01 06:56:23.587895
+T718095,Branch 5,Delhi,910.68,Withdrawal,Failed,2025-04-05 18:09:26.932634
+T623174,Branch 5,Delhi,105.07,,Success,2025-04-06 18:03:35.185153
+T737833,,Delhi,2167.13,Withdrawal,Failed,2025-04-03 21:34:17.484986
+,Branch 5,Delhi,,Withdrawal,Success,2025-04-03 20:56:45.539388
+T520544,Branch 5,Delhi,2787.44,Deposit,Failed,2025-04-06 18:05:12.778354
+T588320,Branch 5,Delhi,4102.85,Transfer,Success,2025-04-06 00:48:44.264157
+T464844,Branch 5,Delhi,,Withdrawal,Failed,2025-04-02 10:51:23.204829
+T812503,Branch 5,Delhi,4594.16,Withdrawal,Success,2025-04-06 07:59:58.036408
+T869313,Branch 5,Delhi,1113.78,Withdrawal,Failed,2025-04-06 01:14:26.237349
+T114752,Branch 5,Delhi,4141.06,Failed,Success,2025-04-04 10:15:21.013922
+T629922,Branch 5,Delhi,4438.3,,Success,2025-04-06 19:56:19.462686
+T111722,Branch 5,Delhi,,Withdrawal,Failed,2025-04-03 17:36:11.082461
+T667826,Branch 5,Delhi,2031.74,Withdrawal,Failed,2025-04-06 17:59:36.366009
+T328788,Branch 5,Delhi,908.69,Deposit,Failed,2025-04-01 09:13:36.163233
+,Branch 5,Delhi,1680.26,Withdrawal,Failed,2025-04-05 21:29:12.024252
+T512742,Branch 5,Delhi,,Deposit,Failed,2025-04-03 21:59:31.983058
+T525803,Branch 5,Delhi,4684.35,Failed,Success,2025-04-07 00:13:47.664018
+T686466,Branch 5,Delhi,3222.85,Transfer,Failed,2025-04-06 11:33:06.087126
+T916375,Branch 5,Delhi,152.88,Deposit,Failed,2025-04-05 12:37:34.825781
+T422269,Branch 5,Delhi,3817.34,,Failed,2025-04-04 15:44:28.598455
+T961447,Branch 5,Delhi,1317.21,Deposit,Failed,2025-04-05 16:26:13.700409
+T641302,Branch 5,Delhi,412.91,Transfer,Failed,2025-04-05 04:56:49.540184
+T154196,Branch 5,Delhi,,Deposit,Success,2025-04-07 04:53:10.457314
+T148778,Branch 5,Delhi,1241.03,Transfer,Success,2025-04-05 22:09:24.102155
+T636942,Branch 5,Delhi,739.87,Failed,Failed,2025-04-07 04:56:57.740075
+T868488,Branch 5,Delhi,4805.02,Withdrawal,Failed,
+T635370,Branch 5,Delhi,4609.26,Transfer,Success,2025-04-06 11:17:57.677155
+T561154,,Delhi,186.12,Transfer,Success,2025-04-04 19:54:56.481888
+T196509,Branch 5,Delhi,4228.59,Withdrawal,Failed,2025-04-03 05:04:17.618152
+T425181,Branch 5,Delhi,3490.26,Transfer,Success,2025-04-06 04:18:29.257416
+,Branch 5,Delhi,2133.4,Withdrawal,Failed,2025-04-05 21:46:49.095467
+T454986,Branch 5,Delhi,2110.5,Transfer,Failed,2025-04-02 22:21:11.540429
+T325288,Branch 5,Delhi,2016.0,,Success,2025-04-07 10:12:39.425379
+T277416,Branch 5,Delhi,3329.21,Deposit,Failed,2025-04-06 23:29:47.889451
+T450142,Branch 5,Delhi,3140.4,Deposit,Failed,2025-04-04 06:04:03.744382
+T446353,Branch 5,Delhi,2689.09,,Success,2025-04-03 19:32:58.568738
+T783076,Branch 5,Delhi,422.89,Withdrawal,Failed,2025-04-04 19:48:11.172419
+T101615,Branch 5,Delhi,689.75,Deposit,Failed,2025-04-02 04:58:50.348519
+T621599,Branch 5,Delhi,4237.94,,Success,2025-04-02 11:03:09.679189
+T655880,Branch 5,Delhi,3066.2,Transfer,Success,2025-04-07 07:57:13.050572
+T156295,Branch 5,Delhi,2673.27,Withdrawal,Success,2025-04-04 06:56:35.832906
+T166510,Branch 5,Delhi,4132.99,Withdrawal,,2025-04-02 11:29:18.082513
+,Branch 5,Delhi,4267.87,Failed,Failed,2025-04-02 02:15:16.097539
+T681637,,Delhi,,,Failed,2025-04-06 02:22:24.820532
+T196240,Branch 5,Delhi,2452.86,Failed,Success,2025-04-05 18:09:34.388477
+T262960,Branch 5,Delhi,1556.02,Deposit,Success,2025-04-06 19:42:42.922362
+T238935,Branch 5,Delhi,1068.55,Deposit,Failed,2025-04-02 16:29:23.128513
+T377566,Branch 5,Delhi,4351.57,Withdrawal,Success,2025-04-05 22:36:33.023442
+T840335,Branch 5,Delhi,1317.98,Withdrawal,Success,2025-04-07 02:01:48.463780
+,Branch 5,Delhi,1495.28,Transfer,Failed,2025-04-06 02:33:00.055169
+T495040,Branch 5,Delhi,1681.72,Transfer,Success,2025-04-07 06:05:08.016355
+T515629,Branch 5,Delhi,4347.34,Deposit,Success,2025-04-04 03:17:06.357260
+,Branch 5,Delhi,420.72,Transfer,Failed,2025-04-05 14:37:00.293056
+T720872,Branch 5,Delhi,2220.78,Failed,Failed,2025-04-03 08:58:32.973991
+T470618,Branch 5,Delhi,2809.59,Withdrawal,Success,2025-04-03 13:23:41.981275
+T370208,Branch 5,Delhi,3756.06,Transfer,Success,2025-04-02 18:32:54.497801
+T999911,Branch 5,Delhi,4874.12,Withdrawal,Failed,2025-04-07 06:31:18.444066
+T240464,Branch 5,Delhi,380.85,Failed,Success,2025-04-04 19:39:08.189750
+T134498,Branch 5,Delhi,4161.69,Failed,Failed,2025-04-02 19:32:17.870681
+T936580,Branch 5,Delhi,933.46,,Success,2025-04-05 23:16:15.406590
+T318356,Branch 5,Delhi,3319.55,Failed,,2025-04-07 08:07:41.715534
+T335337,Branch 5,Delhi,,,Failed,2025-04-06 00:26:37.783809
+T825505,Branch 5,Delhi,4848.36,Failed,Failed,2025-04-07 21:25:09.081375
+T435164,Branch 5,Delhi,,Failed,Failed,
+T907928,Branch 5,Delhi,,Failed,Success,2025-04-02 21:07:17.741430
+T875633,,Delhi,3459.27,Failed,Success,2025-04-06 23:40:56.168487
+T595207,Branch 5,Delhi,4398.88,Deposit,Success,2025-04-02 02:31:44.357197
+T972642,Branch 5,Delhi,2730.13,Deposit,Failed,2025-04-02 04:12:53.797094
+T674038,Branch 5,Delhi,3052.74,Transfer,Failed,2025-04-07 21:01:12.775069
+T718984,Branch 5,Delhi,3100.6,Deposit,Success,2025-04-04 21:14:02.141479
+T854517,Branch 5,Delhi,4628.1,Transfer,Failed,2025-04-06 03:51:27.925265
+T943017,Branch 5,Delhi,3633.68,,Success,2025-04-04 06:41:08.359066
+T240143,Branch 5,Delhi,4637.02,Transfer,Success,2025-04-02 04:48:13.612841
+T467642,Branch 5,Delhi,1031.0,Deposit,Success,2025-04-03 12:51:41.361544
+T229677,Branch 5,Delhi,3694.41,Deposit,Failed,2025-04-02 07:11:28.383334
+T144114,Branch 5,Delhi,,Withdrawal,Success,2025-04-06 10:10:37.868187
+T572001,Branch 5,Delhi,379.84,Transfer,Success,2025-04-02 10:59:42.686543
+,Branch 5,Delhi,1130.7,Deposit,Failed,2025-04-03 00:20:24.417035
+T907346,Branch 5,Delhi,279.96,Withdrawal,Success,2025-04-04 19:18:04.116994
+,Branch 5,Delhi,3605.09,Withdrawal,Success,2025-04-03 19:17:35.791354
+,Branch 5,Delhi,,Withdrawal,Success,2025-04-07 16:24:37.504690
+T617566,Branch 5,Delhi,2577.38,Transfer,Success,2025-04-02 17:57:02.474225
+T754529,Branch 5,Delhi,2341.38,Withdrawal,,2025-04-02 06:41:30.438166
+T745747,Branch 5,Delhi,415.45,Deposit,Success,2025-04-07 12:19:35.755902
+,Branch 5,Delhi,2157.78,Transfer,Success,2025-04-03 19:54:49.144284
+T931679,Branch 5,Delhi,4673.43,Failed,Success,2025-04-02 15:31:18.090572
+T396364,Branch 5,Delhi,2103.99,Failed,Success,2025-04-07 21:33:18.802797
+T153030,Branch 5,Delhi,4846.87,Withdrawal,Success,2025-04-04 03:23:45.293747
+T309721,Branch 5,Delhi,1445.65,Failed,Success,2025-04-03 06:54:24.056793
+T940064,,Delhi,2285.31,Transfer,Failed,2025-04-04 00:06:49.585184
+T750343,Branch 5,Delhi,3366.76,Failed,Success,2025-04-06 00:14:14.355919
+T492792,Branch 5,Delhi,685.6,Failed,Success,2025-04-04 01:54:01.572451
+T951001,Branch 5,Delhi,3538.26,Deposit,Success,2025-04-03 18:25:51.283741
+T550964,Branch 5,Delhi,1447.76,Withdrawal,Success,2025-04-06 18:58:53.804362
+T716183,Branch 5,Delhi,2063.99,Deposit,Failed,2025-04-02 00:18:14.951047
+T136484,Branch 5,Delhi,130.0,Failed,Failed,2025-04-03 05:06:19.891549
+T939475,Branch 5,Delhi,1908.12,Withdrawal,,
+T857396,Branch 5,,2206.73,Deposit,Success,2025-04-01 14:51:21.632023
+T960012,Branch 5,Delhi,4907.4,Transfer,Failed,2025-04-02 12:24:35.791721
+T258801,Branch 5,Delhi,4179.53,Withdrawal,Success,2025-04-06 16:17:05.968285
+T318437,Branch 5,Delhi,199.04,Transfer,Failed,
+,Branch 5,Delhi,,Withdrawal,Success,2025-04-01 04:47:41.519810
+T605235,Branch 5,Delhi,3126.04,Failed,Failed,2025-04-06 12:18:40.713347
+T331006,Branch 5,Delhi,2853.86,Transfer,,2025-04-03 14:18:21.066188
+T408891,Branch 5,Delhi,3840.61,Failed,Failed,2025-04-05 19:41:28.260823
+T138317,,Delhi,4725.35,Transfer,Success,2025-04-03 17:48:04.701345
+T759632,Branch 5,,210.49,Transfer,,2025-04-07 15:06:27.482108
+,Branch 5,Delhi,3327.94,,Success,2025-04-02 08:43:19.829107
+T914019,Branch 5,Delhi,1005.12,Failed,Success,2025-04-03 01:18:04.365564
+T986076,Branch 5,Delhi,3970.95,Withdrawal,Failed,2025-04-05 03:20:01.001360
+T802035,Branch 5,Delhi,1685.34,Failed,,2025-04-01 20:37:10.058421
+,Branch 5,Delhi,1017.06,Transfer,Success,2025-04-04 01:45:10.176650
+T719289,Branch 5,Delhi,2291.55,Withdrawal,Success,2025-04-06 12:50:18.881991
+T114637,Branch 5,Delhi,1042.06,Withdrawal,Failed,2025-04-04 01:34:59.769152
+T783398,Branch 5,Delhi,3326.8,Withdrawal,Success,
+T916850,,Delhi,,Deposit,Failed,2025-04-03 10:13:41.875909
+T612671,Branch 5,Delhi,2830.09,Transfer,Success,2025-04-06 01:33:31.570781
+,Branch 5,Delhi,2889.13,,Failed,2025-04-04 03:46:15.051777
+T745822,Branch 5,Delhi,523.03,Transfer,Success,2025-04-03 07:58:42.672581
+T866666,Branch 5,Delhi,,,Failed,2025-04-02 17:06:42.351684
+T577700,Branch 5,Delhi,1633.25,Withdrawal,Success,2025-04-02 15:37:04.808865
+T103025,Branch 5,Delhi,1386.48,,Failed,
+T159161,Branch 5,Delhi,4682.38,Transfer,Success,2025-04-04 23:11:07.524996
+T103855,Branch 5,Delhi,3270.23,Failed,Failed,2025-04-07 00:01:30.670166
+T644626,Branch 5,Delhi,4889.01,Withdrawal,Failed,2025-04-04 05:04:00.649547
+,Branch 5,Delhi,4401.47,Withdrawal,Success,2025-04-07 13:01:36.878041
+T511178,Branch 5,Delhi,598.55,Withdrawal,Success,2025-04-01 01:04:18.117283
+T451473,Branch 5,Delhi,912.67,Deposit,Failed,2025-04-05 04:56:50.049149
+T149788,Branch 5,Delhi,4330.73,Deposit,Failed,2025-04-06 18:19:35.819084
+T892870,Branch 5,Delhi,3217.34,Failed,Success,2025-04-01 18:28:20.811058
+T752669,Branch 5,Delhi,2714.99,Transfer,Success,2025-04-06 19:09:02.906416
+T963837,Branch 5,Delhi,1238.31,,Success,2025-04-04 00:48:30.838461
+T771797,Branch 5,Delhi,1215.32,Deposit,Success,2025-04-04 10:26:41.952444
+T291173,Branch 5,Delhi,4217.53,Deposit,Failed,2025-04-03 14:33:53.605468
+T184735,Branch 5,Delhi,1190.6,Withdrawal,Failed,2025-04-04 21:49:28.352624
+T504506,Branch 5,Delhi,2529.02,Withdrawal,Success,2025-04-03 08:07:37.106509
+T871072,Branch 5,Delhi,4370.12,Deposit,Failed,2025-04-07 21:26:24.662638
+T528271,Branch 5,,3575.25,Transfer,Success,
+T919874,Branch 5,Delhi,1684.8,Transfer,Failed,2025-04-01 14:48:12.321677
+T841511,Branch 5,Delhi,4702.13,,Failed,2025-04-02 22:37:32.565420
+T383104,Branch 5,Delhi,2481.71,Deposit,Success,2025-04-03 13:03:28.646991
+,Branch 5,Delhi,,Failed,Failed,2025-04-04 09:16:54.532833
+T659833,Branch 5,Delhi,751.87,Transfer,Failed,2025-04-07 03:19:29.845170
+T545898,Branch 5,Delhi,1074.18,Transfer,Failed,2025-04-02 13:39:08.659427
+T214219,Branch 5,Delhi,4883.71,Deposit,Failed,2025-04-06 06:19:30.369723
+T701138,Branch 5,,1038.7,Transfer,Failed,2025-04-02 18:44:53.074168
+,Branch 5,Delhi,1510.16,Transfer,Success,2025-04-07 22:29:45.144895
+T639486,Branch 5,Delhi,1403.95,Withdrawal,Failed,2025-04-06 06:53:32.849417
+T644300,Branch 5,Delhi,4021.93,Failed,Failed,2025-04-03 06:01:09.071819
+,Branch 5,Delhi,,,Failed,2025-04-07 10:44:43.887356
+T691080,Branch 5,Delhi,3978.78,Transfer,Failed,2025-04-07 07:52:10.757339
+T725979,Branch 5,Delhi,3399.95,Deposit,Success,2025-04-02 09:17:11.162641
+T652038,Branch 5,Delhi,3013.59,Failed,Success,2025-04-07 06:56:29.628490
+T984183,,Delhi,116.77,Deposit,Failed,2025-04-03 10:17:39.333588
+T866607,Branch 5,Delhi,3526.16,Transfer,Failed,2025-04-06 10:47:21.582092
+T721162,,Delhi,525.46,Withdrawal,Success,2025-04-02 09:15:25.059288
+T531385,Branch 5,Delhi,2572.56,Failed,Failed,2025-04-04 19:10:29.226200
+T982631,Branch 5,Delhi,3197.36,Transfer,Failed,2025-04-01 03:01:36.535335
+T352272,Branch 5,Delhi,3945.51,Transfer,Failed,2025-04-02 01:47:13.583170
+T845674,Branch 5,Delhi,3779.49,Transfer,Failed,2025-04-01 04:17:10.457665
+T378968,Branch 5,Delhi,215.57,Failed,Failed,2025-04-06 21:58:35.330441
+T811656,Branch 5,Delhi,370.36,Deposit,Success,2025-04-04 20:18:33.541342
+T198564,Branch 5,Delhi,2538.1,Failed,Failed,2025-04-04 17:14:25.225919
+T297700,Branch 5,Delhi,3384.74,Deposit,Success,2025-04-03 03:53:02.962881
+T942230,Branch 5,Delhi,3032.63,Failed,Success,2025-04-05 21:28:10.562816
+T492617,Branch 5,Delhi,1771.73,,Failed,2025-04-03 01:32:20.053064
+T746732,Branch 5,Delhi,1565.77,Withdrawal,Failed,
+T624062,Branch 5,Delhi,3399.87,,Success,2025-04-01 04:54:01.897650
+T748067,Branch 5,Delhi,543.48,Withdrawal,Failed,2025-04-07 22:40:09.298491
+T729941,Branch 5,Delhi,,Deposit,Success,2025-04-06 23:27:31.062319
+,Branch 5,,4443.98,Transfer,Failed,2025-04-01 18:54:12.770648
+T728765,Branch 5,Delhi,725.52,,Success,2025-04-07 05:04:50.157377
+T898129,Branch 5,Delhi,1919.9,,,2025-04-03 09:21:48.315520
+T242034,Branch 5,Delhi,2591.7,Transfer,Failed,2025-04-04 06:14:06.255223
+T515518,Branch 5,Delhi,956.17,Deposit,Failed,2025-04-06 03:46:17.987157
+T788801,Branch 5,Delhi,1318.91,Withdrawal,Success,
+T941431,Branch 5,Delhi,2708.82,Deposit,Success,2025-04-05 04:20:50.719487
+,Branch 5,Delhi,,Deposit,Failed,
+T908549,Branch 5,Delhi,924.28,,Failed,2025-04-07 17:15:26.844257
+T375300,Branch 5,Delhi,3017.4,Failed,Failed,2025-04-01 04:15:14.069520
+T489246,Branch 5,Delhi,1772.59,Transfer,Failed,2025-04-01 07:52:38.817614
+T364440,Branch 5,Delhi,605.96,Transfer,Failed,2025-04-02 16:09:33.403371
+T229131,Branch 5,Delhi,,,,2025-04-05 02:16:33.947873
+T612224,Branch 5,Delhi,4285.42,Withdrawal,Failed,2025-04-05 02:34:46.556713
+,Branch 5,Delhi,2652.5,Withdrawal,Success,2025-04-01 18:40:18.268882
+T236956,Branch 5,Delhi,1487.75,Transfer,Failed,2025-04-03 12:46:14.852380
+T213552,Branch 5,Delhi,,Deposit,Success,2025-04-07 07:01:39.352947
+,Branch 5,Delhi,3573.55,Transfer,Success,2025-04-02 20:54:34.764857
+T890786,Branch 5,Delhi,1767.27,Transfer,Success,2025-04-05 12:16:58.095175
+T569804,Branch 5,Delhi,1222.52,Deposit,Failed,2025-04-06 17:18:13.621890
+T432148,Branch 5,Delhi,1607.7,Deposit,Failed,2025-04-05 15:56:15.474483
+,Branch 5,Delhi,906.44,Deposit,Success,2025-04-01 16:50:53.729415
+T342170,Branch 5,Delhi,,Failed,Failed,2025-04-05 19:16:04.540110
+T790291,Branch 5,Delhi,1377.07,Transfer,Success,2025-04-04 19:06:07.040891
+,Branch 5,Delhi,1244.9,Transfer,Failed,2025-04-06 06:28:49.666835
+T452142,Branch 5,Delhi,1335.63,Transfer,Success,2025-04-06 07:49:52.889818
+T451471,Branch 5,Delhi,4595.99,Deposit,Failed,2025-04-02 08:24:17.383852
+T663209,Branch 5,Delhi,1237.65,Transfer,Failed,2025-04-05 10:56:01.406836
+T768518,Branch 5,Delhi,,Deposit,Success,2025-04-04 01:43:42.316865
+T622916,Branch 5,Delhi,2729.91,Failed,Failed,2025-04-02 20:14:39.859419
+T470958,Branch 5,Delhi,,Transfer,Success,2025-04-01 06:22:18.686959
+T629708,Branch 5,Delhi,3903.53,Withdrawal,Success,2025-04-03 09:23:44.235053
+T946790,Branch 5,Delhi,1685.94,Withdrawal,Success,2025-04-07 19:11:19.006749
+T118307,Branch 5,Delhi,2027.9,Failed,Success,2025-04-07 02:20:23.129700
+T425915,Branch 5,Delhi,684.21,,Failed,2025-04-07 10:51:01.332715
+T115717,Branch 5,Delhi,,Transfer,Failed,2025-04-03 10:06:47.539314
+T615256,Branch 5,Delhi,,Transfer,Success,2025-04-03 13:04:22.943723
+T415181,Branch 5,Delhi,2765.96,Failed,Success,2025-04-01 20:00:13.455465
+T888332,Branch 5,Delhi,1744.34,Failed,,2025-04-07 12:17:41.646264
+T589449,Branch 5,Delhi,3249.19,Transfer,Failed,2025-04-05 12:46:26.945528
+T496515,Branch 5,Delhi,3298.13,Failed,,2025-04-07 12:21:12.779397
+T685671,Branch 5,Delhi,250.11,Deposit,Success,2025-04-05 05:12:29.240873
+T352645,Branch 5,,1441.66,Transfer,Failed,2025-04-05 06:47:43.851316
+,Branch 5,Delhi,3301.25,Deposit,Success,2025-04-01 14:59:51.796272
+T634706,Branch 5,Delhi,4311.88,Withdrawal,Success,2025-04-02 12:43:46.771275
+T255700,Branch 5,Delhi,4429.64,Transfer,Success,
+T620919,Branch 5,Delhi,,Withdrawal,,2025-04-05 22:10:56.896891
+T728378,Branch 5,Delhi,3705.24,Transfer,Failed,2025-04-03 20:09:28.811122
+T173355,Branch 5,Delhi,2983.94,Withdrawal,Failed,2025-04-04 13:42:39.441031
+T401100,Branch 5,Delhi,672.63,Withdrawal,Success,2025-04-03 22:16:31.746558
+T587300,Branch 5,Delhi,810.82,Transfer,Failed,2025-04-07 10:36:13.200337
+T273787,Branch 5,Delhi,170.73,Withdrawal,Failed,2025-04-04 15:51:13.953387
+T707516,Branch 5,Delhi,1505.4,Withdrawal,Success,2025-04-02 15:21:49.881618
+T610940,Branch 5,Delhi,1531.15,Failed,Failed,2025-04-06 18:50:30.689423
+T530542,Branch 5,Delhi,,Failed,Success,2025-04-07 11:54:15.485010
+T808152,Branch 5,Delhi,1937.84,Withdrawal,Success,2025-04-01 07:11:35.113280
+T912946,Branch 5,Delhi,131.11,Failed,Success,2025-04-02 15:27:16.812041
+,Branch 5,Delhi,1186.42,Withdrawal,Success,2025-04-03 23:18:18.929600
+T190612,Branch 5,Delhi,,Transfer,Success,2025-04-04 19:02:04.876005
+T409665,Branch 5,Delhi,3791.76,,Failed,2025-04-04 16:10:41.096441
+T840440,Branch 5,Delhi,366.58,Withdrawal,Success,
+T920884,Branch 5,Delhi,864.97,Deposit,Success,2025-04-02 06:42:08.524976
+T401842,Branch 5,Delhi,2569.58,Withdrawal,Failed,2025-04-01 00:35:39.066575
+T431937,Branch 5,Delhi,2611.64,Deposit,Failed,2025-04-03 09:02:16.827023
+T785236,Branch 5,Delhi,1935.0,Transfer,Success,2025-04-07 21:30:09.995761
+T191234,Branch 5,Delhi,2079.42,Transfer,Failed,2025-04-06 08:01:30.252030
+T542186,Branch 5,Delhi,3051.81,Transfer,Failed,2025-04-01 22:09:28.064914
+T828412,Branch 5,Delhi,1173.14,,Failed,2025-04-06 18:07:44.093915
+T932805,Branch 5,Delhi,937.98,,Failed,2025-04-03 07:30:45.466615
+,Branch 5,Delhi,,,Success,2025-04-07 09:00:35.372659
+,Branch 5,Delhi,,Transfer,Success,2025-04-03 16:40:19.571538
+T192103,Branch 5,Delhi,789.6,Withdrawal,Success,2025-04-07 19:14:15.778811
+T177933,Branch 5,Delhi,257.66,Transfer,Failed,2025-04-04 09:20:54.033333
+T881563,Branch 5,Delhi,4697.52,Transfer,Success,2025-04-01 21:26:31.758047
+T287408,Branch 5,Delhi,4249.04,Deposit,Failed,2025-04-03 02:40:28.524686
+T450343,Branch 5,Delhi,3733.09,Withdrawal,Success,2025-04-07 09:30:21.300553
+T684394,Branch 5,Delhi,4722.16,,Success,2025-04-07 06:07:57.753503
+T245384,Branch 5,Delhi,992.13,Withdrawal,Failed,2025-04-04 04:31:07.425140
+T159150,Branch 5,Delhi,1570.8,Failed,Failed,2025-04-02 09:04:51.100170
+T660471,Branch 5,Delhi,2580.49,,Success,2025-04-01 19:20:50.128947
+T561045,Branch 5,Delhi,2013.86,Failed,Success,2025-04-06 06:17:29.490334
+,Branch 5,Delhi,4981.95,Failed,Success,2025-04-05 17:01:38.518922
+T820083,Branch 5,Delhi,2212.04,Failed,Failed,2025-04-02 18:02:38.789620
+T811230,Branch 5,Delhi,2460.81,Transfer,Success,
+T574065,Branch 5,Delhi,3931.55,Transfer,Success,2025-04-05 16:22:43.485199
+T266274,Branch 5,,2417.44,Deposit,Failed,2025-04-04 18:15:44.201709
+T310083,Branch 5,Delhi,2886.42,Deposit,Success,2025-04-06 05:44:55.565024
+T434589,Branch 5,Delhi,2018.14,,Success,2025-04-06 04:09:24.234296
+T127095,Branch 5,Delhi,1298.85,Withdrawal,Failed,2025-04-02 14:04:13.227733
+T146113,Branch 5,Delhi,,Transfer,Success,
+T365246,Branch 5,Delhi,629.13,Deposit,Success,2025-04-04 04:04:44.165304
+T541148,Branch 5,Delhi,2435.03,Transfer,,2025-04-03 15:40:15.465147
+T768446,Branch 5,Delhi,2184.3,Transfer,Success,2025-04-02 17:43:02.219058
+T346328,Branch 5,Delhi,573.65,Withdrawal,,2025-04-06 23:28:03.482958
+T721850,Branch 5,Delhi,,Withdrawal,Success,
+,Branch 5,Delhi,2861.37,Deposit,Failed,2025-04-01 21:21:50.888284
+T707477,Branch 5,Delhi,2449.14,,Failed,2025-04-02 20:36:06.882104
+,Branch 5,Delhi,958.89,Failed,Success,2025-04-01 23:26:47.387082
+T936769,Branch 5,Delhi,2045.93,Withdrawal,Success,2025-04-04 06:51:34.344240
+T322807,Branch 5,Delhi,359.33,Transfer,Success,2025-04-02 15:04:14.320145
+,Branch 5,Delhi,3086.25,Transfer,Failed,2025-04-05 12:43:49.881441
+T267732,Branch 5,Delhi,3186.22,Transfer,Success,
+T439918,Branch 5,Delhi,2950.02,Transfer,Success,2025-04-03 04:47:20.582024
+T476709,Branch 5,,,Deposit,Success,2025-04-03 17:39:50.832755
+T970254,,Delhi,502.26,Failed,Failed,2025-04-02 15:21:12.209308
+T519691,Branch 5,Delhi,2543.86,Withdrawal,Failed,2025-04-07 23:25:02.539371
+T938061,,Delhi,2375.14,Withdrawal,Success,2025-04-05 05:11:19.651571
+T382670,Branch 5,Delhi,1709.97,Transfer,Success,2025-04-05 04:07:25.998200
+T639588,Branch 5,Delhi,3258.75,Withdrawal,Failed,2025-04-02 01:03:49.654039
+,Branch 5,Delhi,2125.07,Failed,Success,2025-04-04 16:30:33.645429
+,Branch 5,Delhi,3164.09,,Failed,2025-04-02 12:11:40.899642
+T902227,Branch 5,Delhi,706.46,,Failed,2025-04-05 04:41:59.447208
+T187943,Branch 5,Delhi,2091.91,Failed,Failed,2025-04-06 04:14:21.959504
+T330449,,Delhi,850.88,Deposit,Success,2025-04-07 06:23:02.386060
+T565027,Branch 5,Delhi,420.3,Transfer,Success,2025-04-01 13:05:45.426999
+T420642,Branch 5,Delhi,475.87,Withdrawal,Failed,2025-04-06 00:25:25.674254
+T333220,Branch 5,Delhi,328.84,Failed,Failed,
+T641997,Branch 5,Delhi,1887.02,Deposit,Success,2025-04-05 05:16:37.089385
+T709192,Branch 5,Delhi,615.13,Deposit,Success,2025-04-05 03:53:29.923638
+T448256,Branch 5,Delhi,3460.74,Deposit,Failed,2025-04-07 16:11:46.775118
+,Branch 5,Delhi,4611.47,,Success,2025-04-06 04:13:18.575214
+T111501,Branch 5,Delhi,4007.63,Withdrawal,,2025-04-03 16:50:10.322720
+T962783,Branch 5,Delhi,2501.9,Transfer,Success,2025-04-02 12:35:54.303970
+T249764,Branch 5,Delhi,4950.09,Deposit,Success,2025-04-04 10:28:42.585596
+T883633,Branch 5,Delhi,,Withdrawal,Success,2025-04-01 13:41:13.031998
+T182492,,Delhi,3171.67,Deposit,Failed,2025-04-06 11:39:52.894553
+T845698,Branch 5,Delhi,745.06,,Failed,2025-04-02 01:04:08.979365
+T581336,Branch 5,Delhi,3918.1,Withdrawal,Success,2025-04-03 00:54:19.049345
+T842846,Branch 5,Delhi,3625.47,Transfer,Success,2025-04-03 18:07:42.939994
+T862992,Branch 5,Delhi,3526.38,Transfer,Failed,2025-04-06 13:29:21.210345
+T254265,Branch 5,Delhi,2183.8,Withdrawal,Failed,2025-04-05 08:09:57.790972
+T429065,Branch 5,Delhi,333.05,Withdrawal,Success,2025-04-04 06:38:22.147601
+T545014,Branch 5,Delhi,4756.67,Deposit,Success,
+T445290,Branch 5,Delhi,550.1,Failed,Failed,2025-04-04 21:32:58.548824
+T357996,Branch 5,Delhi,4302.43,Deposit,Failed,2025-04-03 07:43:40.101862
+T904844,Branch 5,Delhi,272.39,Transfer,Failed,2025-04-02 06:31:12.074071
+,Branch 5,Delhi,2508.96,Failed,Success,2025-04-01 13:23:25.959210
+T302081,Branch 5,Delhi,,Deposit,Success,2025-04-01 12:32:41.013523
+T283962,Branch 5,Delhi,1412.32,Failed,Success,2025-04-04 14:29:14.656460
+T723890,Branch 5,Delhi,3008.61,,Failed,2025-04-03 11:28:09.181555
+,Branch 5,Delhi,3270.68,Transfer,Failed,2025-04-03 01:27:26.230305
+T568100,Branch 5,Delhi,210.13,,Success,2025-04-05 06:11:01.549933
+T417584,Branch 5,Delhi,3002.29,Transfer,Success,2025-04-07 13:03:09.354692
+T361720,Branch 5,Delhi,811.49,Failed,Failed,2025-04-04 01:02:02.879125
+T172839,Branch 5,Delhi,2446.47,Failed,Failed,2025-04-05 18:40:04.472610
+,Branch 5,Delhi,2832.49,Failed,Success,2025-04-03 03:38:44.240611
+T266795,Branch 5,Delhi,4796.08,Failed,Failed,2025-04-03 09:46:07.208827
+T959081,Branch 5,Delhi,2332.44,Failed,Failed,2025-04-03 19:00:08.878292
+,Branch 5,Delhi,402.11,Withdrawal,Failed,2025-04-02 21:25:01.961462
+T116620,Branch 5,Delhi,4427.11,Deposit,Failed,2025-04-03 14:16:16.540933
+T466458,Branch 5,Delhi,,Transfer,Success,2025-04-02 09:37:34.195744
+T598828,Branch 5,Delhi,2869.34,Failed,Failed,2025-04-03 23:10:37.911407
+T190502,Branch 5,Delhi,3928.47,Failed,Success,2025-04-01 13:55:42.977715
+T389595,Branch 5,Delhi,4350.53,Failed,Success,2025-04-06 14:05:39.811357
+T173121,,Delhi,4257.5,Deposit,Success,2025-04-02 09:56:53.081086
+,,Delhi,4704.15,Transfer,,2025-04-04 19:42:55.400445
+T828541,Branch 5,Delhi,1606.23,Deposit,Success,2025-04-01 15:29:28.479859
+T707601,Branch 5,Delhi,1164.97,,Success,2025-04-07 22:44:51.556509
+T642198,Branch 5,Delhi,2075.52,Transfer,Failed,2025-04-04 05:34:39.627740
+T260341,Branch 5,Delhi,2324.78,Transfer,Success,2025-04-04 18:44:16.865497
+,Branch 5,Delhi,901.15,Transfer,Success,2025-04-02 18:22:21.732005
+T443762,Branch 5,Delhi,4392.33,Failed,Failed,2025-04-05 11:24:00.307247
+T448657,Branch 5,Delhi,2820.97,Deposit,Failed,2025-04-04 20:55:21.386710
+T454316,Branch 5,Delhi,660.58,Withdrawal,,2025-04-07 07:24:49.031513
+T559304,Branch 5,Delhi,4325.45,Transfer,Success,2025-04-01 02:08:53.087407
+T743698,Branch 5,Delhi,4189.97,Withdrawal,Failed,2025-04-05 17:14:51.726149
+T563628,Branch 5,Delhi,,Deposit,Failed,2025-04-02 10:19:00.511405
+T435661,Branch 5,Delhi,3113.17,Deposit,Failed,2025-04-06 10:15:04.444131
+T136065,Branch 5,,590.57,Deposit,Failed,2025-04-06 20:12:58.111628
+,Branch 5,Delhi,,Transfer,Success,2025-04-05 15:16:07.595822
+T447005,Branch 5,Delhi,4517.93,Deposit,Failed,2025-04-06 15:39:10.880378
+T777616,Branch 5,Delhi,,Withdrawal,Failed,2025-04-02 17:59:31.822415
+T742470,Branch 5,Delhi,1657.41,,Failed,2025-04-07 02:37:10.559913
+,Branch 5,Delhi,3842.53,Withdrawal,Success,
+T608927,Branch 5,Delhi,3509.78,Deposit,Success,2025-04-05 20:03:37.841593
+T722645,Branch 5,Delhi,3033.71,Withdrawal,Success,2025-04-01 06:26:55.990359
+T631839,Branch 5,Delhi,1730.47,Failed,Success,2025-04-07 04:40:21.361834
+T549122,Branch 5,Delhi,1220.28,,Success,2025-04-01 08:48:08.065166
+T932146,Branch 5,Delhi,4189.91,,,2025-04-07 05:34:53.647502
+T569597,Branch 5,Delhi,4199.53,Deposit,Success,
+T615817,,Delhi,4082.86,Deposit,Success,2025-04-06 14:12:58.106932
+T399401,Branch 5,Delhi,3548.37,Withdrawal,Failed,
+,Branch 5,Delhi,4345.41,Withdrawal,Success,2025-04-06 15:59:09.256766
+T783561,Branch 5,Delhi,3790.87,Failed,Failed,2025-04-07 03:59:48.442240
+T111115,Branch 5,Delhi,2134.16,Transfer,Failed,2025-04-01 10:11:00.362313
+,Branch 5,Delhi,890.94,Transfer,Failed,2025-04-04 23:45:10.098409
+T671917,Branch 5,Delhi,,Withdrawal,Failed,2025-04-04 07:03:46.256235
+T661080,Branch 5,Delhi,3049.36,Deposit,Failed,2025-04-02 12:26:17.422797
+T380657,Branch 5,Delhi,2005.69,Withdrawal,Success,2025-04-05 18:00:38.329988
+,Branch 5,Delhi,,Withdrawal,,
+T213588,Branch 5,Delhi,3154.44,Withdrawal,Success,2025-04-02 23:30:31.388939
+T749872,Branch 5,Delhi,2440.56,Withdrawal,Failed,2025-04-05 13:37:22.327437
+T287474,Branch 5,Delhi,3217.08,Transfer,Success,2025-04-01 03:36:10.270436
+T140348,Branch 5,Delhi,,Withdrawal,Failed,2025-04-04 06:15:02.546904
+T267186,Branch 5,Delhi,4578.03,Withdrawal,Success,2025-04-04 01:39:29.232599
+T881857,,Delhi,3391.18,Withdrawal,Success,2025-04-07 13:57:07.647543
+T204217,Branch 5,Delhi,794.02,,Success,2025-04-03 13:06:41.874622
+T186242,Branch 5,Delhi,2194.39,,Success,2025-04-02 07:52:02.281707
+T118020,Branch 5,Delhi,3343.28,,Success,2025-04-02 08:04:01.874609
+T415159,Branch 5,Delhi,3828.97,Withdrawal,Failed,2025-04-07 03:47:29.419121
+T276542,Branch 5,Delhi,1665.32,Failed,Failed,2025-04-01 14:52:37.537929
+T936121,Branch 5,Delhi,575.03,Transfer,Success,
+T618366,Branch 5,Delhi,2973.68,Transfer,Failed,2025-04-07 09:55:17.960092
+T213691,Branch 5,Delhi,4446.34,Withdrawal,Failed,2025-04-03 16:32:09.517190
+T324023,,Delhi,,Transfer,Success,2025-04-03 19:59:10.319395
+T519672,Branch 5,Delhi,4286.91,,Success,2025-04-05 15:03:36.128163
+T514876,Branch 5,Delhi,2385.03,Withdrawal,Success,2025-04-01 19:14:29.257670
+T630385,Branch 5,Delhi,1794.29,Transfer,Failed,2025-04-07 08:24:58.975601
+T478815,Branch 5,Delhi,,Transfer,Failed,2025-04-01 11:03:07.721016
+T662509,Branch 5,Delhi,,,Success,2025-04-07 18:16:37.388721
+T233971,Branch 5,Delhi,3922.92,Withdrawal,Failed,2025-04-03 08:25:43.688714
+T364451,Branch 5,Delhi,3865.22,Deposit,,2025-04-04 08:27:56.107636
+T323105,Branch 5,Delhi,2764.71,Withdrawal,Failed,
+T847971,Branch 5,Delhi,3556.72,Deposit,Success,2025-04-05 13:19:53.131392
+T534121,Branch 5,Delhi,1113.06,Deposit,Success,2025-04-01 15:20:51.434908
+T556503,Branch 5,Delhi,2774.3,Failed,,2025-04-01 00:47:11.222790
+T885152,Branch 5,Delhi,3219.37,Deposit,Failed,2025-04-03 12:24:22.515324
+T926206,Branch 5,Delhi,1036.94,Deposit,Success,2025-04-05 15:23:07.723902
+T741516,Branch 5,Delhi,4095.68,Failed,Success,
+,,Delhi,1563.01,Deposit,Success,2025-04-05 00:54:09.224155
+T618268,Branch 5,Delhi,4881.91,Transfer,Success,2025-04-05 18:45:41.256969
+T420394,Branch 5,,339.16,Failed,Success,2025-04-03 18:54:58.691523
+T262142,Branch 5,Delhi,4583.18,Transfer,,2025-04-02 11:22:14.105447
+T570730,Branch 5,Delhi,2085.85,Withdrawal,Success,2025-04-06 03:42:18.197376
+T916691,Branch 5,Delhi,2650.82,Withdrawal,Success,2025-04-01 03:26:30.891086
+T724848,Branch 5,Delhi,140.55,Transfer,Failed,2025-04-02 05:32:34.669553
+T940291,Branch 5,Delhi,,Deposit,Failed,2025-04-01 15:08:04.469903
+T161493,,Delhi,1635.35,Failed,Success,2025-04-04 19:36:18.347960
+T398765,Branch 5,Delhi,3415.86,Transfer,Failed,2025-04-05 03:56:40.374771
+T427711,,Delhi,3419.2,Withdrawal,Failed,2025-04-03 08:09:50.068009
+,Branch 5,Delhi,3645.06,Withdrawal,Success,2025-04-04 14:48:34.853584
+T824330,Branch 5,Delhi,739.74,Withdrawal,Success,2025-04-05 15:56:02.467024
+T893804,Branch 5,Delhi,,Deposit,Failed,2025-04-05 12:24:11.398728
+T731950,Branch 5,Delhi,2156.75,Withdrawal,Success,2025-04-01 02:43:30.091084
+T752357,Branch 5,Delhi,168.79,Transfer,Success,2025-04-05 14:26:19.461804
+T720932,Branch 5,Delhi,,Transfer,Success,2025-04-06 12:52:31.069063
+T699630,Branch 5,Delhi,2671.69,Failed,Failed,2025-04-01 17:42:20.304740
+T236473,Branch 5,Delhi,2265.1,,Failed,2025-04-04 04:09:58.731770
+T639037,Branch 5,Delhi,2231.16,Withdrawal,,2025-04-06 22:48:00.893180
+T180966,Branch 5,Delhi,2117.71,Failed,Failed,2025-04-02 22:34:06.302589
+,,Delhi,4927.94,Withdrawal,Success,2025-04-04 00:12:31.304073
+T493531,Branch 5,Delhi,4549.5,Transfer,Failed,2025-04-02 02:29:38.999847
+T685779,Branch 5,Delhi,,Deposit,Success,2025-04-06 09:58:34.668968
+T194600,Branch 5,Delhi,2163.3,Failed,Success,2025-04-04 05:43:45.272343
+T564272,Branch 5,Delhi,3323.18,Failed,Success,2025-04-01 10:33:59.647679
+T236034,Branch 5,Delhi,3631.48,Transfer,Failed,2025-04-07 15:59:40.225029
+T268064,Branch 5,Delhi,4660.43,Deposit,Failed,2025-04-03 06:17:06.855117
+,Branch 5,Delhi,2867.13,Transfer,,2025-04-03 13:14:48.574800
+T301287,Branch 5,Delhi,1949.85,Transfer,Success,
+T303330,Branch 5,Delhi,2953.75,Withdrawal,Success,
+T415790,Branch 5,Delhi,4649.13,,Failed,2025-04-04 02:26:25.445857
+T540894,Branch 5,Delhi,2792.78,Withdrawal,Failed,2025-04-02 21:58:40.346833
+T675198,Branch 5,Delhi,149.0,Withdrawal,Success,2025-04-01 19:43:55.603675
+T800439,Branch 5,Delhi,,Withdrawal,Success,2025-04-07 00:32:10.192090
+T906705,Branch 5,Delhi,877.05,Deposit,Failed,2025-04-04 07:19:00.178344
+T740115,Branch 5,Delhi,3859.95,Deposit,Success,2025-04-07 16:08:15.451164
+T959135,Branch 5,Delhi,4378.64,Withdrawal,,2025-04-05 20:34:56.363875
+T426505,Branch 5,,2089.13,Failed,Success,2025-04-03 09:39:20.715643
+T801626,Branch 5,Delhi,3433.93,Failed,Failed,2025-04-04 21:25:29.254317
+T458533,Branch 5,Delhi,,Withdrawal,Success,2025-04-06 12:06:48.748937
+T916094,Branch 5,Delhi,4536.71,Withdrawal,Success,2025-04-02 03:28:26.998670
+T344588,Branch 5,Delhi,4590.59,Transfer,Success,2025-04-01 02:51:59.616506
+T123535,Branch 5,Delhi,4218.36,Failed,Failed,2025-04-05 18:36:00.376563
+T702530,Branch 5,Delhi,438.12,Failed,Failed,2025-04-07 06:42:05.754561
+T563675,Branch 5,Delhi,1675.31,Deposit,Failed,2025-04-06 23:10:54.736282
+T707672,Branch 5,Delhi,131.28,Withdrawal,Success,2025-04-05 01:46:32.524827
+T971043,Branch 5,Delhi,1487.83,Failed,Failed,2025-04-01 16:07:03.954864
+T902007,Branch 5,Delhi,3227.28,Failed,Failed,2025-04-01 06:48:24.923428
+T521502,Branch 5,Delhi,644.69,Failed,Failed,2025-04-05 11:13:45.515950
+T279242,Branch 5,Delhi,1499.6,Withdrawal,Failed,2025-04-05 07:46:35.580093
+T215827,Branch 5,Delhi,2615.44,Transfer,Failed,2025-04-04 17:58:44.207467
+T520189,Branch 5,Delhi,4235.2,,Success,2025-04-03 16:48:29.333997
+T712303,Branch 5,Delhi,2594.81,Deposit,,2025-04-05 07:29:06.268831
+T247538,Branch 5,Delhi,2154.06,Withdrawal,Failed,2025-04-02 19:27:43.951937
+T157541,Branch 5,Delhi,3561.19,Transfer,Success,2025-04-07 11:23:27.769655
+T534983,Branch 5,Delhi,551.05,Deposit,Success,2025-04-02 13:48:56.531699
+T174601,,Delhi,4880.37,Failed,Failed,2025-04-03 19:30:04.651735
+T536457,Branch 5,Delhi,1006.64,Withdrawal,Success,2025-04-02 22:19:43.631883
+T690584,,Delhi,2735.41,Transfer,Success,2025-04-02 18:54:57.074601
+T991194,Branch 5,Delhi,2608.85,Withdrawal,Failed,2025-04-03 02:29:53.184810
+T160333,Branch 5,Delhi,4923.91,Withdrawal,Success,2025-04-04 06:16:05.581970
+,Branch 5,Delhi,2244.2,,Failed,2025-04-02 10:54:24.148681
+T502827,Branch 5,Delhi,2266.71,Transfer,Success,2025-04-04 19:34:46.334247
+T672257,Branch 5,Delhi,623.11,Deposit,Failed,2025-04-02 20:10:14.141701
+T295412,Branch 5,Delhi,2886.01,Transfer,Success,
+T668382,Branch 5,Delhi,3095.12,Deposit,Failed,2025-04-07 01:30:54.658801
+T479103,Branch 5,Delhi,1623.93,Transfer,Failed,2025-04-04 09:29:16.218354
+T973201,Branch 5,Delhi,3779.42,Transfer,Failed,2025-04-05 09:26:30.489775
+T648525,Branch 5,Delhi,4787.04,Withdrawal,Success,2025-04-06 09:53:28.568223
+T850698,Branch 5,Delhi,3478.7,Deposit,Failed,2025-04-06 07:58:14.888674
+T215025,Branch 5,Delhi,2296.14,Failed,Success,2025-04-07 15:03:05.959135
+T982050,Branch 5,Delhi,260.97,Withdrawal,Failed,2025-04-02 21:14:02.785443
+T845359,Branch 5,Delhi,3595.94,Transfer,Failed,2025-04-06 14:31:08.185330
+T848079,,Delhi,2188.44,Deposit,Failed,2025-04-02 07:16:30.348874
+T758717,Branch 5,Delhi,4774.79,Deposit,Success,2025-04-04 02:44:32.046952
+T803749,Branch 5,Delhi,3646.64,Transfer,Success,2025-04-06 07:30:26.643434
+,Branch 5,Delhi,3494.96,,Failed,2025-04-07 06:03:53.211912
+T245337,Branch 5,Delhi,2503.3,,Failed,2025-04-02 12:37:52.317552

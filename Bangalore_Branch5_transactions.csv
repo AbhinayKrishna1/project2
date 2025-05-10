@@ -1,0 +1,1001 @@
+txn_id,branch,city,amount,transaction_type,status,timestamp
+T502025,Branch 5,Bangalore,2974.93,,Failed,2025-04-01 07:24:00.456352
+T496639,Branch 5,Bangalore,1248.62,Failed,Failed,2025-04-04 20:56:34.014099
+T115575,Branch 5,Bangalore,1523.01,Failed,Failed,2025-04-04 06:35:20.091927
+T637271,Branch 5,Bangalore,2384.58,Deposit,Failed,2025-04-07 19:45:40.869255
+T601855,Branch 5,Bangalore,142.26,Withdrawal,Success,
+T473395,Branch 5,Bangalore,4463.22,Failed,Success,2025-04-02 15:35:00.305914
+,Branch 5,Bangalore,2472.03,Withdrawal,Success,2025-04-02 00:29:58.044953
+T459351,Branch 5,Bangalore,2311.76,Failed,Success,2025-04-03 21:46:46.185202
+T642581,Branch 5,Bangalore,,Failed,Success,2025-04-02 21:01:38.557797
+T228762,Branch 5,Bangalore,4373.14,Failed,Failed,2025-04-02 00:31:36.409431
+T951716,Branch 5,Bangalore,2075.47,Failed,Success,2025-04-07 23:27:59.024644
+T658685,Branch 5,Bangalore,1837.25,Transfer,,2025-04-06 12:13:14.673852
+T885585,Branch 5,Bangalore,2784.1,Failed,Failed,2025-04-01 20:28:17.015646
+T648230,Branch 5,Bangalore,4826.24,Deposit,Success,2025-04-06 14:01:31.151565
+T304063,Branch 5,Bangalore,4842.6,Failed,Failed,2025-04-05 04:30:22.558967
+T919882,Branch 5,Bangalore,579.45,Deposit,Failed,2025-04-02 11:28:27.462602
+T486196,Branch 5,Bangalore,2021.85,,Failed,2025-04-01 03:34:00.440889
+,Branch 5,,4953.14,Withdrawal,Success,2025-04-07 10:05:51.609438
+T955919,Branch 5,Bangalore,2583.43,,Success,2025-04-02 20:52:21.422708
+T786804,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-06 01:25:05.184531
+T628161,Branch 5,Bangalore,,Failed,Success,2025-04-01 06:08:48.624234
+T763968,Branch 5,Bangalore,4652.23,Transfer,Success,2025-04-03 04:45:20.722317
+T102019,Branch 5,Bangalore,1941.55,Failed,Success,2025-04-05 09:20:25.632665
+T129487,Branch 5,Bangalore,4008.25,Withdrawal,Failed,2025-04-01 10:38:09.845997
+T691528,Branch 5,Bangalore,,,Failed,2025-04-07 17:00:22.982555
+T586037,Branch 5,Bangalore,1428.73,Deposit,Failed,2025-04-01 21:14:58.935795
+T461269,Branch 5,Bangalore,3263.47,Withdrawal,Failed,2025-04-02 08:25:53.992735
+T754297,Branch 5,Bangalore,1945.23,Failed,Failed,2025-04-01 12:23:31.397923
+T893451,Branch 5,Bangalore,2302.79,Transfer,Success,
+T767219,Branch 5,Bangalore,338.47,Failed,Success,2025-04-06 11:30:29.592275
+T160063,Branch 5,Bangalore,4980.52,Deposit,Failed,2025-04-06 20:27:02.605070
+T108091,Branch 5,Bangalore,4001.89,Withdrawal,Success,2025-04-03 18:05:09.916672
+T904246,Branch 5,Bangalore,3106.31,Transfer,Success,2025-04-07 05:04:14.845447
+T693214,Branch 5,Bangalore,2012.05,Withdrawal,Failed,2025-04-01 12:51:10.778729
+T406708,Branch 5,Bangalore,2694.57,Transfer,Success,2025-04-06 18:48:46.847074
+T359796,,Bangalore,4930.3,Transfer,Success,2025-04-06 20:46:09.434759
+T485604,Branch 5,Bangalore,2291.05,Transfer,Failed,2025-04-01 22:41:29.202775
+T601086,Branch 5,Bangalore,1638.45,Failed,Failed,2025-04-01 18:02:51.626896
+T720324,Branch 5,Bangalore,1401.04,Withdrawal,Failed,2025-04-03 16:31:47.566430
+T607447,,Bangalore,4301.64,Failed,Failed,2025-04-07 15:39:25.308227
+T291663,Branch 5,Bangalore,3406.23,Deposit,Success,2025-04-06 08:04:23.086710
+T829407,Branch 5,Bangalore,3094.26,Failed,Success,2025-04-03 01:43:21.178681
+,Branch 5,Bangalore,1058.49,Failed,Success,2025-04-02 14:14:46.494613
+T700332,Branch 5,Bangalore,1544.3,,Success,2025-04-03 18:53:14.225036
+T337389,Branch 5,Bangalore,4044.79,Withdrawal,,2025-04-01 18:53:07.018407
+T665121,Branch 5,Bangalore,2643.11,Deposit,Success,2025-04-06 10:09:14.456853
+,Branch 5,Bangalore,3461.55,Transfer,Success,2025-04-05 00:15:14.056371
+T233719,,Bangalore,102.6,Failed,Failed,2025-04-06 09:34:43.850465
+,Branch 5,Bangalore,,Failed,Failed,2025-04-07 18:26:58.973440
+T239058,Branch 5,Bangalore,1666.75,Failed,Success,2025-04-06 17:47:07.460499
+T978300,Branch 5,Bangalore,3633.48,Transfer,Failed,2025-04-07 23:49:32.942954
+T204781,Branch 5,Bangalore,2550.24,Failed,Failed,2025-04-03 06:17:42.761344
+T226024,Branch 5,Bangalore,1926.04,Withdrawal,Failed,2025-04-06 18:59:01.653128
+T522173,Branch 5,Bangalore,3193.43,Failed,Success,
+,Branch 5,Bangalore,4470.77,Failed,,2025-04-07 01:42:03.475005
+T295619,Branch 5,Bangalore,4283.56,Deposit,Failed,2025-04-07 01:14:37.302342
+T983407,Branch 5,Bangalore,4245.87,Withdrawal,Success,2025-04-01 19:20:09.550748
+T300304,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-01 11:51:10.883307
+T564368,Branch 5,Bangalore,,,Failed,2025-04-07 01:34:19.770696
+T584266,Branch 5,Bangalore,788.44,Transfer,Failed,2025-04-07 19:57:21.647390
+T425499,Branch 5,Bangalore,,Failed,Failed,2025-04-05 16:12:18.201000
+T981129,Branch 5,Bangalore,2224.12,Withdrawal,Failed,2025-04-06 15:03:15.791331
+T932774,Branch 5,Bangalore,4944.48,Transfer,Success,2025-04-02 00:19:51.687065
+,Branch 5,Bangalore,1551.7,Transfer,Success,2025-04-05 19:50:52.731588
+T969271,Branch 5,Bangalore,4512.5,Withdrawal,Success,2025-04-07 18:36:34.248646
+,Branch 5,Bangalore,2006.29,Failed,,2025-04-07 04:41:53.780657
+T790708,Branch 5,Bangalore,4433.81,Failed,Success,2025-04-04 16:22:12.510754
+T252592,Branch 5,Bangalore,2366.08,Failed,Success,2025-04-02 08:47:23.306788
+T872931,Branch 5,Bangalore,,,Failed,2025-04-02 05:18:55.673351
+T512444,Branch 5,Bangalore,2426.69,Withdrawal,Failed,2025-04-07 01:38:19.441627
+T236167,Branch 5,Bangalore,3607.66,Withdrawal,Failed,2025-04-02 11:18:04.182036
+T957593,Branch 5,Bangalore,,Deposit,Success,2025-04-02 00:24:59.996599
+T295799,Branch 5,Bangalore,4265.17,,Success,2025-04-06 19:46:52.553506
+T742235,Branch 5,Bangalore,4380.85,Deposit,Failed,2025-04-04 21:05:32.995671
+T339487,Branch 5,Bangalore,2110.77,Failed,Success,2025-04-05 07:09:42.908866
+T994144,Branch 5,Bangalore,3006.94,Transfer,Success,2025-04-07 08:17:43.432874
+T722387,Branch 5,Bangalore,2655.1,Transfer,Success,2025-04-03 09:53:47.057387
+T138247,Branch 5,Bangalore,4660.71,Transfer,Success,2025-04-01 00:56:10.577109
+T249867,Branch 5,Bangalore,4786.34,Transfer,Success,2025-04-07 01:47:21.000654
+,Branch 5,Bangalore,3776.52,Withdrawal,Failed,2025-04-03 20:25:49.589961
+,Branch 5,Bangalore,3327.99,Failed,Failed,2025-04-02 23:24:32.869881
+T918479,Branch 5,Bangalore,4091.42,Deposit,Failed,2025-04-07 03:30:34.061975
+T888916,Branch 5,Bangalore,4121.89,,Success,2025-04-02 00:45:19.179155
+T326001,Branch 5,Bangalore,2754.58,Withdrawal,Failed,2025-04-07 07:28:57.930401
+T979531,Branch 5,Bangalore,475.31,Failed,Failed,2025-04-07 14:34:08.736897
+T982890,Branch 5,Bangalore,2108.55,Deposit,Failed,2025-04-02 21:55:18.075155
+T669786,Branch 5,Bangalore,,Withdrawal,Success,2025-04-03 20:24:59.793309
+,Branch 5,Bangalore,2770.29,Transfer,Success,2025-04-05 04:44:01.970437
+,Branch 5,Bangalore,4904.34,Deposit,Success,2025-04-01 21:12:17.691079
+T874133,Branch 5,Bangalore,3032.74,Withdrawal,Failed,2025-04-04 06:28:10.829785
+T400440,Branch 5,Bangalore,4402.33,Transfer,Failed,2025-04-05 11:18:52.927590
+T939777,Branch 5,Bangalore,4995.4,Failed,Success,2025-04-04 21:11:10.530060
+T484786,,Bangalore,1319.08,,,2025-04-04 18:16:59.415729
+T652944,Branch 5,,3117.87,Transfer,Success,2025-04-07 07:19:06.804661
+T355947,Branch 5,Bangalore,316.87,,Success,2025-04-04 09:58:17.922882
+,Branch 5,Bangalore,1062.8,Withdrawal,Success,2025-04-07 10:41:57.269670
+T668055,Branch 5,Bangalore,563.01,Deposit,Success,2025-04-01 23:18:18.560815
+T778018,Branch 5,Bangalore,3948.19,Failed,Failed,2025-04-06 04:21:19.811078
+T814196,Branch 5,Bangalore,3429.09,Failed,Success,2025-04-04 12:18:10.798449
+T417211,Branch 5,Bangalore,1327.54,Transfer,Success,2025-04-01 21:01:56.421714
+,Branch 5,Bangalore,1249.79,,Success,2025-04-06 01:50:47.993363
+T297491,Branch 5,Bangalore,1479.54,Withdrawal,Success,2025-04-04 15:34:18.862133
+T690292,Branch 5,Bangalore,1339.61,Deposit,Success,2025-04-03 02:07:03.030528
+T718339,Branch 5,Bangalore,1316.46,Failed,Failed,2025-04-04 23:06:14.916543
+T192652,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-07 13:38:19.035085
+T896476,,Bangalore,,Failed,Success,2025-04-01 13:34:11.700436
+T288132,Branch 5,Bangalore,3610.36,Deposit,Failed,2025-04-01 09:59:57.784944
+T711976,Branch 5,Bangalore,938.07,Deposit,Failed,2025-04-02 15:20:49.800832
+T268336,Branch 5,Bangalore,4438.17,Withdrawal,Failed,2025-04-02 00:08:13.248662
+T998408,Branch 5,Bangalore,3159.0,Withdrawal,Failed,2025-04-02 05:04:15.892417
+T669862,Branch 5,Bangalore,2612.9,Withdrawal,Success,2025-04-06 22:17:27.878667
+T125089,Branch 5,Bangalore,4461.88,Transfer,Failed,
+T317534,Branch 5,Bangalore,4317.34,Withdrawal,Failed,2025-04-01 00:42:23.757882
+T231562,Branch 5,Bangalore,4684.32,Transfer,Failed,2025-04-04 13:19:26.694424
+T559283,Branch 5,Bangalore,4665.87,Withdrawal,Failed,2025-04-07 02:21:54.457547
+T958650,Branch 5,Bangalore,135.54,Failed,Failed,2025-04-04 02:10:44.827773
+T617550,Branch 5,Bangalore,3200.51,Withdrawal,Success,2025-04-03 00:15:17.373285
+T803694,Branch 5,Bangalore,4514.23,Deposit,Failed,2025-04-07 06:39:20.332933
+T363133,Branch 5,Bangalore,2024.4,Failed,Success,2025-04-05 11:38:54.313797
+T317131,Branch 5,Bangalore,1820.9,Withdrawal,Failed,2025-04-02 07:57:46.769767
+T804523,Branch 5,Bangalore,3292.16,,Failed,2025-04-04 10:24:45.259201
+T637653,Branch 5,Bangalore,3199.33,Failed,Failed,2025-04-02 07:07:44.471711
+,Branch 5,Bangalore,,Failed,Failed,2025-04-03 00:04:35.657375
+T132191,Branch 5,Bangalore,4039.49,Withdrawal,Success,2025-04-07 06:11:47.094321
+T639468,Branch 5,Bangalore,248.39,Withdrawal,Failed,2025-04-01 20:52:27.603179
+T200458,Branch 5,Bangalore,1804.86,Transfer,Success,
+T145768,Branch 5,Bangalore,3008.03,Deposit,Failed,2025-04-04 16:42:12.209560
+T247231,Branch 5,Bangalore,179.27,,Success,2025-04-05 05:22:19.573518
+T149513,Branch 5,Bangalore,832.75,Deposit,Failed,2025-04-03 09:31:30.631900
+T670543,Branch 5,Bangalore,3727.34,Failed,Success,2025-04-05 01:03:57.076801
+T235023,Branch 5,Bangalore,4313.13,Withdrawal,Failed,2025-04-07 14:38:29.690110
+T361770,Branch 5,Bangalore,1096.47,,Failed,2025-04-03 16:02:16.124283
+,Branch 5,Bangalore,4645.5,Failed,Failed,2025-04-04 08:17:11.142291
+T353528,Branch 5,Bangalore,,Deposit,Failed,2025-04-04 20:39:57.766021
+T462290,Branch 5,Bangalore,2710.7,Withdrawal,Success,2025-04-06 06:04:36.791875
+T662288,Branch 5,Bangalore,2926.32,Transfer,Failed,2025-04-04 12:01:05.449597
+T795869,Branch 5,Bangalore,3004.65,Transfer,Success,2025-04-06 11:20:16.513767
+T169869,Branch 5,Bangalore,,Withdrawal,Failed,
+T368057,Branch 5,Bangalore,2124.64,Transfer,Failed,2025-04-07 18:11:57.490394
+T302562,Branch 5,Bangalore,2628.22,,Failed,2025-04-03 21:10:10.789736
+T589608,Branch 5,Bangalore,3283.7,,Failed,2025-04-06 15:22:41.572739
+T351862,Branch 5,Bangalore,2606.74,Failed,Success,2025-04-03 03:58:43.927055
+T793421,Branch 5,Bangalore,3275.84,Failed,Failed,2025-04-03 10:04:42.551158
+T877227,Branch 5,Bangalore,4175.78,Withdrawal,Success,2025-04-03 19:00:17.633790
+T148518,Branch 5,Bangalore,3666.53,Transfer,Success,2025-04-07 23:13:55.674147
+T641994,Branch 5,Bangalore,891.17,Withdrawal,,2025-04-01 02:27:05.070392
+T116284,Branch 5,,3884.71,Withdrawal,Failed,2025-04-03 00:45:41.289462
+T406236,Branch 5,Bangalore,1629.5,Transfer,Success,2025-04-01 22:01:10.905645
+T766452,Branch 5,Bangalore,443.87,Deposit,,2025-04-02 10:52:59.275386
+T958559,Branch 5,Bangalore,3504.66,Failed,Failed,2025-04-05 08:59:04.536580
+T648733,Branch 5,Bangalore,4911.42,Deposit,Success,2025-04-06 09:57:15.644172
+,Branch 5,Bangalore,956.51,Failed,Failed,
+T384609,Branch 5,Bangalore,511.51,Failed,Failed,2025-04-02 18:09:05.420472
+,,Bangalore,981.63,Withdrawal,Success,2025-04-07 20:01:58.065935
+T438316,Branch 5,Bangalore,,Failed,Failed,2025-04-04 23:18:11.409314
+T374731,Branch 5,Bangalore,1743.0,Deposit,Failed,2025-04-02 15:10:54.595884
+T382446,Branch 5,Bangalore,1197.32,,Failed,2025-04-04 17:38:36.077204
+T129830,Branch 5,Bangalore,4777.25,Failed,Success,2025-04-01 00:02:32.078230
+T821499,Branch 5,Bangalore,,,Success,2025-04-03 22:59:45.413337
+,Branch 5,Bangalore,4387.45,Withdrawal,Failed,2025-04-01 17:16:56.029155
+T215143,Branch 5,Bangalore,3590.5,Withdrawal,Success,2025-04-03 19:07:13.693201
+T391085,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-05 10:11:19.796382
+T616047,Branch 5,Bangalore,935.31,Failed,Success,2025-04-05 11:34:58.342529
+T317772,Branch 5,Bangalore,273.63,Withdrawal,Failed,
+T996971,Branch 5,Bangalore,3475.95,Withdrawal,Success,2025-04-04 10:12:53.859872
+T447768,Branch 5,Bangalore,946.69,Deposit,Success,2025-04-02 09:46:46.744327
+T485594,Branch 5,,1337.16,Transfer,Failed,2025-04-07 17:00:50.060315
+T991820,Branch 5,Bangalore,2962.18,Withdrawal,Failed,2025-04-06 19:49:01.377281
+T863054,Branch 5,Bangalore,2844.74,Deposit,Failed,2025-04-04 11:39:13.406930
+T198945,Branch 5,Bangalore,3731.33,Transfer,Failed,2025-04-01 11:06:31.352558
+T383942,Branch 5,Bangalore,2074.91,Deposit,Failed,2025-04-01 01:07:30.735236
+T248180,Branch 5,Bangalore,1005.97,Failed,Failed,2025-04-02 10:04:43.062474
+T445301,Branch 5,Bangalore,229.53,Transfer,Success,2025-04-07 20:13:42.853035
+T475307,Branch 5,Bangalore,4299.58,,Failed,2025-04-05 21:54:48.761040
+T127547,Branch 5,Bangalore,169.06,Failed,Success,2025-04-07 19:27:00.495657
+T486646,Branch 5,Bangalore,4822.29,Withdrawal,Success,2025-04-01 19:20:58.692592
+T224854,Branch 5,Bangalore,3080.16,Deposit,Success,
+T529964,Branch 5,Bangalore,1749.58,Withdrawal,Failed,2025-04-07 09:41:51.835054
+,Branch 5,Bangalore,3751.47,Withdrawal,Failed,2025-04-06 03:43:34.320227
+T442778,Branch 5,Bangalore,386.31,Transfer,Failed,2025-04-02 06:52:35.927219
+T205694,Branch 5,Bangalore,,Transfer,Failed,2025-04-06 07:49:08.921940
+,Branch 5,Bangalore,2692.12,Transfer,Failed,2025-04-05 08:40:26.090576
+T863605,Branch 5,Bangalore,734.83,Transfer,Success,2025-04-02 01:51:31.231676
+T644519,Branch 5,Bangalore,3745.4,Deposit,Failed,2025-04-07 03:14:30.471308
+T990733,Branch 5,Bangalore,1851.04,Withdrawal,Failed,2025-04-06 00:34:42.595796
+T173527,Branch 5,Bangalore,2157.63,Failed,Failed,2025-04-04 05:08:12.096417
+T655422,,Bangalore,2953.05,,Success,2025-04-03 13:45:51.389553
+T204664,Branch 5,Bangalore,,,Failed,2025-04-05 10:25:28.531747
+T686493,Branch 5,Bangalore,2087.55,,Failed,2025-04-06 19:35:41.205498
+T912291,Branch 5,Bangalore,569.8,Failed,Failed,2025-04-01 17:04:37.879036
+T984719,Branch 5,Bangalore,,Deposit,Failed,2025-04-03 05:21:58.124364
+T403368,Branch 5,Bangalore,4271.26,Failed,Success,2025-04-05 22:30:38.730261
+T302553,Branch 5,Bangalore,3809.07,Deposit,Success,2025-04-03 20:13:54.402109
+,,Bangalore,2446.97,Deposit,Failed,2025-04-02 13:30:10.455904
+T437943,,Bangalore,,Failed,Success,2025-04-05 07:51:36.012660
+T802926,Branch 5,Bangalore,4689.77,,Success,2025-04-06 18:48:52.469468
+T212015,Branch 5,Bangalore,2303.3,Transfer,Success,2025-04-06 22:33:07.220933
+T995628,Branch 5,Bangalore,4750.53,Failed,Failed,2025-04-05 19:21:02.214539
+T143361,Branch 5,Bangalore,1087.19,Failed,Success,2025-04-07 09:08:20.211349
+T329714,Branch 5,Bangalore,816.53,Deposit,Failed,2025-04-04 19:56:45.317166
+,Branch 5,Bangalore,4495.72,Transfer,Failed,2025-04-06 06:38:47.803267
+T228873,,Bangalore,4309.98,Transfer,Success,2025-04-05 17:37:54.822814
+T215482,Branch 5,Bangalore,204.95,Failed,Failed,2025-04-07 19:01:41.398311
+T520084,Branch 5,Bangalore,3716.11,Withdrawal,Success,2025-04-01 01:35:31.286685
+T824065,Branch 5,Bangalore,996.78,Deposit,Failed,2025-04-05 12:02:27.122998
+T423554,Branch 5,,1791.65,Failed,Failed,2025-04-03 06:14:16.900429
+T219016,,Bangalore,1637.44,Deposit,Failed,
+T665982,Branch 5,Bangalore,3354.21,Failed,Success,2025-04-04 21:07:39.301178
+T273195,Branch 5,Bangalore,874.35,Transfer,Failed,2025-04-05 05:38:48.502492
+T683359,Branch 5,Bangalore,1374.23,Deposit,Failed,
+T675409,Branch 5,Bangalore,434.73,Transfer,Failed,2025-04-04 11:25:00.059497
+T588683,Branch 5,Bangalore,3080.64,Withdrawal,,2025-04-05 07:44:40.274382
+T443925,Branch 5,Bangalore,1523.88,Transfer,Failed,2025-04-07 23:44:50.022837
+T595509,Branch 5,Bangalore,4647.4,,Success,2025-04-07 10:19:35.184952
+T172956,Branch 5,Bangalore,3574.96,Deposit,Success,2025-04-07 19:09:20.636675
+T469021,Branch 5,Bangalore,1823.52,,Success,2025-04-05 11:38:04.966880
+,Branch 5,Bangalore,1846.11,,Success,2025-04-07 08:03:48.969438
+T715436,Branch 5,Bangalore,3378.97,Withdrawal,Success,2025-04-04 10:31:19.408340
+T984594,Branch 5,Bangalore,2407.72,Withdrawal,Success,2025-04-01 20:16:38.876154
+T967888,Branch 5,Bangalore,3098.69,Deposit,Success,2025-04-02 19:35:58.745385
+T440066,Branch 5,Bangalore,1349.28,Transfer,Failed,2025-04-06 03:46:58.581612
+T336100,,Bangalore,1991.26,Withdrawal,Failed,2025-04-03 20:33:27.065601
+T311634,Branch 5,Bangalore,2134.25,Transfer,,2025-04-04 03:11:09.061638
+T613501,Branch 5,Bangalore,2637.75,Deposit,Failed,2025-04-05 18:16:57.454360
+T755648,Branch 5,Bangalore,4018.07,Withdrawal,Success,2025-04-02 07:54:49.293961
+T476448,Branch 5,Bangalore,2304.75,,Success,2025-04-07 02:26:49.432008
+T915712,Branch 5,Bangalore,866.49,Withdrawal,Failed,2025-04-01 19:31:32.059098
+T839657,Branch 5,Bangalore,1247.36,Transfer,Failed,2025-04-02 21:44:30.337420
+T499990,Branch 5,Bangalore,3754.82,Transfer,Success,2025-04-03 04:03:58.403919
+T118618,Branch 5,Bangalore,2528.83,Withdrawal,Success,2025-04-07 16:17:40.792386
+T157186,Branch 5,Bangalore,4433.28,,Success,2025-04-07 11:51:16.154405
+T879353,Branch 5,Bangalore,4173.77,Deposit,Failed,2025-04-01 10:14:25.209468
+T484777,Branch 5,,2324.64,Withdrawal,Success,2025-04-07 19:48:25.234589
+T197431,Branch 5,Bangalore,204.74,Failed,Failed,2025-04-04 08:56:29.056061
+T591581,Branch 5,Bangalore,4698.01,Failed,Failed,2025-04-03 04:09:33.215756
+T800866,Branch 5,Bangalore,401.1,,Failed,2025-04-06 23:50:34.130556
+T685506,,Bangalore,3661.91,Withdrawal,Failed,2025-04-04 08:20:47.438604
+T554930,Branch 5,Bangalore,979.66,Deposit,Success,2025-04-03 04:08:52.388506
+T117723,Branch 5,Bangalore,2077.79,Deposit,Failed,2025-04-06 10:43:06.143506
+,Branch 5,Bangalore,493.91,Withdrawal,Failed,2025-04-07 12:39:34.043989
+T199909,Branch 5,Bangalore,3841.11,,Failed,2025-04-04 00:58:01.755951
+T402240,Branch 5,Bangalore,1907.09,Failed,Failed,2025-04-01 11:38:53.091417
+T311018,Branch 5,Bangalore,,,Failed,2025-04-05 22:18:21.396802
+T421663,Branch 5,Bangalore,1571.38,Failed,Success,2025-04-01 21:18:30.944736
+T782181,Branch 5,Bangalore,3957.61,Withdrawal,Success,2025-04-05 07:47:14.826499
+T293149,Branch 5,Bangalore,721.68,Transfer,Failed,2025-04-01 17:38:48.655983
+T364261,,Bangalore,1667.78,Failed,Success,2025-04-03 21:35:01.436217
+T442693,Branch 5,Bangalore,4236.62,Transfer,Failed,2025-04-05 13:21:28.376608
+T878635,Branch 5,Bangalore,2099.51,Failed,Success,2025-04-06 01:04:20.068790
+T167481,Branch 5,Bangalore,555.19,Deposit,Success,2025-04-03 10:28:28.877839
+T781291,Branch 5,Bangalore,3522.19,Failed,Success,2025-04-07 00:49:39.389667
+T243727,Branch 5,Bangalore,1594.56,Withdrawal,Success,2025-04-02 10:00:48.247141
+T405787,Branch 5,Bangalore,3241.23,Transfer,Success,2025-04-04 19:39:01.790865
+T105118,Branch 5,Bangalore,2231.67,Deposit,Failed,2025-04-03 14:30:21.404733
+T739870,Branch 5,Bangalore,1406.08,Withdrawal,Success,2025-04-03 23:25:00.261810
+T889208,Branch 5,Bangalore,3375.65,Withdrawal,Success,2025-04-04 08:58:44.973821
+T421089,Branch 5,Bangalore,4363.87,Withdrawal,Success,2025-04-07 12:49:29.575734
+T200363,Branch 5,Bangalore,1629.29,Withdrawal,Success,2025-04-05 21:33:20.825356
+T781101,Branch 5,Bangalore,2890.11,Withdrawal,Failed,2025-04-01 22:23:40.554835
+T718992,Branch 5,Bangalore,3305.83,Transfer,Success,2025-04-02 17:29:56.796414
+,Branch 5,Bangalore,,Deposit,Failed,2025-04-01 20:59:45.486998
+T405686,Branch 5,Bangalore,2768.0,Deposit,Failed,2025-04-06 21:27:07.133389
+T790285,Branch 5,Bangalore,1508.35,Transfer,Failed,2025-04-01 10:17:48.180482
+T703194,Branch 5,Bangalore,3207.58,Withdrawal,Failed,2025-04-02 07:48:23.035434
+T389495,Branch 5,Bangalore,1278.55,Deposit,Success,2025-04-07 09:54:26.744249
+,Branch 5,Bangalore,3564.15,Transfer,Failed,2025-04-02 01:01:55.407599
+T528680,Branch 5,Bangalore,3213.78,,Failed,2025-04-06 08:33:32.998731
+T329037,Branch 5,Bangalore,4582.93,Failed,Failed,2025-04-05 07:34:32.869419
+T556480,Branch 5,Bangalore,,Transfer,Failed,
+T696330,Branch 5,Bangalore,620.41,Transfer,Success,
+T113195,Branch 5,Bangalore,3935.87,Transfer,Success,2025-04-02 01:58:21.957323
+T431806,Branch 5,Bangalore,931.17,,Success,2025-04-02 19:04:03.350626
+T416340,Branch 5,Bangalore,2709.19,Failed,Success,2025-04-02 08:59:27.407535
+T487920,Branch 5,Bangalore,2152.42,Withdrawal,Failed,2025-04-05 02:19:23.704048
+,Branch 5,Bangalore,2930.91,Withdrawal,Failed,2025-04-06 21:52:57.389848
+T217601,Branch 5,Bangalore,3137.63,,Failed,2025-04-03 20:19:45.591070
+T689729,Branch 5,Bangalore,2801.41,Withdrawal,Success,2025-04-02 19:43:30.678100
+T212420,Branch 5,Bangalore,3222.12,Transfer,Success,2025-04-02 10:23:44.486501
+T928477,Branch 5,Bangalore,483.86,Failed,Failed,2025-04-03 07:56:57.779729
+T192787,Branch 5,Bangalore,4702.58,Deposit,Failed,2025-04-07 10:04:16.449693
+,Branch 5,Bangalore,4034.45,Withdrawal,Failed,2025-04-01 05:57:54.908683
+T521793,Branch 5,Bangalore,4957.64,Withdrawal,Failed,2025-04-07 13:22:58.422330
+T951382,Branch 5,Bangalore,3402.24,Transfer,Failed,2025-04-06 17:14:30.905450
+T523005,Branch 5,Bangalore,1689.58,Deposit,Success,2025-04-04 04:41:11.961211
+,Branch 5,Bangalore,3184.74,Failed,Success,2025-04-06 07:04:46.147192
+T619063,Branch 5,,3938.26,Failed,Failed,2025-04-02 07:38:34.369079
+T311013,Branch 5,Bangalore,2889.16,Transfer,Success,2025-04-04 12:04:49.300585
+T101658,Branch 5,Bangalore,813.93,Transfer,Failed,
+T532973,Branch 5,Bangalore,1173.07,Deposit,Success,2025-04-01 17:47:27.146771
+T853791,Branch 5,Bangalore,3503.82,Failed,Success,2025-04-02 09:24:04.835681
+T540546,Branch 5,Bangalore,488.31,Deposit,Failed,2025-04-06 17:02:28.583636
+T609824,Branch 5,Bangalore,2078.84,,Success,2025-04-06 12:46:16.283834
+T115873,Branch 5,Bangalore,2967.5,Withdrawal,Failed,2025-04-04 04:37:24.676477
+,Branch 5,Bangalore,3716.55,,Failed,2025-04-02 14:30:01.502682
+T659383,Branch 5,Bangalore,4405.06,Deposit,Failed,2025-04-01 03:23:43.587954
+T536615,Branch 5,Bangalore,1290.46,Transfer,Failed,2025-04-06 05:39:47.799435
+T128322,Branch 5,Bangalore,1626.33,Deposit,Success,2025-04-01 14:34:22.500359
+T460075,Branch 5,Bangalore,1029.55,,Success,
+T830058,Branch 5,Bangalore,354.51,Deposit,Failed,2025-04-05 23:23:30.174629
+T336077,Branch 5,Bangalore,4454.81,Transfer,Success,2025-04-02 12:56:53.198938
+T482871,Branch 5,Bangalore,2154.64,Failed,Failed,2025-04-06 13:24:28.340988
+T117938,Branch 5,Bangalore,534.94,Transfer,Success,2025-04-02 00:27:20.803840
+T161341,Branch 5,Bangalore,480.82,Failed,Success,2025-04-01 16:50:40.700830
+T697126,Branch 5,Bangalore,1159.49,,Failed,2025-04-02 14:49:10.478446
+T402187,Branch 5,Bangalore,4973.52,Deposit,Success,2025-04-04 21:53:37.325016
+T466219,Branch 5,Bangalore,1436.41,Deposit,Success,2025-04-03 04:13:51.823649
+,Branch 5,Bangalore,4829.28,Transfer,Success,2025-04-05 14:20:05.965861
+T947412,Branch 5,Bangalore,2466.93,Deposit,Success,2025-04-01 17:05:05.893740
+,Branch 5,Bangalore,612.58,Withdrawal,Failed,2025-04-02 12:40:25.260753
+T315222,Branch 5,Bangalore,1201.25,Transfer,Success,2025-04-07 17:19:52.105679
+T143604,Branch 5,Bangalore,4486.4,Deposit,Failed,
+,Branch 5,Bangalore,,Failed,Failed,2025-04-02 04:53:47.089332
+T185313,Branch 5,Bangalore,1261.24,Deposit,Success,2025-04-05 17:28:54.301451
+T699307,Branch 5,Bangalore,279.61,Deposit,Success,2025-04-05 11:32:05.746889
+T397846,Branch 5,Bangalore,1461.55,Deposit,Failed,2025-04-06 19:45:53.425771
+T765116,Branch 5,Bangalore,220.67,Withdrawal,Success,2025-04-01 18:14:20.252315
+T228658,Branch 5,Bangalore,1527.77,Failed,Success,2025-04-02 06:17:01.549532
+T343112,Branch 5,Bangalore,4864.94,Transfer,Failed,2025-04-01 17:06:04.707313
+T414482,Branch 5,Bangalore,2291.76,,Success,2025-04-07 08:10:53.561598
+T105434,Branch 5,Bangalore,1853.31,Withdrawal,Failed,2025-04-03 08:34:31.611610
+,Branch 5,Bangalore,3138.55,,Failed,2025-04-02 16:12:50.217923
+T589342,Branch 5,Bangalore,1726.86,Failed,Success,2025-04-04 17:33:29.873188
+T464932,Branch 5,Bangalore,2161.75,Withdrawal,,2025-04-06 11:01:20.585339
+T504332,Branch 5,Bangalore,1485.05,Failed,Success,2025-04-06 09:37:12.970376
+,Branch 5,Bangalore,3387.12,Deposit,Failed,2025-04-07 12:17:01.214232
+T402416,Branch 5,,1818.46,Transfer,Failed,2025-04-07 04:08:39.662425
+T581045,Branch 5,Bangalore,1252.27,Transfer,Success,2025-04-05 01:57:30.077073
+T317207,Branch 5,Bangalore,3337.14,Withdrawal,Failed,2025-04-01 00:52:24.204124
+T766440,Branch 5,Bangalore,,Transfer,Success,2025-04-05 02:20:14.124990
+T602851,Branch 5,Bangalore,401.91,Deposit,Failed,2025-04-05 10:37:19.108336
+T476576,Branch 5,Bangalore,4160.72,Withdrawal,,2025-04-04 01:26:20.376182
+T986705,Branch 5,Bangalore,2426.86,Transfer,Failed,2025-04-07 19:30:00.908540
+T408261,Branch 5,,3891.59,Transfer,,2025-04-02 10:37:10.763938
+T140995,Branch 5,Bangalore,3413.83,Withdrawal,,2025-04-03 13:55:27.411214
+T865327,Branch 5,Bangalore,1271.91,Failed,Success,2025-04-06 16:47:21.054866
+T543234,Branch 5,Bangalore,3467.9,,,2025-04-02 10:51:21.202779
+T533493,Branch 5,Bangalore,112.69,,Failed,2025-04-01 18:20:51.764285
+T620553,Branch 5,Bangalore,2482.7,Deposit,Failed,2025-04-04 23:54:03.387120
+T231499,Branch 5,Bangalore,543.78,Transfer,Success,2025-04-03 20:29:37.872188
+T694991,Branch 5,Bangalore,1031.79,Failed,Success,2025-04-04 21:52:27.696170
+T579950,,Bangalore,,Transfer,Failed,2025-04-01 04:33:44.482399
+T185356,Branch 5,Bangalore,401.93,Withdrawal,Failed,2025-04-02 08:42:17.299665
+T849522,Branch 5,Bangalore,1143.43,Transfer,Failed,2025-04-04 20:40:10.267500
+T143287,Branch 5,Bangalore,444.05,Transfer,Failed,2025-04-05 14:20:04.623435
+T839837,Branch 5,Bangalore,3129.54,,Failed,2025-04-05 03:02:17.614424
+T993921,Branch 5,Bangalore,2435.59,Deposit,Failed,2025-04-07 17:28:26.721992
+T761701,Branch 5,Bangalore,2990.06,Deposit,Failed,
+T842805,Branch 5,Bangalore,2174.44,Withdrawal,Failed,2025-04-03 14:25:16.895270
+T852665,Branch 5,Bangalore,930.33,,Failed,2025-04-06 19:00:30.831159
+T527854,Branch 5,Bangalore,433.66,Withdrawal,Success,2025-04-02 12:55:06.942204
+T958762,Branch 5,Bangalore,3464.04,Failed,Success,2025-04-01 21:53:13.208552
+T551134,Branch 5,Bangalore,4538.34,Failed,,2025-04-06 07:12:01.472109
+T293701,,Bangalore,,Failed,Success,2025-04-02 02:18:31.596901
+T277492,Branch 5,Bangalore,4146.48,Withdrawal,Failed,2025-04-06 19:37:27.484964
+T817222,Branch 5,Bangalore,,Deposit,Failed,
+T238462,Branch 5,Bangalore,4699.04,Withdrawal,Success,
+T692277,Branch 5,Bangalore,4975.74,Deposit,Success,2025-04-05 07:24:38.071441
+T762486,Branch 5,Bangalore,2850.07,Withdrawal,Success,2025-04-06 13:52:11.812968
+T234950,Branch 5,Bangalore,976.91,Withdrawal,Failed,2025-04-04 03:12:13.269911
+T966282,Branch 5,Bangalore,238.7,Deposit,Failed,2025-04-07 22:50:23.462613
+T383586,Branch 5,Bangalore,1154.31,Transfer,Failed,2025-04-06 07:21:38.102883
+T927198,Branch 5,Bangalore,281.72,Withdrawal,Success,2025-04-07 11:04:00.000762
+T406459,Branch 5,Bangalore,935.37,Failed,Failed,2025-04-04 10:14:41.250097
+T389684,Branch 5,Bangalore,398.76,Failed,Success,2025-04-05 20:44:22.462696
+T906678,Branch 5,Bangalore,352.64,Withdrawal,Success,2025-04-04 18:40:56.473624
+T755783,Branch 5,Bangalore,4482.82,Failed,Failed,2025-04-03 13:55:09.396465
+T666514,Branch 5,Bangalore,4739.83,Transfer,Success,
+T176552,Branch 5,Bangalore,1297.02,Failed,Failed,2025-04-03 09:23:15.054731
+,Branch 5,Bangalore,4858.78,Deposit,Failed,2025-04-03 08:35:38.482564
+T487130,Branch 5,Bangalore,477.03,Deposit,,2025-04-07 22:24:31.786947
+T471900,Branch 5,Bangalore,1022.24,Failed,Success,2025-04-02 00:41:42.813680
+T216949,Branch 5,Bangalore,867.84,Failed,Failed,2025-04-05 11:35:22.287722
+T355174,Branch 5,Bangalore,1191.17,Deposit,Failed,2025-04-02 20:14:42.003907
+T829566,Branch 5,Bangalore,1793.55,Failed,Failed,2025-04-07 17:23:09.638823
+T682203,Branch 5,Bangalore,1842.83,Withdrawal,Failed,2025-04-05 09:23:13.880129
+T694296,Branch 5,Bangalore,1202.18,Deposit,Success,2025-04-02 15:31:56.432659
+T249087,Branch 5,Bangalore,965.91,Transfer,Success,2025-04-02 10:15:40.267814
+T340620,Branch 5,Bangalore,,,Success,2025-04-04 09:14:13.179135
+T147928,Branch 5,Bangalore,1167.68,Transfer,Success,2025-04-07 05:24:32.624798
+T865587,Branch 5,Bangalore,3026.96,Failed,Failed,2025-04-01 19:21:26.607097
+T397463,Branch 5,Bangalore,1634.97,Deposit,,2025-04-07 14:35:00.987874
+T309753,Branch 5,Bangalore,2985.81,Transfer,Failed,2025-04-04 02:04:46.922554
+,Branch 5,Bangalore,2056.21,Withdrawal,Failed,2025-04-07 12:18:14.993221
+T657436,Branch 5,Bangalore,233.69,Failed,Failed,
+T649133,Branch 5,Bangalore,4423.85,Failed,Success,2025-04-01 23:07:46.950309
+T966339,Branch 5,Bangalore,3232.97,Failed,Success,2025-04-07 00:13:16.157328
+T302109,Branch 5,Bangalore,1012.59,Transfer,Success,2025-04-05 03:27:44.478243
+,Branch 5,Bangalore,4404.97,Withdrawal,Failed,2025-04-03 05:15:02.826243
+T693418,Branch 5,Bangalore,4868.12,Failed,Success,2025-04-05 22:18:03.790599
+T776221,Branch 5,Bangalore,4206.45,Transfer,Success,2025-04-06 12:16:49.078474
+T130275,,,3889.93,Withdrawal,Failed,2025-04-03 01:33:59.760673
+T118942,Branch 5,Bangalore,3586.94,Withdrawal,Failed,
+T992849,Branch 5,Bangalore,2648.3,Deposit,Failed,2025-04-06 12:03:55.030660
+T727717,Branch 5,Bangalore,4836.49,Failed,Success,2025-04-07 20:23:14.713273
+T820592,Branch 5,Bangalore,3608.57,Failed,Success,2025-04-05 03:30:40.226151
+T990123,Branch 5,Bangalore,447.83,Failed,Success,2025-04-05 22:53:19.175589
+T761443,Branch 5,Bangalore,4732.02,,Success,2025-04-04 06:37:52.286202
+,Branch 5,Bangalore,,Failed,Failed,2025-04-04 07:28:55.583372
+T598339,Branch 5,Bangalore,3701.63,Transfer,Failed,2025-04-03 11:42:05.803313
+T921354,Branch 5,Bangalore,,Failed,Success,2025-04-02 23:45:48.374218
+T728691,Branch 5,Bangalore,3110.3,Withdrawal,Success,2025-04-03 11:20:11.625332
+T790937,Branch 5,Bangalore,1377.68,Transfer,Failed,2025-04-03 07:42:08.421616
+T390429,Branch 5,Bangalore,4775.04,Deposit,Success,2025-04-02 09:49:51.003878
+T123963,Branch 5,Bangalore,1572.31,Deposit,Success,2025-04-05 17:09:49.346263
+T864600,Branch 5,Bangalore,1044.1,Transfer,Success,2025-04-06 05:58:10.609557
+T806821,Branch 5,Bangalore,4804.57,Deposit,Success,2025-04-07 23:10:24.495821
+T816865,,Bangalore,,,Failed,2025-04-01 11:17:41.789894
+T791684,Branch 5,Bangalore,2847.28,,Failed,
+,Branch 5,Bangalore,602.14,Withdrawal,Success,2025-04-06 15:03:04.722445
+T548548,Branch 5,Bangalore,3682.07,Failed,Success,2025-04-07 14:53:55.149809
+T546007,Branch 5,Bangalore,,Deposit,Success,2025-04-06 03:51:13.012621
+T484293,Branch 5,Bangalore,2971.9,Failed,Failed,2025-04-02 05:48:27.015492
+T518938,Branch 5,Bangalore,,Deposit,Success,2025-04-05 10:40:23.782765
+T270893,Branch 5,Bangalore,4284.01,Deposit,Failed,2025-04-05 01:18:57.843979
+,Branch 5,Bangalore,2566.22,Failed,Success,2025-04-06 02:17:49.481099
+T255884,,Bangalore,3397.24,Transfer,Success,2025-04-06 11:47:07.487139
+T475800,Branch 5,Bangalore,694.33,Withdrawal,Failed,2025-04-05 05:42:07.376469
+T175058,Branch 5,Bangalore,3831.14,Failed,Success,2025-04-06 01:21:00.887640
+T459796,Branch 5,Bangalore,4390.51,Deposit,Failed,2025-04-07 06:04:54.820388
+T429262,Branch 5,Bangalore,4140.48,Transfer,Failed,2025-04-03 23:12:46.256507
+T628539,Branch 5,Bangalore,1054.96,Deposit,Failed,2025-04-04 03:57:05.646015
+T270263,Branch 5,Bangalore,,Deposit,Failed,2025-04-03 16:22:07.124358
+T993929,Branch 5,Bangalore,1706.69,,,2025-04-05 22:22:11.517690
+T270228,Branch 5,Bangalore,3452.7,Deposit,Success,2025-04-04 18:35:49.931282
+T199074,Branch 5,Bangalore,1682.72,,Success,2025-04-02 12:36:04.375867
+T230316,Branch 5,Bangalore,3723.61,Failed,Failed,2025-04-02 22:30:12.480379
+T835367,Branch 5,Bangalore,911.94,Failed,Failed,2025-04-06 21:52:09.983228
+T226550,Branch 5,Bangalore,2403.44,Withdrawal,Success,2025-04-07 09:12:26.549247
+T868769,Branch 5,Bangalore,2143.65,Deposit,Success,2025-04-02 05:28:50.300927
+T843116,Branch 5,Bangalore,818.67,Deposit,Success,2025-04-05 22:30:29.032220
+T361029,Branch 5,Bangalore,3108.95,Failed,Failed,2025-04-01 21:33:25.061898
+T920018,Branch 5,Bangalore,1537.38,Failed,,2025-04-01 02:18:14.561336
+T177399,Branch 5,Bangalore,3594.22,,Failed,2025-04-04 23:46:41.917878
+T747950,Branch 5,Bangalore,,,Failed,2025-04-07 21:08:33.698944
+T333333,Branch 5,Bangalore,1959.83,Withdrawal,Success,2025-04-03 05:50:23.094796
+T883864,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-05 22:56:19.696387
+T646114,Branch 5,Bangalore,1878.43,Deposit,Success,2025-04-05 10:03:57.062812
+T699920,Branch 5,Bangalore,3531.04,Transfer,Success,2025-04-03 04:10:20.864281
+T288253,Branch 5,Bangalore,1994.83,Failed,Failed,
+T712009,Branch 5,Bangalore,596.1,,Success,2025-04-01 04:19:07.486134
+T305926,Branch 5,Bangalore,3181.9,,Success,2025-04-01 08:09:21.146658
+T923784,Branch 5,Bangalore,2866.14,Failed,Failed,2025-04-03 19:15:14.499622
+T783360,Branch 5,Bangalore,834.25,Withdrawal,Success,2025-04-05 18:05:32.562489
+T749911,Branch 5,Bangalore,1748.45,Failed,Success,2025-04-05 23:18:03.032638
+T360895,,Bangalore,1211.45,Failed,Success,2025-04-05 01:00:19.171773
+T499080,Branch 5,Bangalore,642.78,Deposit,Success,2025-04-05 09:36:03.645040
+T395125,Branch 5,Bangalore,1873.71,Failed,Success,2025-04-04 08:31:16.260747
+T405172,Branch 5,Bangalore,4724.42,Transfer,,2025-04-06 15:13:21.296502
+T139368,Branch 5,Bangalore,4983.69,Failed,Failed,2025-04-02 20:58:03.300667
+T468071,Branch 5,Bangalore,3040.21,Transfer,Failed,2025-04-04 20:01:09.805619
+T620463,Branch 5,Bangalore,1437.71,Deposit,Failed,
+T709548,Branch 5,Bangalore,2020.2,Failed,Success,2025-04-02 06:36:24.809351
+,Branch 5,Bangalore,575.33,Deposit,Failed,2025-04-04 19:43:36.132243
+,Branch 5,Bangalore,2727.16,Deposit,Success,2025-04-04 09:48:45.531100
+T697919,Branch 5,Bangalore,3954.4,Deposit,Failed,2025-04-07 11:46:30.137307
+,Branch 5,Bangalore,3400.97,,Success,2025-04-01 02:14:54.768912
+T631615,Branch 5,Bangalore,,Transfer,Failed,2025-04-01 03:48:01.191804
+T331814,Branch 5,Bangalore,556.46,Transfer,Failed,2025-04-04 13:43:56.087068
+T461118,Branch 5,Bangalore,2720.74,Failed,Failed,2025-04-03 05:36:42.795243
+T603321,Branch 5,Bangalore,1294.13,Failed,Failed,2025-04-05 12:05:37.513041
+T352978,Branch 5,Bangalore,4351.75,Failed,Failed,2025-04-06 08:19:08.557488
+T704904,Branch 5,Bangalore,4589.56,Withdrawal,Success,2025-04-06 04:15:50.020959
+T260046,Branch 5,Bangalore,4666.03,Failed,Success,2025-04-03 18:23:12.977628
+T267465,Branch 5,Bangalore,1243.47,Failed,Success,2025-04-03 11:05:53.439841
+T322432,Branch 5,Bangalore,3328.13,Withdrawal,Success,2025-04-06 22:18:49.613137
+T105222,Branch 5,Bangalore,4240.61,,Failed,2025-04-05 20:36:30.179616
+T646171,Branch 5,Bangalore,371.77,Transfer,Success,2025-04-03 08:31:03.974774
+T888379,Branch 5,Bangalore,3601.66,,Success,2025-04-06 13:39:59.184343
+T974944,Branch 5,Bangalore,4235.64,Deposit,Success,2025-04-05 22:52:55.601695
+T977369,Branch 5,Bangalore,,Deposit,Failed,2025-04-04 16:42:21.229466
+T135212,Branch 5,,1015.74,Transfer,Failed,2025-04-02 13:37:42.251922
+,Branch 5,Bangalore,4737.25,Deposit,Failed,2025-04-05 06:15:57.779155
+,Branch 5,Bangalore,2306.51,Transfer,Success,2025-04-05 15:27:10.104178
+,Branch 5,Bangalore,2803.94,,Success,2025-04-05 20:16:27.784547
+T873024,Branch 5,Bangalore,3456.32,Transfer,Success,2025-04-02 08:25:10.923197
+T166827,Branch 5,Bangalore,871.59,Transfer,Failed,2025-04-06 21:14:40.435263
+T220401,Branch 5,Bangalore,3433.59,Failed,Failed,2025-04-04 12:29:11.254777
+T992228,Branch 5,Bangalore,1069.08,Withdrawal,Failed,2025-04-02 19:33:16.826915
+T799602,Branch 5,Bangalore,537.32,Failed,Failed,2025-04-02 08:09:39.306692
+T534031,Branch 5,Bangalore,1140.45,Transfer,Success,2025-04-02 00:13:38.702547
+T157821,Branch 5,Bangalore,938.33,Transfer,Failed,2025-04-02 18:13:32.960829
+,Branch 5,Bangalore,1613.49,Failed,Failed,2025-04-04 20:49:40.397655
+T843165,Branch 5,Bangalore,4421.49,Failed,Failed,
+T741379,,Bangalore,3205.3,Failed,Failed,2025-04-03 06:10:40.656873
+T114338,Branch 5,Bangalore,4292.01,Failed,Failed,2025-04-03 07:32:47.967186
+,Branch 5,Bangalore,2608.92,Deposit,Failed,2025-04-07 03:28:53.859719
+T240273,Branch 5,Bangalore,3877.3,Withdrawal,,2025-04-03 01:04:54.162199
+T693778,Branch 5,Bangalore,534.78,Transfer,Failed,2025-04-01 04:45:14.779057
+T386820,Branch 5,Bangalore,4554.91,Transfer,Success,2025-04-04 19:31:32.918103
+T940236,Branch 5,Bangalore,4544.88,Transfer,Success,2025-04-05 19:09:07.507412
+T250289,Branch 5,Bangalore,1394.61,Failed,Failed,2025-04-04 03:27:54.562452
+T115809,Branch 5,Bangalore,303.95,Deposit,Success,
+T694196,Branch 5,Bangalore,3354.31,Transfer,Success,2025-04-07 12:31:49.066493
+T732782,Branch 5,Bangalore,124.09,Transfer,Success,2025-04-07 21:47:04.848883
+T559908,Branch 5,Bangalore,1607.68,Withdrawal,Failed,2025-04-05 06:54:14.105153
+,Branch 5,Bangalore,,Deposit,Success,2025-04-06 12:55:45.161691
+T520557,Branch 5,Bangalore,1061.81,,Failed,2025-04-01 05:27:16.884624
+T747999,Branch 5,Bangalore,,Transfer,Success,2025-04-03 05:38:53.176461
+T137752,Branch 5,Bangalore,779.64,Transfer,Success,2025-04-03 05:59:09.090410
+T566079,Branch 5,Bangalore,1254.98,Failed,Failed,2025-04-07 06:55:17.602262
+T663492,,Bangalore,2629.2,Transfer,Success,2025-04-05 09:28:16.428495
+T263950,Branch 5,Bangalore,1120.29,Failed,Success,2025-04-03 10:51:40.741492
+T604706,Branch 5,Bangalore,1336.3,Withdrawal,Failed,
+T797853,Branch 5,Bangalore,425.72,Withdrawal,Success,2025-04-01 10:15:41.013097
+,Branch 5,Bangalore,3025.86,Failed,Success,
+T684184,Branch 5,Bangalore,2890.25,Deposit,Failed,2025-04-03 00:05:52.818913
+T531790,Branch 5,Bangalore,686.15,Withdrawal,Success,2025-04-05 01:30:35.213978
+T403587,Branch 5,Bangalore,793.42,Deposit,Failed,2025-04-06 02:37:54.321217
+T510697,Branch 5,Bangalore,2708.96,Transfer,Failed,2025-04-07 17:33:46.815373
+T449188,Branch 5,Bangalore,329.48,Deposit,Failed,2025-04-06 14:35:28.387021
+T221840,Branch 5,Bangalore,710.34,Transfer,Failed,2025-04-01 20:59:19.783537
+T211681,Branch 5,Bangalore,2490.43,Withdrawal,Success,2025-04-01 21:28:19.222554
+T698178,Branch 5,Bangalore,2485.43,Failed,Success,
+T292113,Branch 5,Bangalore,304.75,Deposit,,2025-04-07 14:55:41.173376
+T263823,Branch 5,Bangalore,4873.62,Withdrawal,Success,2025-04-06 01:19:24.080067
+T626227,Branch 5,Bangalore,4945.34,Failed,Failed,2025-04-05 07:05:50.143847
+T198013,Branch 5,Bangalore,2104.35,Transfer,Success,2025-04-02 03:58:21.734310
+T649267,Branch 5,Bangalore,,Withdrawal,Success,2025-04-05 13:44:12.204312
+T183418,Branch 5,Bangalore,1292.84,,Success,2025-04-01 22:11:58.206668
+T400711,Branch 5,Bangalore,2095.42,Transfer,Success,2025-04-07 22:47:00.743242
+,Branch 5,Bangalore,2181.49,Withdrawal,Success,2025-04-03 13:53:19.954365
+T139112,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-07 05:54:54.997582
+T497279,,Bangalore,300.08,Failed,Success,2025-04-02 04:17:47.245909
+T583127,,Bangalore,975.82,Deposit,,2025-04-06 22:15:07.496185
+,Branch 5,Bangalore,1748.74,Withdrawal,Success,2025-04-03 12:17:13.911850
+T556831,Branch 5,Bangalore,152.7,Deposit,Success,2025-04-02 20:12:48.579342
+T512441,Branch 5,Bangalore,3478.7,Failed,Failed,2025-04-07 13:36:11.744014
+T542843,,Bangalore,3185.38,Failed,,2025-04-06 04:47:50.519129
+T537123,Branch 5,Bangalore,,,,2025-04-03 07:28:56.484053
+,,Bangalore,1895.53,Deposit,Failed,2025-04-02 19:03:07.102420
+T581541,Branch 5,Bangalore,1917.46,Failed,Success,2025-04-07 18:28:19.545952
+T658223,Branch 5,Bangalore,1372.11,Transfer,Success,2025-04-03 15:38:41.324413
+T458011,Branch 5,Bangalore,880.18,Failed,Failed,2025-04-01 11:39:38.808048
+T239837,Branch 5,Bangalore,4682.89,Withdrawal,Success,2025-04-05 22:48:03.728864
+T561614,Branch 5,Bangalore,3718.71,Deposit,Failed,2025-04-04 11:06:34.223850
+T178602,Branch 5,Bangalore,291.28,Deposit,Failed,2025-04-02 03:30:56.748988
+T226806,Branch 5,Bangalore,4877.28,Transfer,Success,2025-04-04 11:33:36.489508
+T827160,Branch 5,Bangalore,4083.12,Transfer,Failed,
+T141929,Branch 5,Bangalore,,Deposit,Failed,2025-04-01 22:02:41.234613
+T734118,Branch 5,Bangalore,2316.29,Deposit,Success,2025-04-03 00:03:41.925140
+T939565,Branch 5,Bangalore,3429.2,Deposit,Success,2025-04-03 15:09:16.161497
+T333649,Branch 5,Bangalore,2927.16,,Success,2025-04-04 12:20:07.198405
+T879511,Branch 5,Bangalore,1688.21,Deposit,Success,2025-04-01 05:25:19.788621
+T634383,Branch 5,Bangalore,2780.25,Deposit,Success,2025-04-02 00:52:25.679749
+T560437,Branch 5,Bangalore,,Deposit,Success,2025-04-04 22:41:29.541001
+T403235,Branch 5,Bangalore,4159.95,,Success,2025-04-05 06:43:12.422737
+,Branch 5,Bangalore,2451.84,Deposit,Success,2025-04-07 16:13:25.288980
+T692256,Branch 5,Bangalore,3292.88,Withdrawal,Failed,2025-04-04 22:42:00.453138
+T547780,,Bangalore,967.13,Deposit,Success,2025-04-02 11:51:53.712864
+,Branch 5,Bangalore,3886.64,Withdrawal,Failed,2025-04-05 09:42:27.441607
+T871702,Branch 5,Bangalore,1432.7,Deposit,Success,2025-04-01 18:53:26.497471
+T103187,Branch 5,Bangalore,2910.78,Withdrawal,Success,2025-04-07 05:02:41.506427
+T495906,Branch 5,Bangalore,2094.26,Failed,,2025-04-02 05:17:01.349518
+T625368,Branch 5,Bangalore,881.89,Deposit,Success,2025-04-04 17:32:19.612294
+T989710,Branch 5,Bangalore,540.86,Transfer,Success,2025-04-03 18:39:53.077187
+T664434,Branch 5,Bangalore,4475.51,Withdrawal,Success,2025-04-02 10:39:26.936205
+T829796,Branch 5,Bangalore,4729.6,,Success,2025-04-02 22:58:24.398609
+T979725,Branch 5,Bangalore,174.56,Withdrawal,Success,2025-04-03 15:30:53.500764
+T746461,Branch 5,Bangalore,4449.14,Withdrawal,Success,2025-04-07 00:17:26.438227
+T506584,Branch 5,Bangalore,308.8,Withdrawal,Success,2025-04-03 00:18:52.976555
+,Branch 5,Bangalore,1086.12,Withdrawal,Failed,2025-04-01 12:08:57.051203
+T933033,Branch 5,Bangalore,3226.92,Failed,Failed,2025-04-01 17:09:21.242715
+T846457,Branch 5,Bangalore,3753.46,Deposit,Failed,2025-04-02 05:17:53.890497
+T824417,Branch 5,Bangalore,1733.8,,Failed,2025-04-04 08:53:09.743073
+T829639,Branch 5,Bangalore,1788.32,Transfer,Success,
+T752741,Branch 5,Bangalore,2084.99,Deposit,Failed,2025-04-06 06:02:30.971121
+T305509,Branch 5,Bangalore,2229.71,Withdrawal,Success,2025-04-04 11:21:43.575496
+T787993,Branch 5,Bangalore,1206.91,Transfer,Failed,2025-04-03 21:47:28.432738
+T368068,Branch 5,Bangalore,854.01,Deposit,Success,2025-04-04 01:54:10.222492
+T503550,Branch 5,Bangalore,882.07,Deposit,Failed,2025-04-04 23:13:19.054936
+T625349,Branch 5,,2088.32,,Failed,2025-04-07 21:45:08.467658
+T952659,Branch 5,Bangalore,2756.48,Transfer,Success,2025-04-01 21:32:07.157912
+T927769,Branch 5,Bangalore,195.66,Failed,Failed,2025-04-03 21:46:25.644862
+T683800,Branch 5,Bangalore,4285.95,Deposit,Success,2025-04-05 16:41:22.446781
+T691317,Branch 5,Bangalore,3194.53,Transfer,Success,2025-04-03 13:30:38.148505
+T853342,Branch 5,Bangalore,306.07,Withdrawal,Success,2025-04-05 06:13:53.153112
+,Branch 5,Bangalore,4934.22,Withdrawal,Success,2025-04-02 05:24:39.958220
+T274784,Branch 5,Bangalore,2344.7,Transfer,,2025-04-01 10:38:30.496656
+T384680,Branch 5,,1142.57,Transfer,Success,2025-04-01 10:39:41.752179
+T574022,Branch 5,Bangalore,867.42,Failed,Failed,2025-04-07 08:54:03.180903
+T498002,Branch 5,Bangalore,2717.27,Transfer,Failed,2025-04-07 17:05:44.756191
+,Branch 5,Bangalore,700.01,Transfer,Success,2025-04-01 01:07:39.843235
+T150246,Branch 5,Bangalore,2108.08,Withdrawal,Failed,2025-04-02 06:54:56.054377
+,Branch 5,Bangalore,4998.12,Failed,Success,2025-04-01 12:33:26.230570
+T473687,Branch 5,Bangalore,2522.17,,Success,2025-04-04 04:04:52.923339
+T207867,Branch 5,Bangalore,1817.55,Withdrawal,Success,2025-04-03 06:45:03.260017
+T188216,Branch 5,Bangalore,,Failed,Failed,2025-04-07 11:27:15.424568
+T910702,Branch 5,Bangalore,2800.11,Failed,Success,2025-04-03 01:47:28.084879
+T247160,,Bangalore,2214.63,Deposit,,2025-04-02 04:30:52.837562
+T818658,Branch 5,Bangalore,3643.98,,Success,2025-04-04 06:05:54.602794
+T921527,Branch 5,Bangalore,4791.42,Withdrawal,Success,2025-04-03 16:08:44.442030
+T769472,Branch 5,Bangalore,2028.81,Transfer,Failed,2025-04-04 09:36:41.180563
+T194739,Branch 5,Bangalore,2446.34,Transfer,Failed,2025-04-04 20:58:44.631392
+T389933,Branch 5,Bangalore,,Failed,Failed,2025-04-01 15:05:07.574864
+T528649,Branch 5,Bangalore,,Deposit,Failed,2025-04-04 06:32:30.599269
+T240682,Branch 5,Bangalore,576.09,,Failed,2025-04-01 00:34:15.439547
+T331503,Branch 5,Bangalore,4559.9,,Success,2025-04-03 23:44:47.883122
+T278082,Branch 5,Bangalore,3183.04,Withdrawal,Success,2025-04-07 23:28:39.404843
+T548631,Branch 5,Bangalore,3521.76,Failed,Failed,2025-04-06 19:07:20.858416
+T981011,Branch 5,Bangalore,1846.94,Failed,Success,2025-04-02 09:14:27.683450
+,Branch 5,Bangalore,2219.72,Transfer,Failed,2025-04-03 08:04:15.725644
+,Branch 5,Bangalore,826.75,,Success,2025-04-02 20:35:57.731433
+T630589,Branch 5,Bangalore,3553.48,Deposit,Success,
+T965342,Branch 5,Bangalore,4986.48,Transfer,Success,2025-04-04 06:02:15.591677
+T827132,Branch 5,Bangalore,4804.74,,Success,2025-04-03 03:25:08.639158
+T360295,,Bangalore,1613.56,Deposit,,2025-04-01 14:26:01.360109
+T569404,Branch 5,Bangalore,464.61,Failed,Success,
+,Branch 5,Bangalore,4067.49,Failed,Failed,2025-04-07 16:18:37.508029
+T256139,Branch 5,Bangalore,3438.81,Failed,Success,2025-04-03 09:10:22.445547
+T434407,Branch 5,Bangalore,3068.74,Failed,Failed,2025-04-01 02:27:23.616087
+,Branch 5,Bangalore,1068.46,Failed,Success,2025-04-05 18:58:28.952177
+T478117,Branch 5,Bangalore,1442.57,Deposit,Success,2025-04-03 12:30:24.903873
+T891898,,Bangalore,1855.05,Deposit,Failed,2025-04-05 12:58:10.658150
+,Branch 5,Bangalore,,Failed,Success,2025-04-01 06:36:07.024793
+T560454,,Bangalore,3477.25,Transfer,Success,2025-04-05 06:15:44.569055
+T457405,Branch 5,Bangalore,3696.54,Deposit,Failed,2025-04-03 14:58:07.397699
+T809142,Branch 5,Bangalore,4824.48,Deposit,Failed,2025-04-05 19:37:08.632394
+T423902,Branch 5,Bangalore,,Deposit,Success,2025-04-07 06:46:50.303371
+T946499,Branch 5,Bangalore,870.2,Failed,Failed,2025-04-06 23:44:38.493548
+T130542,Branch 5,Bangalore,3633.24,Failed,Failed,2025-04-03 13:09:07.851623
+T209351,Branch 5,Bangalore,1091.41,Transfer,Failed,2025-04-06 18:33:34.815178
+T693830,Branch 5,Bangalore,3844.86,Withdrawal,Success,2025-04-04 15:39:21.536937
+T366342,Branch 5,Bangalore,2958.09,Transfer,Failed,2025-04-04 21:34:25.427908
+T325605,Branch 5,Bangalore,,Deposit,Failed,2025-04-02 20:51:39.855616
+T798385,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-07 05:07:08.898371
+T682116,Branch 5,Bangalore,895.92,Deposit,Success,2025-04-07 09:21:15.596103
+T627361,Branch 5,Bangalore,4932.57,Transfer,Success,2025-04-05 17:24:20.768126
+T386295,Branch 5,Bangalore,4451.01,Deposit,Success,2025-04-04 23:28:47.628217
+T282244,Branch 5,Bangalore,497.18,Failed,Success,2025-04-02 09:57:32.247983
+T817656,Branch 5,Bangalore,1676.88,Failed,Success,
+T236542,Branch 5,Bangalore,1810.84,Deposit,Failed,2025-04-01 14:41:36.794518
+T784970,Branch 5,Bangalore,2585.77,Failed,Success,2025-04-01 10:34:06.685301
+T583074,Branch 5,Bangalore,4054.68,Transfer,Success,2025-04-05 05:03:02.542173
+T583681,Branch 5,Bangalore,,Deposit,Failed,2025-04-05 14:37:08.948962
+T260800,Branch 5,Bangalore,4611.92,Transfer,Failed,2025-04-04 16:10:14.352473
+T759251,Branch 5,Bangalore,1933.33,Withdrawal,Success,2025-04-02 11:15:08.146116
+T890987,Branch 5,Bangalore,964.74,Withdrawal,,2025-04-05 20:32:50.527127
+T470567,Branch 5,Bangalore,781.27,Deposit,Failed,2025-04-06 09:57:19.653448
+T273131,Branch 5,,3966.79,Withdrawal,Failed,2025-04-03 00:14:35.882481
+T120169,Branch 5,Bangalore,4807.7,Transfer,Failed,2025-04-03 06:06:34.793783
+T824306,Branch 5,Bangalore,2496.84,Deposit,Failed,2025-04-04 00:49:45.108697
+T817750,Branch 5,Bangalore,2117.81,Transfer,Success,2025-04-03 22:25:58.630587
+T598898,Branch 5,Bangalore,1313.04,Transfer,Failed,2025-04-06 01:06:36.436498
+T416310,Branch 5,Bangalore,2323.25,Withdrawal,Success,2025-04-07 11:44:26.776943
+T745501,,Bangalore,683.05,,Failed,2025-04-07 22:48:54.824774
+T768960,Branch 5,Bangalore,2440.62,Withdrawal,Success,2025-04-04 05:15:08.462168
+T668415,Branch 5,Bangalore,1260.1,Failed,,2025-04-05 03:45:10.104487
+,Branch 5,Bangalore,2736.51,Transfer,Failed,2025-04-05 09:17:06.410170
+T415911,Branch 5,Bangalore,470.55,Failed,Success,2025-04-07 11:33:52.384890
+T518751,Branch 5,Bangalore,174.54,Withdrawal,Success,2025-04-05 05:41:47.775137
+T831202,Branch 5,Bangalore,683.95,Deposit,Failed,2025-04-02 04:23:15.499173
+T243413,Branch 5,Bangalore,1710.69,Withdrawal,Failed,2025-04-06 05:39:38.984950
+T325562,Branch 5,Bangalore,3329.92,Transfer,Success,2025-04-05 21:31:59.933652
+T652088,Branch 5,Bangalore,1187.56,Deposit,Failed,2025-04-02 13:50:51.638983
+T612324,Branch 5,Bangalore,1247.8,Withdrawal,Failed,2025-04-06 15:30:07.579489
+T512481,Branch 5,Bangalore,3629.08,Deposit,Failed,2025-04-04 16:56:15.454179
+T578189,Branch 5,Bangalore,3429.33,Transfer,Success,2025-04-01 07:54:03.194046
+T637753,Branch 5,Bangalore,1687.6,Withdrawal,Failed,2025-04-04 05:59:32.630606
+T533683,Branch 5,Bangalore,,Transfer,Failed,2025-04-04 20:54:29.992944
+T635070,Branch 5,Bangalore,4444.9,Deposit,Failed,2025-04-01 02:45:31.732760
+T892690,Branch 5,Bangalore,1186.74,Deposit,Failed,2025-04-06 09:33:36.419225
+T244531,Branch 5,Bangalore,,Failed,Success,2025-04-02 09:33:17.405804
+T835574,Branch 5,Bangalore,2183.02,Transfer,Failed,2025-04-04 03:24:15.727540
+T646331,Branch 5,Bangalore,4038.23,Withdrawal,Success,2025-04-07 01:38:12.764807
+T664825,Branch 5,Bangalore,3259.05,Transfer,Success,2025-04-03 21:44:15.950891
+T712951,Branch 5,Bangalore,135.06,Withdrawal,Success,2025-04-07 13:17:03.458468
+T171981,Branch 5,Bangalore,3614.82,Transfer,Failed,2025-04-07 08:14:17.466943
+T669558,Branch 5,Bangalore,3579.56,Failed,Success,2025-04-03 01:17:07.851231
+T545512,Branch 5,Bangalore,1682.27,,Failed,2025-04-04 04:11:50.346984
+,Branch 5,Bangalore,2079.55,Failed,Success,2025-04-03 03:45:12.732212
+T571679,Branch 5,Bangalore,1180.91,Transfer,Failed,2025-04-04 20:40:55.710129
+T650839,Branch 5,Bangalore,4668.63,Withdrawal,Failed,
+T578340,Branch 5,Bangalore,1728.31,Failed,Failed,2025-04-06 19:44:08.440172
+T638313,Branch 5,Bangalore,1538.44,,Failed,2025-04-02 14:08:03.308717
+T505816,Branch 5,Bangalore,1201.36,Withdrawal,Success,2025-04-07 18:55:01.036140
+,Branch 5,Bangalore,720.39,Transfer,Failed,2025-04-02 03:43:29.485268
+T247412,Branch 5,Bangalore,4210.59,Transfer,Success,2025-04-06 20:07:29.021410
+T447289,Branch 5,Bangalore,4104.83,Withdrawal,Success,2025-04-01 11:36:08.741118
+T324081,Branch 5,Bangalore,1912.92,Deposit,Failed,2025-04-04 13:00:36.892707
+T129709,Branch 5,Bangalore,1479.02,Transfer,Failed,2025-04-02 04:45:28.699767
+T551738,Branch 5,Bangalore,3541.07,Transfer,Success,2025-04-03 11:23:58.758619
+T522652,Branch 5,Bangalore,1983.3,,Failed,2025-04-06 11:48:36.407606
+,Branch 5,Bangalore,4075.59,,Failed,2025-04-06 23:21:39.395628
+T482685,Branch 5,Bangalore,3778.81,Deposit,Success,2025-04-05 01:57:57.023697
+,Branch 5,Bangalore,1590.9,Transfer,Failed,2025-04-06 17:43:40.774216
+T131321,Branch 5,Bangalore,3704.73,Failed,Success,2025-04-01 19:09:12.865296
+T706112,Branch 5,Bangalore,3467.65,Transfer,Success,2025-04-02 23:46:05.287879
+T380213,Branch 5,Bangalore,2141.19,Withdrawal,Success,2025-04-04 22:12:27.369770
+T634469,Branch 5,Bangalore,1570.72,Deposit,Failed,2025-04-01 03:01:59.565502
+T170090,Branch 5,Bangalore,1535.39,Deposit,Success,2025-04-04 01:45:47.624206
+T698129,Branch 5,Bangalore,465.66,Deposit,Failed,2025-04-04 18:17:29.219931
+T770639,Branch 5,Bangalore,833.21,Withdrawal,Failed,2025-04-04 03:12:27.273443
+T594834,,Bangalore,2704.47,Withdrawal,Success,2025-04-06 16:00:25.249383
+T797268,Branch 5,Bangalore,3838.37,Deposit,Success,2025-04-07 14:08:29.039199
+T954698,Branch 5,Bangalore,3006.83,Transfer,Failed,
+T188228,Branch 5,Bangalore,1088.2,Failed,Failed,2025-04-01 05:23:31.011530
+T306145,Branch 5,Bangalore,283.38,Failed,Success,2025-04-04 07:42:09.231094
+T133658,Branch 5,Bangalore,1473.44,Withdrawal,Failed,2025-04-04 04:16:31.149642
+T114570,,Bangalore,1527.13,,Success,2025-04-07 14:08:38.842570
+T196973,Branch 5,Bangalore,2507.67,Deposit,Success,2025-04-06 10:04:12.768403
+T964780,Branch 5,Bangalore,292.55,Transfer,Failed,2025-04-04 15:55:37.016911
+T509406,,Bangalore,2020.59,Withdrawal,Success,2025-04-06 03:42:02.695597
+T218850,Branch 5,Bangalore,3916.33,Transfer,Success,2025-04-01 09:35:57.385318
+T749356,Branch 5,Bangalore,834.56,Withdrawal,Failed,
+T237150,Branch 5,Bangalore,4474.43,Deposit,Failed,2025-04-02 19:07:27.182593
+T296778,Branch 5,Bangalore,4753.6,Failed,Failed,2025-04-05 05:40:25.144268
+T467409,Branch 5,Bangalore,4107.57,Transfer,Success,2025-04-04 17:40:31.562042
+T466188,Branch 5,Bangalore,4022.92,Withdrawal,Failed,2025-04-01 19:09:34.171799
+T965511,Branch 5,Bangalore,3851.38,Failed,Success,2025-04-06 11:18:39.241519
+T414354,Branch 5,Bangalore,3397.77,Deposit,Failed,2025-04-01 10:04:03.266590
+T412163,Branch 5,Bangalore,1084.68,Failed,Failed,
+T363414,Branch 5,Bangalore,1512.41,Transfer,Failed,2025-04-07 06:46:09.101808
+T765498,Branch 5,Bangalore,1823.55,Transfer,Failed,2025-04-04 01:02:22.968826
+T775222,Branch 5,Bangalore,501.98,Failed,Failed,2025-04-02 17:42:01.501455
+,Branch 5,Bangalore,4157.55,Transfer,Failed,2025-04-04 05:38:33.266323
+T139145,Branch 5,Bangalore,1696.46,,Failed,2025-04-07 21:07:30.157900
+,Branch 5,Bangalore,4860.78,Failed,Failed,2025-04-01 11:09:14.397697
+T916388,Branch 5,Bangalore,1618.37,Deposit,Success,2025-04-05 23:23:54.686235
+T883494,Branch 5,Bangalore,603.82,Transfer,Success,2025-04-07 21:59:38.815960
+T786617,Branch 5,Bangalore,4941.06,Withdrawal,Failed,2025-04-04 12:31:58.572577
+T165855,Branch 5,Bangalore,4562.25,Deposit,Failed,2025-04-07 04:43:12.836731
+T557383,Branch 5,Bangalore,,Failed,Failed,2025-04-02 20:15:46.107392
+T441405,Branch 5,Bangalore,1546.06,Failed,Success,2025-04-03 23:30:47.967054
+T470716,Branch 5,Bangalore,1550.02,Deposit,Failed,2025-04-03 00:00:12.088994
+T702339,Branch 5,Bangalore,750.18,Deposit,Failed,2025-04-04 10:52:08.454053
+T653205,Branch 5,Bangalore,3219.11,Transfer,Failed,2025-04-02 03:48:39.418476
+T631873,Branch 5,Bangalore,1310.31,Deposit,Success,2025-04-01 21:03:24.417287
+T790372,Branch 5,Bangalore,3509.58,Failed,Success,2025-04-02 06:17:34.683068
+T497165,Branch 5,Bangalore,,Withdrawal,Success,2025-04-06 00:33:50.585028
+T682824,Branch 5,Bangalore,,Failed,Failed,2025-04-07 23:43:39.103273
+T598006,Branch 5,Bangalore,4006.5,Withdrawal,Success,2025-04-06 02:07:46.861143
+T133057,Branch 5,Bangalore,4570.75,Withdrawal,Failed,2025-04-05 07:43:20.630670
+,Branch 5,Bangalore,4430.47,Deposit,Failed,2025-04-01 05:39:20.535835
+T805772,Branch 5,Bangalore,2160.79,Deposit,Failed,2025-04-07 07:08:12.721979
+T585730,Branch 5,Bangalore,1007.98,,Success,2025-04-03 03:30:28.595883
+,Branch 5,Bangalore,2156.6,Failed,Failed,2025-04-07 07:54:57.670023
+T691694,Branch 5,Bangalore,1890.5,Deposit,Success,2025-04-01 15:13:14.970280
+,Branch 5,Bangalore,277.5,Transfer,Success,2025-04-07 05:48:07.715367
+T844007,Branch 5,Bangalore,3037.3,,,2025-04-03 02:24:05.752739
+T831438,Branch 5,Bangalore,4802.87,Withdrawal,Failed,2025-04-01 08:19:30.191305
+,,Bangalore,4514.27,Deposit,Failed,2025-04-07 09:05:08.359930
+T894957,Branch 5,Bangalore,2706.95,Failed,Failed,2025-04-05 23:55:25.566336
+T893188,Branch 5,Bangalore,2638.79,,Success,2025-04-02 09:32:04.319906
+T715910,Branch 5,Bangalore,3425.06,Failed,Failed,2025-04-07 10:24:19.891014
+T378769,Branch 5,Bangalore,3685.34,,Failed,2025-04-03 22:09:11.713810
+T651389,Branch 5,Bangalore,4162.04,Failed,Failed,2025-04-06 04:13:11.540829
+T355636,Branch 5,Bangalore,1433.5,,Success,2025-04-07 09:49:35.362466
+T231468,Branch 5,Bangalore,1543.28,,Success,2025-04-04 11:09:20.012329
+T774990,Branch 5,Bangalore,,Failed,Success,2025-04-03 08:46:40.930770
+T589946,Branch 5,Bangalore,4468.37,Deposit,Success,2025-04-06 11:44:06.261597
+T850774,Branch 5,Bangalore,1817.8,Withdrawal,Success,2025-04-01 03:05:25.616066
+T894094,Branch 5,Bangalore,241.98,Transfer,Success,2025-04-04 04:44:26.201565
+T998380,Branch 5,Bangalore,4173.39,,Failed,2025-04-04 04:23:28.296958
+T601919,Branch 5,Bangalore,,Deposit,Success,2025-04-04 07:31:08.895030
+T780742,Branch 5,Bangalore,4171.51,,Success,2025-04-07 17:44:36.388784
+T602071,Branch 5,Bangalore,1157.14,Deposit,Success,2025-04-04 11:15:06.725867
+T824536,Branch 5,Bangalore,345.76,Transfer,Failed,2025-04-07 05:56:39.166080
+T702490,Branch 5,Bangalore,3643.4,Transfer,,2025-04-07 21:08:50.138134
+,Branch 5,Bangalore,2936.39,Deposit,Success,2025-04-01 21:05:49.577125
+T516082,,,4573.59,Deposit,Failed,2025-04-03 08:13:47.225676
+T548445,Branch 5,Bangalore,2261.09,Failed,Success,2025-04-01 06:27:29.048744
+,Branch 5,Bangalore,3902.67,Withdrawal,,2025-04-01 08:24:59.935455
+T286199,Branch 5,Bangalore,269.39,,Success,2025-04-04 08:16:43.418289
+,Branch 5,Bangalore,,Withdrawal,Failed,
+T764106,Branch 5,Bangalore,,Transfer,Failed,2025-04-03 11:27:00.955769
+T809592,Branch 5,Bangalore,1067.0,Withdrawal,Success,2025-04-04 22:00:49.925461
+T891171,Branch 5,Bangalore,3461.86,Withdrawal,Failed,2025-04-07 17:12:16.143077
+T323003,Branch 5,Bangalore,2472.25,Failed,Failed,2025-04-01 08:45:53.011190
+T239082,Branch 5,Bangalore,1305.62,Deposit,,
+T241145,Branch 5,Bangalore,,Failed,Failed,2025-04-05 21:57:52.654573
+T104996,Branch 5,Bangalore,2680.6,Withdrawal,Success,2025-04-07 16:42:24.018947
+,Branch 5,Bangalore,1286.53,Failed,Failed,2025-04-01 06:08:58.670998
+T673978,Branch 5,Bangalore,4170.3,Transfer,Success,2025-04-02 11:55:51.851138
+,Branch 5,Bangalore,1866.28,Deposit,Failed,2025-04-02 03:00:45.496519
+T230629,Branch 5,Bangalore,939.77,Failed,Failed,2025-04-05 12:07:55.721355
+T584051,Branch 5,Bangalore,1133.57,,Success,2025-04-05 08:27:36.038881
+,Branch 5,Bangalore,4464.75,Withdrawal,Success,2025-04-03 02:23:59.095549
+T366170,Branch 5,Bangalore,1588.42,Deposit,Success,2025-04-01 05:21:24.365720
+T280544,Branch 5,Bangalore,3032.06,Withdrawal,Success,2025-04-02 19:07:37.714906
+T468822,Branch 5,Bangalore,1924.66,Withdrawal,Failed,2025-04-01 11:50:19.746144
+T731128,Branch 5,,4003.94,Failed,Failed,2025-04-01 07:40:19.499353
+T967563,Branch 5,Bangalore,2481.26,Transfer,Failed,2025-04-04 05:06:37.018976
+T946152,Branch 5,Bangalore,3079.04,,Failed,2025-04-07 07:52:51.961380
+T143575,Branch 5,Bangalore,4799.02,,,2025-04-02 18:04:45.914481
+,Branch 5,Bangalore,3254.11,Failed,Failed,2025-04-06 20:08:08.211350
+T282762,Branch 5,Bangalore,2880.62,Deposit,Success,2025-04-05 04:04:34.195077
+,Branch 5,Bangalore,3699.87,Transfer,Success,2025-04-04 21:19:08.281874
+T445180,Branch 5,Bangalore,2293.84,Deposit,Success,2025-04-01 02:34:15.323782
+T386267,Branch 5,Bangalore,2511.6,,Failed,2025-04-02 18:13:59.776613
+T383246,Branch 5,Bangalore,3255.74,Transfer,Success,2025-04-02 04:53:35.956596
+T996220,Branch 5,Bangalore,,Deposit,Failed,2025-04-01 23:31:31.801567
+T387172,,Bangalore,686.31,,Success,2025-04-04 22:59:08.779401
+T535504,,Bangalore,4882.49,Transfer,Failed,2025-04-07 07:21:07.032518
+T434249,Branch 5,Bangalore,3221.03,Deposit,Failed,2025-04-04 04:00:13.284681
+T252433,Branch 5,Bangalore,,Deposit,Success,2025-04-07 06:28:20.350666
+T764367,Branch 5,Bangalore,1615.0,Transfer,Success,2025-04-04 05:09:54.383162
+T237961,Branch 5,Bangalore,2247.87,Deposit,Failed,2025-04-05 06:41:08.087971
+T630696,Branch 5,Bangalore,471.68,Deposit,Success,2025-04-07 20:52:44.814403
+T568694,Branch 5,Bangalore,4345.22,Withdrawal,Success,2025-04-02 22:05:58.531089
+,Branch 5,Bangalore,,Deposit,,2025-04-02 12:16:22.785310
+T538718,Branch 5,Bangalore,,,,
+T529030,Branch 5,Bangalore,2210.4,Deposit,Failed,2025-04-01 18:42:02.301883
+T125586,Branch 5,Bangalore,1303.93,Withdrawal,Failed,2025-04-05 17:38:30.776893
+T125760,Branch 5,Bangalore,4157.65,Deposit,Failed,2025-04-04 09:48:04.820507
+T558528,Branch 5,Bangalore,4099.94,Deposit,Success,2025-04-05 00:52:51.430291
+T422300,,Bangalore,4683.63,Transfer,Failed,2025-04-01 19:42:44.872310
+T559919,Branch 5,Bangalore,4321.41,,Failed,2025-04-03 20:23:54.796609
+T894110,Branch 5,Bangalore,3863.35,Transfer,Failed,2025-04-04 02:02:57.556863
+T523695,Branch 5,Bangalore,1748.32,Withdrawal,Failed,2025-04-07 22:24:01.007675
+T358885,Branch 5,Bangalore,2734.13,Withdrawal,Success,
+T970079,Branch 5,Bangalore,4156.47,Withdrawal,Success,2025-04-01 01:32:58.372596
+T361663,Branch 5,,2580.74,Failed,Failed,
+T353238,Branch 5,Bangalore,2797.35,,Failed,
+T439920,Branch 5,Bangalore,2809.8,Failed,Success,2025-04-01 15:20:57.308604
+T276815,Branch 5,Bangalore,2227.79,,Failed,2025-04-07 02:13:59.989492
+T438951,Branch 5,Bangalore,2152.18,Deposit,Success,2025-04-01 18:08:46.489065
+T925618,Branch 5,Bangalore,4440.28,Transfer,Success,2025-04-07 23:04:00.462761
+T992982,Branch 5,Bangalore,4454.22,Withdrawal,Success,2025-04-01 08:35:23.848166
+T265392,Branch 5,Bangalore,3254.77,Withdrawal,Failed,2025-04-07 13:12:22.411556
+T640946,Branch 5,Bangalore,3840.51,Withdrawal,Success,
+T869541,Branch 5,Bangalore,,Transfer,Failed,2025-04-04 22:46:20.282534
+,Branch 5,Bangalore,4074.84,,Failed,2025-04-05 10:56:24.994157
+T934267,Branch 5,Bangalore,3459.41,Withdrawal,Failed,2025-04-04 04:52:28.822046
+T579140,Branch 5,Bangalore,3949.6,Transfer,Failed,2025-04-01 08:22:41.221489
+T568631,Branch 5,Bangalore,4353.23,Failed,Failed,2025-04-05 07:18:21.574302
+T313986,Branch 5,Bangalore,2872.79,Transfer,Failed,2025-04-04 00:17:21.717473
+,Branch 5,Bangalore,1358.48,Transfer,Failed,2025-04-05 02:54:26.143012
+T189690,Branch 5,Bangalore,3516.15,,Success,2025-04-07 21:31:09.478439
+T314462,Branch 5,Bangalore,471.59,Withdrawal,Success,2025-04-04 11:48:09.306497
+T337592,,Bangalore,1971.56,Failed,Success,2025-04-01 01:00:36.418952
+T215265,Branch 5,Bangalore,2237.08,Transfer,Success,2025-04-03 03:14:01.874080
+T459399,Branch 5,Bangalore,2817.65,Deposit,Failed,2025-04-04 01:16:15.556409
+T185832,Branch 5,Bangalore,3396.94,Transfer,Failed,2025-04-05 01:23:43.600049
+T198408,Branch 5,Bangalore,1144.29,Transfer,Success,
+,Branch 5,Bangalore,4026.8,Transfer,Success,2025-04-06 13:28:51.524336
+T498811,Branch 5,Bangalore,3794.97,Withdrawal,Failed,2025-04-01 09:47:51.176957
+T663150,Branch 5,Bangalore,2252.98,Withdrawal,Success,2025-04-02 23:40:49.024111
+T810321,Branch 5,Bangalore,1469.75,Failed,Success,2025-04-01 09:14:07.318308
+T559719,Branch 5,Bangalore,2916.14,Withdrawal,Success,2025-04-01 16:57:07.249661
+T414054,Branch 5,Bangalore,866.74,Transfer,Success,
+T664980,,Bangalore,127.28,Transfer,,2025-04-02 06:25:13.434884
+T640803,Branch 5,Bangalore,1626.28,Transfer,Success,2025-04-07 05:23:26.233027
+,Branch 5,Bangalore,,Transfer,Success,2025-04-06 17:28:32.455788
+T951659,,Bangalore,4487.09,Transfer,Success,2025-04-04 06:09:48.588553
+T436530,Branch 5,Bangalore,433.7,Withdrawal,Failed,2025-04-02 12:43:30.768561
+T673039,Branch 5,Bangalore,3259.11,Deposit,Failed,2025-04-04 06:45:02.152009
+T119671,,Bangalore,,,Success,2025-04-01 11:11:42.424015
+T475674,Branch 5,,1350.48,Transfer,Failed,2025-04-05 17:11:59.950310
+T169851,Branch 5,Bangalore,3171.91,Failed,Success,2025-04-02 09:51:21.975625
+,Branch 5,Bangalore,3861.99,Failed,Failed,2025-04-05 22:24:17.845323
+T146610,Branch 5,Bangalore,3119.27,Failed,Success,2025-04-06 16:46:17.715553
+T787418,Branch 5,Bangalore,4486.33,Transfer,Success,2025-04-03 08:27:44.937870
+T232279,Branch 5,Bangalore,1554.43,Withdrawal,Failed,2025-04-01 03:13:18.471132
+T358783,Branch 5,Bangalore,163.28,Failed,Failed,2025-04-04 06:46:11.620716
+,Branch 5,Bangalore,4244.64,Deposit,Failed,2025-04-05 09:05:51.386561
+T119117,Branch 5,,4088.57,Transfer,Failed,2025-04-01 05:17:06.909099
+,Branch 5,Bangalore,3102.48,Transfer,Failed,2025-04-07 00:03:17.146823
+T889786,Branch 5,Bangalore,3428.97,Deposit,Success,2025-04-05 00:53:23.363819
+T229458,Branch 5,Bangalore,608.25,Withdrawal,Failed,2025-04-04 14:12:19.349463
+T920314,Branch 5,Bangalore,475.36,Failed,Failed,2025-04-03 14:48:37.738977
+T430181,Branch 5,Bangalore,4074.43,Withdrawal,Success,2025-04-07 11:14:41.199694
+T393488,,Bangalore,3418.08,Deposit,Success,2025-04-07 03:46:47.822886
+T199062,Branch 5,Bangalore,859.16,,Success,2025-04-07 04:24:42.001360
+T716585,Branch 5,Bangalore,128.01,Deposit,Failed,2025-04-05 05:04:27.560469
+T579435,Branch 5,Bangalore,2450.11,Withdrawal,Success,2025-04-07 03:09:36.066933
+T517594,Branch 5,Bangalore,3948.39,Deposit,Failed,
+T579016,,Bangalore,1624.4,Deposit,,2025-04-07 20:06:54.243505
+T282788,Branch 5,Bangalore,578.39,Deposit,,2025-04-02 11:33:33.498501
+T652721,Branch 5,Bangalore,3597.43,Deposit,Success,2025-04-07 17:28:16.124953
+T127808,Branch 5,Bangalore,1601.42,Deposit,Failed,2025-04-05 08:50:21.071058
+T755152,Branch 5,Bangalore,1642.06,Withdrawal,Failed,2025-04-01 06:02:36.922699
+T679326,Branch 5,Bangalore,4392.75,Withdrawal,Success,2025-04-03 08:49:49.530855
+T523828,Branch 5,Bangalore,4900.26,Withdrawal,Failed,2025-04-01 00:14:11.994567
+,Branch 5,Bangalore,2108.67,Withdrawal,Success,2025-04-04 00:07:29.874592
+T159538,Branch 5,Bangalore,4212.99,Withdrawal,Success,2025-04-01 04:37:00.503652
+T158839,Branch 5,Bangalore,809.52,Withdrawal,Success,2025-04-05 03:45:09.717638
+T852134,Branch 5,Bangalore,319.44,Failed,Success,2025-04-01 02:54:04.524876
+T801959,Branch 5,Bangalore,2511.47,Withdrawal,Failed,2025-04-07 01:09:46.025922
+T453948,Branch 5,Bangalore,4752.8,Failed,Failed,2025-04-03 01:57:58.553456
+T223029,Branch 5,Bangalore,630.05,Withdrawal,Success,2025-04-06 01:50:25.815182
+,Branch 5,Bangalore,3442.75,Deposit,Failed,2025-04-02 21:05:32.854026
+T637542,,Bangalore,3396.96,Deposit,Failed,2025-04-03 00:01:23.557188
+T314425,Branch 5,Bangalore,2375.8,Deposit,Failed,2025-04-06 05:01:22.054812
+T349336,Branch 5,Bangalore,897.71,Transfer,Success,2025-04-05 20:49:12.843455
+T440949,Branch 5,Bangalore,1769.67,Failed,Success,2025-04-03 00:06:01.961245
+T295053,,Bangalore,1561.13,Transfer,Failed,2025-04-03 06:07:59.502883
+T461621,Branch 5,Bangalore,4735.26,Transfer,Failed,2025-04-01 14:52:41.043669
+T547843,Branch 5,Bangalore,1661.97,Withdrawal,Success,2025-04-05 08:02:53.978667
+,Branch 5,Bangalore,271.1,Deposit,Failed,2025-04-06 22:14:23.063122
+T535016,Branch 5,Bangalore,4570.47,Withdrawal,Failed,2025-04-05 07:51:00.781367
+T653116,Branch 5,Bangalore,2890.82,Deposit,Failed,2025-04-03 10:28:21.675269
+T320507,Branch 5,Bangalore,,Failed,Success,2025-04-01 05:12:11.197406
+T640205,Branch 5,Bangalore,3675.22,Transfer,Success,2025-04-02 13:39:16.480580
+,Branch 5,Bangalore,1179.23,Withdrawal,Success,2025-04-06 19:07:47.245589
+T837792,Branch 5,Bangalore,2793.67,Withdrawal,Failed,2025-04-05 01:13:50.867377
+T367076,Branch 5,Bangalore,666.32,,Success,2025-04-05 11:05:23.249129
+T451216,Branch 5,Bangalore,347.95,Failed,Success,2025-04-02 10:16:40.114975
+T578530,Branch 5,Bangalore,2770.26,Withdrawal,Success,2025-04-03 09:36:18.852622
+T565517,Branch 5,Bangalore,1319.04,Deposit,Failed,2025-04-07 06:58:35.775515
+T683593,Branch 5,Bangalore,,Failed,Failed,2025-04-01 03:48:43.950510
+T828986,Branch 5,Bangalore,2647.03,Withdrawal,Failed,2025-04-05 12:29:39.873434
+T845860,Branch 5,Bangalore,4475.38,,Failed,2025-04-03 02:00:40.750074
+T787810,Branch 5,Bangalore,976.18,,Success,2025-04-07 02:32:36.805645
+T879712,Branch 5,Bangalore,,Failed,Failed,2025-04-02 02:56:08.264452
+T161688,Branch 5,Bangalore,4563.55,Transfer,Failed,2025-04-05 06:29:27.398239
+T440566,Branch 5,Bangalore,3553.5,Withdrawal,Failed,
+T965913,Branch 5,Bangalore,3539.22,Withdrawal,Failed,2025-04-06 05:23:14.816348
+T421236,Branch 5,Bangalore,1746.55,Transfer,Success,2025-04-02 10:39:44.659035
+T997694,Branch 5,Bangalore,1066.86,Failed,Success,2025-04-06 10:06:28.567225
+T635635,Branch 5,Bangalore,3657.65,Withdrawal,Failed,2025-04-01 13:36:24.983474
+T592235,Branch 5,Bangalore,4477.69,Deposit,Failed,2025-04-07 08:04:13.362821
+T516115,Branch 5,Bangalore,2443.64,Deposit,Failed,2025-04-03 01:55:12.415574
+T864610,Branch 5,Bangalore,1016.53,Transfer,Success,2025-04-06 01:03:22.403085
+T955716,Branch 5,Bangalore,3137.13,Deposit,Success,2025-04-07 13:03:32.331863
+T549556,Branch 5,Bangalore,729.89,Withdrawal,Failed,2025-04-03 00:48:05.038142
+T769882,Branch 5,Bangalore,1353.51,Deposit,Failed,
+T937634,Branch 5,Bangalore,3698.36,Failed,Failed,2025-04-07 06:55:49.962416
+T859699,Branch 5,Bangalore,3000.8,Withdrawal,Failed,2025-04-05 07:51:21.133950
+T974219,Branch 5,Bangalore,2134.14,Transfer,Failed,2025-04-02 04:41:13.582432
+T167707,Branch 5,Bangalore,3928.54,,Success,2025-04-02 22:55:52.534380
+T904795,Branch 5,Bangalore,,Withdrawal,,2025-04-07 22:01:58.089681
+T411599,Branch 5,Bangalore,2616.45,Failed,Success,2025-04-05 03:26:29.889506
+T535769,Branch 5,Bangalore,4841.06,Transfer,Success,
+T851686,Branch 5,Bangalore,261.24,Failed,Success,2025-04-07 01:29:49.201973
+T717605,Branch 5,Bangalore,3634.15,Failed,Success,2025-04-03 17:21:51.991663
+T118249,Branch 5,Bangalore,491.24,Failed,Failed,2025-04-04 02:08:41.498245
+T214596,Branch 5,Bangalore,679.3,Deposit,Success,2025-04-02 11:43:54.867732
+T845776,Branch 5,Bangalore,3173.88,Withdrawal,Success,2025-04-03 09:20:10.310388
+,Branch 5,Bangalore,3595.25,Transfer,Failed,2025-04-01 03:31:41.688559
+T770215,Branch 5,Bangalore,1062.78,,Failed,2025-04-07 20:25:15.868286
+T449124,Branch 5,Bangalore,894.09,Transfer,Failed,2025-04-02 20:08:07.297072
+T557182,Branch 5,Bangalore,4300.56,Failed,Success,2025-04-07 21:16:51.070198
+T959040,,Bangalore,2735.68,Withdrawal,Success,2025-04-06 21:15:27.968464
+T929329,Branch 5,Bangalore,4088.95,Deposit,Success,2025-04-02 02:07:54.641148
+T512647,Branch 5,Bangalore,3779.67,Deposit,Failed,2025-04-02 08:52:20.423666
+T842155,Branch 5,Bangalore,602.22,Transfer,Success,2025-04-02 03:02:43.441734
+T592851,Branch 5,Bangalore,3660.69,,Failed,2025-04-02 04:08:39.790073
+T397310,Branch 5,Bangalore,1057.07,Deposit,Success,2025-04-03 12:54:19.975670
+,Branch 5,Bangalore,1430.29,Transfer,Success,2025-04-06 10:52:05.898426
+T141514,Branch 5,Bangalore,1120.94,Withdrawal,Success,
+T793851,Branch 5,Bangalore,1112.48,Transfer,Success,2025-04-04 16:09:20.019077
+T997235,Branch 5,Bangalore,3732.59,Withdrawal,Failed,2025-04-04 16:18:27.438509
+T872930,Branch 5,Bangalore,1832.07,Withdrawal,Failed,2025-04-04 18:45:29.214046
+T638958,Branch 5,Bangalore,294.67,Transfer,Failed,2025-04-07 23:23:27.534693
+T152120,Branch 5,,,Withdrawal,Failed,2025-04-03 20:49:27.164011
+T579215,Branch 5,Bangalore,4696.32,Failed,Success,2025-04-07 14:26:14.860162
+T669485,Branch 5,Bangalore,1988.18,Deposit,Success,2025-04-04 15:19:46.517195
+T987415,Branch 5,Bangalore,,Deposit,Failed,2025-04-06 07:38:15.158215
+T998889,Branch 5,Bangalore,2362.05,Withdrawal,Success,2025-04-05 20:36:18.216757
+T654786,Branch 5,Bangalore,664.37,Deposit,Failed,2025-04-02 19:26:06.958470
+,Branch 5,Bangalore,1265.87,Withdrawal,Success,2025-04-04 11:42:09.094118
+T479495,Branch 5,Bangalore,755.26,Withdrawal,Success,2025-04-02 16:14:13.071695
+T567970,Branch 5,Bangalore,704.68,,Failed,2025-04-05 10:16:59.483644
+T299898,Branch 5,Bangalore,360.81,Failed,Failed,
+T263348,Branch 5,Bangalore,3352.02,,Failed,2025-04-04 08:35:27.950109
+T396603,Branch 5,Bangalore,1520.24,Transfer,Success,2025-04-02 15:02:35.592515
+T707775,Branch 5,Bangalore,3424.49,Deposit,Failed,2025-04-05 19:35:34.156334
+T576846,Branch 5,Bangalore,4669.02,Deposit,Failed,2025-04-03 10:37:04.702686
+T481883,Branch 5,Bangalore,131.25,Failed,Failed,2025-04-03 04:17:56.521474
+T976756,Branch 5,Bangalore,145.1,Transfer,Success,2025-04-02 13:55:44.240645
+T409394,Branch 5,Bangalore,4112.92,Deposit,Failed,2025-04-05 11:21:46.554236
+T817954,Branch 5,Bangalore,2261.52,Withdrawal,Failed,2025-04-06 05:37:03.887343
+T914967,Branch 5,Bangalore,,Withdrawal,Failed,2025-04-04 07:18:04.358494
+T873163,Branch 5,Bangalore,,Deposit,Failed,2025-04-07 18:18:56.693053
+T328287,Branch 5,Bangalore,549.79,,Failed,2025-04-04 09:49:53.161827
+T266813,Branch 5,Bangalore,3019.74,Transfer,Failed,2025-04-06 00:29:31.447903
+T592163,Branch 5,Bangalore,105.67,Withdrawal,,2025-04-02 10:48:54.229008
+,Branch 5,Bangalore,2593.05,Deposit,Failed,2025-04-07 05:43:51.592918
+T978687,Branch 5,Bangalore,4827.75,,Failed,2025-04-05 02:22:07.007248
+T321146,,Bangalore,2016.22,Withdrawal,Success,2025-04-02 05:45:53.560331
+T522608,Branch 5,Bangalore,781.83,,Success,2025-04-01 00:48:00.477374
+T846210,Branch 5,Bangalore,1663.56,Withdrawal,Success,2025-04-03 07:58:26.580883
+T194549,Branch 5,Bangalore,1859.45,Failed,Failed,2025-04-01 10:30:20.508353
+T879375,Branch 5,Bangalore,1991.79,Withdrawal,Failed,2025-04-05 18:00:36.541525
+T181059,Branch 5,Bangalore,3085.01,Withdrawal,Failed,2025-04-05 10:59:03.008084
+T794136,Branch 5,Bangalore,2166.28,Withdrawal,Failed,2025-04-07 18:08:32.534110
+T156973,Branch 5,Bangalore,643.94,Deposit,Success,2025-04-01 03:48:46.265718
+T922837,Branch 5,Bangalore,1774.1,Transfer,Success,2025-04-06 19:05:10.542589
+T362797,Branch 5,Bangalore,442.04,Transfer,Failed,2025-04-06 08:32:20.833565
+T453680,Branch 5,Bangalore,1309.21,Transfer,Failed,2025-04-07 03:30:07.700545
+T393247,Branch 5,Bangalore,104.15,Deposit,Failed,2025-04-03 12:49:15.886280
+T618653,Branch 5,Bangalore,202.23,Transfer,Success,2025-04-04 08:59:53.125535
+T230509,Branch 5,Bangalore,1388.48,,Failed,2025-04-01 02:10:47.154908
+,Branch 5,Bangalore,1770.08,Deposit,Failed,2025-04-07 09:39:08.643564
+,Branch 5,Bangalore,,,Success,
+T496267,Branch 5,Bangalore,570.27,Failed,Failed,2025-04-05 22:08:23.219033
+T484347,Branch 5,Bangalore,1527.87,,Failed,2025-04-07 13:11:41.997746
+,Branch 5,Bangalore,943.82,Failed,Failed,2025-04-02 21:55:31.937788
+T915490,Branch 5,Bangalore,253.09,Failed,Failed,2025-04-06 12:25:34.206943
+T276483,Branch 5,Bangalore,3882.78,Transfer,Success,2025-04-06 23:02:24.345925
+T243268,Branch 5,Bangalore,3171.52,Failed,Failed,2025-04-03 18:30:18.343667
+T161910,Branch 5,Bangalore,460.99,,Failed,2025-04-03 16:16:35.068517
+T602083,Branch 5,Bangalore,3822.08,Failed,Success,2025-04-07 15:00:14.989438
+T835344,Branch 5,Bangalore,3989.79,Transfer,Failed,2025-04-05 06:49:54.703823
+T426692,Branch 5,Bangalore,1440.07,,Success,2025-04-06 19:15:11.743950
+,Branch 5,Bangalore,,Deposit,Success,2025-04-03 14:16:46.791910
+T129961,Branch 5,Bangalore,3795.54,Transfer,Failed,2025-04-01 02:39:52.166783
+T692245,Branch 5,Bangalore,2989.45,Withdrawal,Success,2025-04-04 19:59:43.551239
+T678073,Branch 5,Bangalore,2586.55,Deposit,Success,2025-04-04 15:22:09.851820
+T428485,Branch 5,,2979.44,Transfer,Failed,2025-04-01 22:57:18.713515

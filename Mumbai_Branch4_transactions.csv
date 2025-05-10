@@ -1,0 +1,1001 @@
+txn_id,branch,city,amount,transaction_type,status,timestamp
+T148690,Branch 4,Mumbai,3793.9,Failed,Success,2025-04-04 03:40:40.718540
+T614524,Branch 4,Mumbai,3329.47,Deposit,,2025-04-07 11:53:50.105043
+T995315,Branch 4,Mumbai,2416.6,Withdrawal,Failed,2025-04-07 11:39:49.623281
+T561886,Branch 4,Mumbai,4376.78,Withdrawal,Success,2025-04-01 14:19:46.179484
+T326911,Branch 4,Mumbai,4945.77,Transfer,Success,2025-04-05 16:49:21.669059
+T332008,Branch 4,Mumbai,4061.9,,Failed,
+T614344,Branch 4,Mumbai,4673.71,Withdrawal,Failed,2025-04-06 14:37:40.990071
+T845640,Branch 4,Mumbai,725.08,Failed,Success,2025-04-06 05:56:30.955139
+T701618,Branch 4,Mumbai,3250.18,Deposit,Failed,2025-04-03 12:21:24.372010
+T241912,Branch 4,Mumbai,1863.68,Transfer,Success,2025-04-01 14:41:07.281167
+T909596,,Mumbai,344.91,Deposit,Success,2025-04-02 10:59:08.919301
+T174167,Branch 4,Mumbai,1579.21,Transfer,Success,2025-04-05 01:20:25.154382
+T362909,Branch 4,Mumbai,,Failed,Failed,2025-04-01 17:25:08.322158
+T130285,Branch 4,Mumbai,2111.75,Withdrawal,Failed,2025-04-07 00:47:44.849423
+T138113,Branch 4,Mumbai,4792.91,Failed,Failed,2025-04-02 02:28:40.365776
+T691188,Branch 4,Mumbai,,Failed,Success,2025-04-04 02:16:44.982048
+T210650,Branch 4,Mumbai,392.21,Transfer,Success,2025-04-06 22:34:35.950370
+T428807,Branch 4,Mumbai,508.5,Deposit,Success,2025-04-01 22:01:18.712843
+T200563,Branch 4,Mumbai,1960.58,Failed,Failed,2025-04-02 16:16:28.826087
+T184969,Branch 4,Mumbai,3243.98,Failed,Failed,
+,Branch 4,Mumbai,2216.35,Withdrawal,,2025-04-05 06:25:15.665876
+T675279,Branch 4,Mumbai,432.27,Withdrawal,Failed,2025-04-04 20:07:56.470613
+T209661,Branch 4,Mumbai,1578.99,Withdrawal,Success,2025-04-01 00:07:14.686695
+T962019,Branch 4,,,Failed,Success,2025-04-03 18:26:57.003002
+T467369,Branch 4,Mumbai,4204.62,,Failed,2025-04-03 02:14:16.947683
+,Branch 4,Mumbai,3787.63,Failed,,2025-04-03 07:27:28.967021
+T576954,Branch 4,Mumbai,3620.96,,Success,2025-04-05 22:42:07.281895
+T156801,Branch 4,Mumbai,,Deposit,Success,2025-04-05 18:31:04.391776
+,Branch 4,Mumbai,4588.68,Transfer,Failed,2025-04-01 16:28:26.159277
+T623791,,Mumbai,2518.48,Deposit,Success,2025-04-06 16:56:51.582319
+T238883,Branch 4,Mumbai,,Failed,Success,2025-04-03 04:51:16.600397
+,Branch 4,Mumbai,1790.43,Failed,Success,2025-04-01 02:53:17.437417
+T351158,Branch 4,Mumbai,3857.48,Failed,Success,2025-04-06 17:16:00.423559
+T767811,Branch 4,Mumbai,388.35,Deposit,Success,2025-04-06 11:22:30.864835
+T780391,Branch 4,Mumbai,3243.99,Transfer,Failed,2025-04-05 18:25:19.274966
+T831010,Branch 4,Mumbai,4944.72,Deposit,,2025-04-02 16:22:29.797270
+T831661,Branch 4,Mumbai,993.69,Withdrawal,,2025-04-05 13:22:54.070212
+T982609,Branch 4,Mumbai,3801.58,Withdrawal,Failed,2025-04-06 01:58:57.172887
+T243245,Branch 4,Mumbai,225.82,Failed,Failed,2025-04-04 14:29:08.931260
+,Branch 4,Mumbai,2459.68,Deposit,Failed,2025-04-03 09:42:38.523323
+T259929,Branch 4,Mumbai,,Failed,Success,2025-04-05 01:53:18.176123
+T444083,Branch 4,Mumbai,2741.99,Failed,Failed,2025-04-02 14:31:39.075292
+T635043,Branch 4,Mumbai,4234.1,Withdrawal,Success,2025-04-06 10:46:04.841735
+T445572,Branch 4,Mumbai,1581.35,Transfer,Success,2025-04-01 05:23:17.121053
+T149397,Branch 4,Mumbai,3597.1,Withdrawal,Failed,2025-04-02 14:01:11.714870
+T869734,Branch 4,Mumbai,4190.17,Withdrawal,Failed,2025-04-02 04:53:12.893594
+,Branch 4,Mumbai,937.17,Transfer,Failed,2025-04-01 12:52:15.243210
+T176355,Branch 4,Mumbai,3562.71,Transfer,Success,2025-04-05 19:40:25.899256
+T625655,Branch 4,Mumbai,2671.31,Failed,Success,2025-04-06 07:13:26.302998
+T162318,Branch 4,Mumbai,4622.26,Transfer,Failed,2025-04-07 05:40:46.562126
+T935053,Branch 4,Mumbai,4430.35,Transfer,Failed,2025-04-06 07:12:52.616611
+T256813,Branch 4,Mumbai,3645.16,Transfer,Success,2025-04-05 15:04:14.051443
+T618152,Branch 4,Mumbai,4595.54,Deposit,Success,2025-04-01 18:22:44.140344
+T574924,Branch 4,Mumbai,819.94,Deposit,Failed,2025-04-04 23:48:42.410778
+T275093,Branch 4,Mumbai,2829.31,,Failed,2025-04-06 07:21:41.356536
+T311071,Branch 4,Mumbai,4051.4,Failed,,2025-04-04 17:12:43.361191
+T862083,,Mumbai,1420.16,,Success,2025-04-06 05:56:27.084685
+T752827,Branch 4,Mumbai,,Transfer,,2025-04-07 03:19:03.495117
+T994425,Branch 4,Mumbai,2470.91,Withdrawal,,2025-04-03 19:39:13.738214
+T998023,Branch 4,Mumbai,4013.61,Withdrawal,Failed,2025-04-07 03:48:34.948433
+T180883,,Mumbai,948.69,Withdrawal,Failed,2025-04-04 04:32:46.990820
+T761839,Branch 4,Mumbai,4155.32,,Success,2025-04-06 08:51:08.190889
+T391200,Branch 4,Mumbai,3820.82,Withdrawal,Success,2025-04-04 19:24:24.329813
+T266508,Branch 4,Mumbai,2245.38,Deposit,Success,2025-04-06 18:09:26.191280
+T564958,Branch 4,Mumbai,4047.51,Withdrawal,Success,2025-04-02 01:07:23.781521
+T370010,Branch 4,Mumbai,2800.48,Deposit,Success,2025-04-02 11:55:13.753692
+T961858,Branch 4,Mumbai,1589.77,Transfer,Success,2025-04-04 23:11:51.794283
+T472085,Branch 4,Mumbai,479.87,Withdrawal,Failed,2025-04-03 19:34:24.524513
+T734911,Branch 4,Mumbai,2192.25,Deposit,Success,2025-04-05 01:32:58.239707
+T154042,Branch 4,Mumbai,1563.93,,Success,2025-04-07 11:48:02.621331
+T434149,Branch 4,Mumbai,2946.31,Failed,Failed,2025-04-02 22:30:20.899246
+,Branch 4,Mumbai,2100.04,Withdrawal,Failed,2025-04-01 11:20:38.576733
+T815648,Branch 4,Mumbai,4123.04,,Success,2025-04-06 20:38:26.393456
+T858479,Branch 4,Mumbai,4863.65,Transfer,Failed,2025-04-03 21:10:56.728235
+T328016,Branch 4,Mumbai,257.09,,Success,
+T685241,Branch 4,Mumbai,2984.91,,Success,2025-04-06 06:09:41.946293
+T798908,Branch 4,Mumbai,611.13,Deposit,Success,2025-04-04 23:23:48.839770
+T704985,Branch 4,Mumbai,1758.12,,Success,2025-04-05 17:44:47.030268
+T231809,Branch 4,Mumbai,2481.5,Deposit,Failed,2025-04-02 00:40:01.377701
+T191926,Branch 4,Mumbai,3170.73,Failed,Failed,2025-04-06 03:44:51.475677
+,Branch 4,Mumbai,1531.99,Withdrawal,Success,2025-04-06 04:16:07.978189
+T183789,Branch 4,Mumbai,2629.51,Withdrawal,Success,2025-04-04 20:06:38.354618
+T107658,Branch 4,Mumbai,2177.0,Failed,Failed,
+T944700,Branch 4,Mumbai,1645.17,Deposit,Failed,2025-04-06 02:56:27.738420
+T115831,Branch 4,Mumbai,1149.61,Deposit,Failed,2025-04-04 04:43:21.063240
+,Branch 4,,3581.3,Transfer,Success,2025-04-02 11:25:32.955937
+T484261,Branch 4,Mumbai,4050.86,Deposit,Success,2025-04-05 17:23:52.345672
+T127132,Branch 4,Mumbai,2583.18,Withdrawal,Failed,2025-04-04 18:54:50.734751
+,Branch 4,Mumbai,130.27,Deposit,Failed,2025-04-01 04:03:21.956360
+T928719,Branch 4,Mumbai,371.84,Transfer,Success,2025-04-02 08:11:12.591197
+,Branch 4,Mumbai,2136.49,Transfer,Success,2025-04-04 08:43:48.839142
+T847660,Branch 4,Mumbai,,Transfer,Failed,2025-04-02 10:18:23.506699
+T461042,Branch 4,Mumbai,609.15,Failed,Success,2025-04-03 22:21:57.699904
+T670584,Branch 4,Mumbai,3861.69,Transfer,Failed,2025-04-02 18:33:29.381085
+T638427,Branch 4,Mumbai,2723.1,Deposit,Success,2025-04-02 05:06:11.952104
+,,Mumbai,1707.12,Withdrawal,Failed,2025-04-07 06:10:05.507248
+T979531,Branch 4,Mumbai,1379.33,Deposit,,2025-04-07 18:37:02.224614
+T842524,Branch 4,Mumbai,540.34,Withdrawal,Success,2025-04-03 01:22:55.365609
+T728100,Branch 4,Mumbai,4967.57,Deposit,Failed,2025-04-03 15:07:22.517465
+T349779,Branch 4,Mumbai,2428.58,Failed,Failed,2025-04-02 13:25:58.315795
+,Branch 4,Mumbai,,Failed,Success,2025-04-01 09:19:13.446466
+T656922,Branch 4,Mumbai,1034.39,Failed,Success,2025-04-06 21:48:34.726565
+,Branch 4,,1023.52,Failed,Success,2025-04-06 01:50:08.653231
+,Branch 4,Mumbai,2692.88,Transfer,Success,2025-04-07 16:50:01.572160
+T571073,Branch 4,Mumbai,673.82,Deposit,,2025-04-06 00:05:21.199353
+T225108,Branch 4,Mumbai,1917.51,Withdrawal,Failed,2025-04-04 06:21:59.685447
+T250285,Branch 4,Mumbai,1927.11,,Failed,2025-04-02 15:37:17.867121
+T269916,Branch 4,Mumbai,339.36,Withdrawal,Failed,2025-04-02 16:26:52.584598
+T806282,Branch 4,Mumbai,2718.91,Failed,Success,2025-04-06 04:41:09.754819
+T447041,Branch 4,Mumbai,2628.52,Withdrawal,Success,2025-04-01 12:24:08.739303
+T145756,Branch 4,Mumbai,3583.33,Failed,Failed,2025-04-05 07:48:44.911228
+T854733,Branch 4,Mumbai,4205.57,Withdrawal,Success,2025-04-07 23:29:14.396568
+T423088,Branch 4,Mumbai,2685.69,Deposit,Failed,2025-04-04 01:33:58.817794
+T919554,Branch 4,Mumbai,273.92,Failed,Failed,2025-04-05 10:08:10.174150
+T812903,Branch 4,Mumbai,1893.26,Failed,Success,2025-04-04 00:01:22.231410
+T109583,Branch 4,Mumbai,3268.67,Deposit,Failed,2025-04-05 15:20:10.598439
+T153145,Branch 4,Mumbai,3968.87,Deposit,Failed,2025-04-01 06:46:54.157281
+T543143,Branch 4,Mumbai,2670.09,Transfer,Success,2025-04-04 01:46:25.033719
+T148758,Branch 4,Mumbai,3651.14,Transfer,Failed,2025-04-06 07:35:26.349393
+T693046,Branch 4,Mumbai,4082.38,Failed,Success,2025-04-06 20:50:33.979442
+T798894,Branch 4,Mumbai,3139.86,Failed,Failed,2025-04-04 02:05:10.378142
+T353626,Branch 4,Mumbai,455.28,Deposit,Success,2025-04-06 09:55:23.603729
+T464733,Branch 4,Mumbai,2835.25,Failed,Success,2025-04-03 15:11:32.020578
+T965256,Branch 4,Mumbai,1290.0,,Success,2025-04-03 20:27:27.249485
+T196508,Branch 4,Mumbai,1764.28,Transfer,Success,2025-04-03 06:23:45.325585
+T335128,Branch 4,Mumbai,,Failed,Failed,2025-04-05 11:00:30.302604
+T686911,,Mumbai,2880.84,Failed,Success,2025-04-04 20:11:25.633136
+T429852,Branch 4,Mumbai,291.71,Transfer,Failed,2025-04-07 07:54:18.964271
+T832727,Branch 4,Mumbai,540.3,Failed,Failed,2025-04-06 16:41:54.262710
+T193587,Branch 4,Mumbai,868.41,Transfer,Success,2025-04-06 17:46:06.517984
+T560390,Branch 4,Mumbai,3548.69,Transfer,Success,2025-04-04 09:30:27.737831
+T592653,Branch 4,Mumbai,4125.16,Withdrawal,Failed,2025-04-04 08:39:52.800998
+T941750,Branch 4,Mumbai,1891.9,Withdrawal,Success,2025-04-01 17:48:39.374914
+T438457,Branch 4,Mumbai,4667.03,Transfer,Success,2025-04-01 09:07:22.381293
+T628831,Branch 4,Mumbai,2572.93,Withdrawal,Success,2025-04-04 02:26:30.964608
+T807591,Branch 4,Mumbai,802.62,Transfer,Failed,2025-04-07 20:19:32.845747
+T118998,Branch 4,Mumbai,964.8,Withdrawal,Success,2025-04-04 09:17:02.400314
+T910412,Branch 4,Mumbai,3218.29,Transfer,Success,2025-04-02 05:20:58.616258
+T932328,Branch 4,Mumbai,3240.43,Transfer,Failed,2025-04-06 06:06:05.798124
+T738492,Branch 4,Mumbai,4464.1,Deposit,Failed,
+T522776,Branch 4,Mumbai,1170.42,Withdrawal,Success,2025-04-03 15:14:34.502351
+T601047,Branch 4,Mumbai,2541.61,Withdrawal,Success,2025-04-06 15:47:45.437723
+T943559,Branch 4,Mumbai,4127.42,Withdrawal,Success,2025-04-04 03:29:25.084976
+T197448,Branch 4,Mumbai,3684.53,Failed,Failed,2025-04-04 14:34:22.462022
+T494591,Branch 4,Mumbai,4372.61,,Success,2025-04-03 13:39:07.163831
+T206949,Branch 4,Mumbai,2390.31,Failed,Success,2025-04-03 23:46:39.885087
+T559078,Branch 4,Mumbai,700.7,Withdrawal,Success,2025-04-03 03:53:35.687957
+T474446,Branch 4,Mumbai,3468.96,,Success,2025-04-06 19:07:35.587179
+T795777,Branch 4,Mumbai,379.71,Withdrawal,Failed,2025-04-04 07:00:19.286905
+T539739,Branch 4,Mumbai,1203.42,Failed,Failed,2025-04-04 14:19:47.970104
+T606723,Branch 4,Mumbai,851.06,Withdrawal,Failed,2025-04-02 21:04:40.665228
+T814814,Branch 4,Mumbai,,Failed,Success,2025-04-02 03:46:11.338595
+T140720,Branch 4,Mumbai,,Failed,Success,2025-04-01 16:54:54.825902
+T766908,Branch 4,Mumbai,3616.81,Withdrawal,,
+T540901,Branch 4,Mumbai,4044.89,Failed,Failed,
+,Branch 4,Mumbai,4689.66,Deposit,Success,
+T728954,Branch 4,Mumbai,1509.98,Failed,Success,2025-04-06 12:52:43.136369
+T404530,Branch 4,Mumbai,2106.62,Withdrawal,Failed,2025-04-02 14:26:07.314840
+,Branch 4,Mumbai,520.6,Transfer,Success,
+T185474,Branch 4,Mumbai,4031.47,Deposit,Failed,
+T527929,Branch 4,Mumbai,3261.33,Transfer,Success,2025-04-01 11:51:23.470866
+T787577,Branch 4,Mumbai,1475.73,Transfer,Success,2025-04-01 19:04:27.917632
+T585314,Branch 4,Mumbai,1961.57,Failed,Success,2025-04-06 01:11:57.156888
+T159475,Branch 4,Mumbai,2619.09,,,2025-04-02 15:41:51.037986
+T963237,Branch 4,Mumbai,3369.83,Deposit,Success,2025-04-07 14:39:35.228262
+T791594,Branch 4,Mumbai,3845.11,Deposit,Success,2025-04-06 00:14:33.600215
+T714745,Branch 4,Mumbai,4030.48,Deposit,Failed,2025-04-07 10:53:20.168434
+T978644,Branch 4,Mumbai,2111.31,Deposit,Success,2025-04-01 17:30:29.860430
+,Branch 4,,854.14,Transfer,Success,2025-04-05 07:39:30.902663
+T159233,Branch 4,Mumbai,2057.71,Failed,Success,2025-04-01 06:56:36.741702
+T234269,Branch 4,Mumbai,2477.75,Deposit,Success,2025-04-06 15:46:23.998804
+T201826,Branch 4,Mumbai,,Withdrawal,Failed,2025-04-03 00:35:54.622336
+,Branch 4,Mumbai,3608.25,Failed,Success,2025-04-04 11:58:56.623255
+,Branch 4,Mumbai,4052.22,Transfer,Success,2025-04-04 18:25:18.951004
+T753241,Branch 4,Mumbai,519.31,Withdrawal,Success,2025-04-02 22:01:25.657424
+T243118,Branch 4,Mumbai,4991.11,Failed,Failed,2025-04-06 14:10:38.359400
+T736795,Branch 4,Mumbai,,Transfer,Success,2025-04-07 16:08:47.721071
+T472954,Branch 4,Mumbai,4314.02,Deposit,Failed,2025-04-05 17:34:56.848461
+T625863,Branch 4,Mumbai,2613.37,Withdrawal,Success,
+T708411,,Mumbai,2416.48,Deposit,Success,2025-04-02 17:18:17.720787
+T191832,Branch 4,Mumbai,1242.47,Failed,Success,2025-04-03 18:09:05.876292
+T789197,Branch 4,Mumbai,4827.07,Transfer,Success,2025-04-04 01:46:56.541441
+T990005,Branch 4,Mumbai,4523.99,Failed,Failed,2025-04-05 01:44:01.606442
+T456433,Branch 4,Mumbai,3755.88,Withdrawal,Failed,2025-04-01 08:56:53.952446
+T856043,Branch 4,Mumbai,3119.84,Deposit,Failed,2025-04-05 11:18:41.566767
+T749749,Branch 4,Mumbai,3005.16,Failed,Failed,2025-04-01 08:03:10.015205
+,,Mumbai,4289.47,Failed,Failed,2025-04-05 17:40:04.453335
+,Branch 4,Mumbai,3400.29,Deposit,Success,2025-04-02 17:26:59.099523
+T707606,Branch 4,Mumbai,,Deposit,Failed,2025-04-06 03:53:19.109134
+,Branch 4,Mumbai,876.02,Deposit,Failed,2025-04-03 04:40:36.908843
+T299502,Branch 4,Mumbai,653.28,Failed,Failed,2025-04-05 01:53:42.405427
+T940501,Branch 4,Mumbai,4422.15,Transfer,Success,2025-04-03 05:51:44.855638
+T283079,Branch 4,Mumbai,2583.24,Withdrawal,Success,2025-04-04 20:52:45.479700
+T818139,Branch 4,Mumbai,,Transfer,Failed,2025-04-03 09:31:47.887680
+T784353,Branch 4,Mumbai,,Transfer,Failed,
+T566940,Branch 4,Mumbai,232.36,Withdrawal,Success,2025-04-07 16:46:26.393249
+T645771,Branch 4,Mumbai,175.0,Deposit,Success,2025-04-05 14:33:49.624182
+T176402,Branch 4,Mumbai,4993.9,Transfer,Failed,2025-04-07 13:13:30.627620
+T200869,Branch 4,Mumbai,1451.42,Failed,Success,
+T986801,Branch 4,Mumbai,2867.64,Failed,Success,2025-04-05 10:18:41.703974
+T984250,Branch 4,Mumbai,4156.7,Withdrawal,Success,2025-04-05 01:24:30.284539
+T843302,Branch 4,Mumbai,,,Failed,2025-04-05 16:59:09.439384
+T783938,Branch 4,Mumbai,4632.23,Deposit,Success,2025-04-03 22:55:36.602298
+,Branch 4,Mumbai,,Withdrawal,Success,2025-04-04 21:56:39.319035
+T410543,Branch 4,Mumbai,2975.82,Failed,Failed,2025-04-04 21:52:38.145850
+T814242,Branch 4,Mumbai,4538.97,,Failed,2025-04-01 21:21:07.259932
+T105764,Branch 4,Mumbai,657.81,Withdrawal,Failed,2025-04-06 06:03:45.807453
+,Branch 4,Mumbai,4739.48,Transfer,Success,2025-04-02 14:26:42.852796
+,Branch 4,Mumbai,1646.45,Failed,Success,2025-04-06 20:39:35.459740
+T506762,Branch 4,Mumbai,2974.97,Failed,Failed,2025-04-07 01:50:03.692926
+T886014,Branch 4,Mumbai,1762.34,Transfer,Success,2025-04-05 15:05:40.199103
+T457788,Branch 4,Mumbai,1661.96,Deposit,Failed,2025-04-06 05:57:11.879534
+T206321,Branch 4,Mumbai,1945.93,Deposit,Failed,2025-04-06 22:30:54.095065
+T295852,Branch 4,Mumbai,1725.43,Withdrawal,Success,2025-04-05 14:29:48.331622
+T706748,Branch 4,Mumbai,2381.54,Transfer,Success,2025-04-03 17:34:18.331058
+T183984,Branch 4,Mumbai,1212.06,Transfer,Success,2025-04-01 14:07:57.905662
+T346390,Branch 4,Mumbai,942.38,Deposit,,2025-04-01 22:01:23.216641
+T744112,Branch 4,Mumbai,2361.3,Failed,Success,2025-04-03 00:22:25.992912
+T439560,Branch 4,Mumbai,1114.78,Deposit,Success,2025-04-04 18:58:04.479298
+T982968,Branch 4,Mumbai,314.09,Transfer,Failed,2025-04-05 18:58:51.012401
+T863007,,Mumbai,4803.53,Withdrawal,Failed,2025-04-05 05:22:03.972707
+T889990,Branch 4,Mumbai,313.02,Failed,Success,2025-04-04 07:30:24.256449
+T510048,Branch 4,Mumbai,4473.46,Failed,Success,2025-04-04 08:04:48.177123
+T325938,Branch 4,Mumbai,207.75,Failed,Failed,2025-04-01 00:25:59.304649
+T662985,Branch 4,Mumbai,4445.7,Failed,Success,2025-04-02 21:22:03.234358
+T102978,Branch 4,Mumbai,1392.4,Transfer,Success,2025-04-03 10:53:29.698294
+T119550,Branch 4,Mumbai,822.87,Transfer,Success,2025-04-01 12:23:23.884118
+T983204,Branch 4,Mumbai,,,Success,2025-04-03 12:39:21.217817
+T370980,Branch 4,Mumbai,1896.59,Withdrawal,Failed,2025-04-03 00:01:18.441075
+T315859,Branch 4,,4528.47,Withdrawal,Success,2025-04-01 15:17:54.260193
+,Branch 4,Mumbai,330.56,Deposit,,2025-04-02 02:47:09.818621
+T761904,Branch 4,Mumbai,3395.43,Transfer,Failed,2025-04-07 15:45:30.580916
+T527583,Branch 4,Mumbai,3770.5,Withdrawal,Success,2025-04-01 23:17:37.823667
+T210425,Branch 4,Mumbai,841.17,Withdrawal,Failed,2025-04-04 07:42:06.592006
+T242928,Branch 4,Mumbai,3588.26,Transfer,Failed,2025-04-01 19:16:37.213716
+T702341,Branch 4,Mumbai,1485.53,Transfer,Failed,2025-04-04 11:56:33.683615
+T407287,Branch 4,Mumbai,3414.17,Transfer,Success,2025-04-04 03:40:45.088280
+T616456,,Mumbai,608.19,Transfer,Failed,2025-04-05 03:18:49.045768
+T105812,Branch 4,Mumbai,1214.0,Withdrawal,Success,2025-04-01 10:36:47.501195
+T315363,Branch 4,Mumbai,3874.68,Withdrawal,Failed,2025-04-06 12:37:41.762715
+T450786,,Mumbai,2517.12,,Failed,2025-04-07 01:43:38.304884
+T593167,Branch 4,Mumbai,2961.48,Deposit,Failed,2025-04-02 23:40:28.813114
+T492420,Branch 4,Mumbai,2496.04,Transfer,Success,2025-04-03 09:21:57.205772
+T919012,Branch 4,Mumbai,4798.43,Failed,Failed,
+T588000,Branch 4,Mumbai,1428.01,Transfer,Success,2025-04-04 03:18:01.049328
+T453168,Branch 4,,1974.4,Failed,Failed,2025-04-07 18:24:23.946081
+T983302,Branch 4,Mumbai,1595.55,Withdrawal,Success,2025-04-02 14:59:01.357608
+T854305,Branch 4,Mumbai,4523.92,Withdrawal,,2025-04-06 16:48:28.772009
+T804007,Branch 4,Mumbai,3210.47,Failed,Failed,2025-04-04 14:46:18.335815
+T489519,Branch 4,Mumbai,4430.77,Failed,Success,2025-04-06 10:10:00.840146
+T871849,Branch 4,Mumbai,2543.73,Deposit,Success,2025-04-03 07:39:33.182698
+T561411,Branch 4,Mumbai,4285.73,Transfer,Failed,2025-04-02 19:59:17.414717
+T219044,Branch 4,Mumbai,3559.32,Withdrawal,Failed,2025-04-07 06:52:38.205633
+,Branch 4,Mumbai,4596.04,Transfer,Failed,2025-04-05 21:42:08.734178
+,Branch 4,Mumbai,1069.29,Transfer,Success,2025-04-03 12:57:52.873652
+T331925,,Mumbai,2029.03,Withdrawal,Success,2025-04-02 05:37:25.847087
+T291467,Branch 4,Mumbai,2214.38,Transfer,Success,2025-04-04 11:19:34.297315
+T944132,Branch 4,Mumbai,3534.21,Transfer,Success,2025-04-07 11:28:11.144040
+T973049,Branch 4,Mumbai,1672.31,Failed,Failed,2025-04-06 14:57:27.189298
+T172350,Branch 4,Mumbai,827.89,Deposit,Success,2025-04-02 00:50:01.078115
+T948334,Branch 4,Mumbai,241.5,Deposit,Success,2025-04-02 17:07:03.503592
+T667360,Branch 4,Mumbai,1722.91,Withdrawal,Failed,2025-04-05 03:52:57.201238
+T225690,Branch 4,Mumbai,824.86,Failed,Failed,2025-04-03 16:56:34.019893
+T330522,Branch 4,Mumbai,362.62,Failed,Success,2025-04-05 01:34:32.995128
+,Branch 4,Mumbai,3223.32,Withdrawal,Failed,2025-04-05 14:50:53.406466
+T897195,Branch 4,Mumbai,1526.88,Deposit,Failed,2025-04-02 20:57:54.445705
+T156620,Branch 4,Mumbai,130.97,Transfer,Success,2025-04-07 03:42:50.584690
+T165758,Branch 4,Mumbai,4405.92,Withdrawal,Failed,2025-04-01 03:01:39.790634
+T569975,Branch 4,Mumbai,1061.06,Transfer,Success,2025-04-02 15:43:45.950335
+T582285,Branch 4,Mumbai,2455.79,Transfer,Success,2025-04-07 11:21:57.974752
+T830826,Branch 4,Mumbai,1210.72,Failed,Success,2025-04-05 11:14:53.552023
+T479602,Branch 4,,676.48,Deposit,Success,2025-04-01 20:38:50.601254
+T691279,Branch 4,Mumbai,1102.2,,,2025-04-07 04:48:44.286654
+T128623,Branch 4,Mumbai,4152.02,Failed,Failed,2025-04-04 04:49:02.902113
+T241998,Branch 4,Mumbai,4454.4,Deposit,Failed,2025-04-02 15:12:18.103041
+,Branch 4,Mumbai,1596.17,Withdrawal,Failed,2025-04-03 10:46:27.074195
+T430460,Branch 4,Mumbai,4931.39,Transfer,Failed,2025-04-05 12:50:35.967052
+T527178,Branch 4,Mumbai,2984.26,Failed,Success,2025-04-04 04:43:47.749108
+T419363,Branch 4,Mumbai,4643.72,Transfer,Failed,2025-04-01 23:30:17.079372
+T823352,Branch 4,Mumbai,1300.51,Failed,Failed,2025-04-04 07:40:50.496936
+T260797,Branch 4,Mumbai,1449.58,Transfer,Failed,2025-04-06 10:04:49.349779
+T115362,Branch 4,Mumbai,3346.98,Transfer,,2025-04-05 16:38:06.466666
+T508754,Branch 4,Mumbai,1870.24,Failed,Failed,2025-04-05 04:57:18.039064
+T717403,Branch 4,Mumbai,,Withdrawal,Failed,
+T225337,Branch 4,Mumbai,2190.11,Deposit,Failed,2025-04-03 00:15:03.408025
+T428172,Branch 4,,503.37,Withdrawal,Failed,2025-04-06 14:06:39.580881
+T146574,Branch 4,Mumbai,4591.88,Transfer,Success,2025-04-04 22:41:43.202855
+T932606,Branch 4,Mumbai,3440.51,Failed,Success,2025-04-06 03:49:37.553583
+,Branch 4,,1401.0,Withdrawal,Failed,2025-04-05 14:11:58.294747
+T630679,Branch 4,Mumbai,1449.84,,Success,2025-04-04 12:20:59.608734
+T262409,Branch 4,Mumbai,3113.97,Failed,Failed,2025-04-01 12:34:37.306831
+T203152,Branch 4,Mumbai,4066.64,Transfer,Success,2025-04-03 05:35:28.000511
+T779688,Branch 4,Mumbai,3006.52,Transfer,Failed,2025-04-07 12:59:20.783036
+T940438,,Mumbai,1581.26,Withdrawal,Failed,2025-04-03 19:20:57.054831
+T785584,Branch 4,Mumbai,4951.5,Transfer,Failed,2025-04-07 00:57:11.157909
+T770817,Branch 4,Mumbai,568.79,Transfer,Success,2025-04-05 12:31:13.551548
+T378250,Branch 4,Mumbai,698.82,Deposit,Failed,2025-04-03 09:12:52.421065
+T579797,Branch 4,Mumbai,2148.17,Withdrawal,Failed,2025-04-03 20:04:02.633668
+T694584,Branch 4,Mumbai,2097.34,Deposit,Success,2025-04-05 20:07:07.996934
+T487046,Branch 4,Mumbai,3387.88,Failed,Success,2025-04-06 22:26:57.460144
+T135038,Branch 4,Mumbai,,Transfer,Failed,2025-04-03 05:46:00.544669
+T737977,Branch 4,Mumbai,4799.98,Failed,Failed,2025-04-01 11:04:39.494380
+T590702,Branch 4,Mumbai,105.45,Transfer,Success,2025-04-04 23:03:17.610462
+T686258,,Mumbai,4671.06,Deposit,Success,2025-04-01 06:05:57.104792
+,Branch 4,Mumbai,4442.82,Failed,Success,2025-04-07 16:19:48.307370
+T391585,Branch 4,Mumbai,607.29,Deposit,Success,2025-04-07 09:27:48.365085
+T364252,Branch 4,Mumbai,2168.45,Failed,Failed,2025-04-02 10:54:24.686921
+T696385,Branch 4,Mumbai,1498.16,Failed,Failed,2025-04-05 21:45:36.019276
+T533959,Branch 4,Mumbai,228.77,Transfer,Success,2025-04-01 22:56:07.295976
+T603213,Branch 4,Mumbai,4288.54,Deposit,Failed,2025-04-04 08:47:33.122899
+T250819,Branch 4,Mumbai,3789.5,Deposit,,2025-04-01 08:22:46.656593
+T812460,Branch 4,Mumbai,,Deposit,Failed,2025-04-03 01:37:57.421634
+T484988,Branch 4,Mumbai,2444.72,Withdrawal,Failed,2025-04-05 12:05:13.729507
+T791820,Branch 4,Mumbai,3581.33,Withdrawal,Failed,2025-04-03 14:23:48.395955
+T973740,Branch 4,Mumbai,353.5,Transfer,Failed,2025-04-02 19:13:54.617265
+T212536,,Mumbai,2515.82,,Failed,2025-04-06 02:06:03.258074
+T737645,Branch 4,Mumbai,4903.08,Transfer,Failed,2025-04-07 23:59:00.123662
+T837577,Branch 4,Mumbai,4356.77,,Failed,2025-04-03 20:27:47.465555
+T923287,Branch 4,Mumbai,4949.34,Transfer,Success,2025-04-02 20:21:49.140651
+,Branch 4,Mumbai,118.92,,Failed,2025-04-04 20:55:54.837761
+T692265,Branch 4,Mumbai,445.36,Transfer,Success,2025-04-07 22:31:02.231999
+T972533,Branch 4,Mumbai,400.36,Deposit,Failed,2025-04-05 02:01:03.930600
+T283446,Branch 4,Mumbai,4154.6,Deposit,Failed,2025-04-05 11:05:26.116063
+T425581,Branch 4,Mumbai,1927.46,,Failed,2025-04-05 09:26:33.215075
+T903797,Branch 4,Mumbai,307.42,Withdrawal,Failed,2025-04-05 04:32:15.571045
+T322551,Branch 4,Mumbai,3449.16,Withdrawal,Failed,2025-04-01 00:07:03.762822
+T533035,Branch 4,,2914.51,Transfer,Failed,2025-04-02 00:20:21.201201
+T284700,Branch 4,Mumbai,1505.94,Transfer,Success,2025-04-04 10:58:16.398643
+T349338,Branch 4,Mumbai,1014.35,Transfer,Failed,2025-04-02 01:04:20.101386
+T910740,Branch 4,Mumbai,2026.91,Failed,Success,2025-04-04 10:11:41.328434
+T686551,Branch 4,Mumbai,2210.58,Transfer,Failed,2025-04-06 19:29:31.535752
+T335456,Branch 4,Mumbai,2950.51,,Success,2025-04-01 19:16:16.135939
+T877819,Branch 4,Mumbai,3248.84,Failed,Success,2025-04-07 23:33:37.634258
+,Branch 4,Mumbai,1278.65,,Success,2025-04-07 03:03:56.216334
+T443380,Branch 4,Mumbai,3328.06,Deposit,,2025-04-01 21:23:33.446452
+T182297,Branch 4,Mumbai,2899.06,Withdrawal,Failed,2025-04-05 09:55:12.243463
+,,Mumbai,2494.07,Failed,Failed,2025-04-03 14:29:40.819571
+T866883,Branch 4,Mumbai,1149.08,Failed,Success,2025-04-06 17:14:54.193972
+T316464,Branch 4,,3182.3,Transfer,Success,2025-04-05 06:52:44.488927
+T288093,Branch 4,Mumbai,2546.8,Withdrawal,Success,2025-04-07 10:30:44.054797
+T678941,Branch 4,Mumbai,,Failed,Failed,2025-04-05 02:28:59.583377
+T467258,Branch 4,Mumbai,,Transfer,Success,2025-04-05 18:32:59.355430
+T229264,Branch 4,Mumbai,3881.8,Deposit,Success,2025-04-05 17:44:11.097592
+T156652,Branch 4,Mumbai,,Deposit,Success,2025-04-03 13:30:15.634561
+T985547,Branch 4,Mumbai,1921.48,Withdrawal,Failed,2025-04-01 16:03:40.056278
+T247356,Branch 4,Mumbai,4354.33,Transfer,Failed,2025-04-07 11:34:17.406182
+T726202,Branch 4,Mumbai,3191.94,Transfer,Failed,2025-04-04 16:37:18.023342
+T676080,Branch 4,Mumbai,3064.46,Failed,Success,2025-04-06 17:48:24.679287
+T362186,,Mumbai,367.54,Failed,Success,2025-04-04 07:47:30.158522
+,Branch 4,Mumbai,2460.99,,Failed,2025-04-05 13:27:15.723084
+T130088,Branch 4,Mumbai,2370.83,Transfer,,2025-04-02 07:37:06.792547
+,Branch 4,Mumbai,1629.73,Deposit,Success,2025-04-03 02:57:27.363851
+T258072,Branch 4,Mumbai,,Withdrawal,Success,2025-04-03 11:27:17.138783
+,Branch 4,Mumbai,4723.04,Failed,Failed,2025-04-05 15:10:03.865512
+T610860,Branch 4,Mumbai,2973.66,Deposit,Failed,2025-04-05 00:16:03.863580
+T420677,Branch 4,Mumbai,1247.39,Deposit,Success,2025-04-02 20:38:44.408382
+T694492,Branch 4,Mumbai,3116.52,Transfer,Failed,2025-04-02 20:49:57.514674
+T866961,Branch 4,Mumbai,4606.78,Failed,Success,2025-04-04 18:00:56.237259
+T687391,Branch 4,Mumbai,3061.38,Transfer,Failed,2025-04-04 17:12:54.810925
+T992144,Branch 4,Mumbai,2467.28,Failed,Failed,2025-04-05 00:43:47.016186
+T639191,Branch 4,Mumbai,2893.95,Deposit,Failed,2025-04-04 07:38:45.489929
+T143860,Branch 4,Mumbai,3790.29,Deposit,Failed,2025-04-03 19:01:57.795946
+T910773,Branch 4,,1195.56,Transfer,Failed,2025-04-05 12:50:44.773720
+T839949,Branch 4,Mumbai,2910.82,Deposit,Success,2025-04-01 09:50:47.152281
+T315524,Branch 4,Mumbai,3826.11,,Failed,2025-04-05 02:23:42.739262
+T123883,Branch 4,Mumbai,4708.69,Withdrawal,Failed,2025-04-05 12:52:15.233677
+T934719,Branch 4,Mumbai,4598.94,Withdrawal,Failed,2025-04-04 02:21:39.536751
+T172740,Branch 4,Mumbai,2662.31,Deposit,Success,2025-04-04 23:50:43.182980
+T946040,,Mumbai,413.75,,Failed,2025-04-05 10:48:27.766043
+T880624,Branch 4,Mumbai,3374.89,Failed,Failed,2025-04-04 15:39:18.576012
+T969846,Branch 4,Mumbai,2377.56,Failed,Success,2025-04-01 00:23:56.999790
+T664388,Branch 4,Mumbai,298.85,Withdrawal,Success,2025-04-02 04:08:59.084859
+T589972,Branch 4,Mumbai,2117.84,Deposit,Failed,2025-04-06 06:43:11.267633
+T745212,Branch 4,Mumbai,4836.45,Withdrawal,Failed,2025-04-06 12:18:45.355247
+T861786,Branch 4,Mumbai,4256.24,Deposit,Failed,
+,Branch 4,Mumbai,3216.75,Withdrawal,Failed,2025-04-01 19:17:11.435909
+T849375,Branch 4,Mumbai,3018.27,,Success,2025-04-04 12:57:03.826091
+T338548,Branch 4,Mumbai,1129.32,Deposit,Failed,2025-04-05 17:03:32.717534
+T610159,Branch 4,Mumbai,2904.66,Withdrawal,Success,2025-04-04 21:41:39.244629
+T670018,Branch 4,Mumbai,403.45,Withdrawal,Failed,2025-04-06 23:02:09.109734
+T353509,Branch 4,Mumbai,3145.56,Withdrawal,Failed,2025-04-01 16:53:33.522394
+T355429,Branch 4,Mumbai,598.01,Deposit,Success,2025-04-07 16:21:20.294831
+T670028,,Mumbai,4796.57,Deposit,Success,2025-04-03 19:10:21.890740
+T270069,Branch 4,Mumbai,2426.19,Deposit,Success,2025-04-06 08:22:43.944734
+T315068,Branch 4,Mumbai,,Deposit,Failed,2025-04-04 14:05:35.417078
+T133177,Branch 4,Mumbai,4233.15,Deposit,Success,2025-04-06 21:47:55.044683
+T641221,Branch 4,Mumbai,4461.34,Transfer,Success,2025-04-07 17:24:25.263613
+T418790,Branch 4,Mumbai,2044.71,Transfer,Failed,2025-04-01 13:42:13.531530
+T475550,Branch 4,Mumbai,1223.17,Transfer,Failed,2025-04-07 02:36:58.385570
+T667025,Branch 4,Mumbai,3353.45,Failed,Failed,2025-04-06 02:46:13.420898
+T375771,Branch 4,Mumbai,1915.22,Deposit,Failed,2025-04-01 14:58:31.125016
+T325157,Branch 4,Mumbai,,Transfer,Failed,2025-04-07 07:00:39.699045
+,Branch 4,Mumbai,3241.75,Deposit,Success,2025-04-04 00:28:23.267658
+T870638,Branch 4,Mumbai,1904.58,Transfer,Failed,2025-04-02 10:30:44.166756
+,Branch 4,Mumbai,2373.75,Transfer,,2025-04-05 06:19:39.856452
+T756424,,Mumbai,665.16,Transfer,Failed,2025-04-06 11:41:01.914777
+T413127,Branch 4,Mumbai,2532.36,Failed,Success,2025-04-07 13:22:52.495852
+,Branch 4,Mumbai,3600.59,Deposit,Success,2025-04-06 11:49:04.471602
+T238695,Branch 4,Mumbai,2129.65,Failed,Failed,2025-04-06 11:37:28.285664
+T981803,Branch 4,Mumbai,1140.19,Transfer,Failed,2025-04-01 22:24:20.701602
+T656911,Branch 4,Mumbai,3752.97,Deposit,,2025-04-07 16:44:11.764112
+T921766,Branch 4,Mumbai,1985.73,,Failed,2025-04-02 14:24:18.207694
+T871506,,Mumbai,2594.94,Deposit,Failed,2025-04-06 07:33:56.283145
+T616784,Branch 4,Mumbai,4261.55,Transfer,Success,2025-04-02 04:51:21.614066
+T545732,Branch 4,Mumbai,3409.41,Withdrawal,Success,2025-04-04 08:32:35.897499
+T913288,Branch 4,Mumbai,1287.88,,Failed,2025-04-06 00:15:15.455202
+T293492,Branch 4,Mumbai,951.76,Failed,Failed,2025-04-07 10:45:57.578537
+T928220,,Mumbai,220.76,Failed,Success,2025-04-02 04:23:55.403768
+,Branch 4,Mumbai,3075.26,Transfer,Failed,2025-04-06 17:08:10.485504
+T371522,Branch 4,Mumbai,3565.84,Failed,Failed,
+T334723,Branch 4,Mumbai,2198.29,Withdrawal,Success,2025-04-02 02:16:21.075368
+T567890,Branch 4,Mumbai,4936.78,Withdrawal,Failed,2025-04-02 03:40:38.700930
+T169138,Branch 4,Mumbai,,Transfer,Success,2025-04-06 23:43:45.221063
+T153995,Branch 4,,627.07,Deposit,Failed,2025-04-01 00:09:53.994809
+T164119,Branch 4,Mumbai,,Transfer,Success,2025-04-07 23:08:11.653260
+T344760,Branch 4,Mumbai,3667.18,Transfer,Failed,2025-04-03 23:39:33.792195
+T916489,Branch 4,Mumbai,3385.06,,Failed,2025-04-05 16:18:22.241386
+T505815,,Mumbai,1903.7,Deposit,Failed,2025-04-04 17:22:43.234628
+T533207,Branch 4,Mumbai,2906.67,Withdrawal,Success,
+T511998,Branch 4,Mumbai,1395.55,Deposit,Failed,2025-04-02 06:12:19.026940
+T453451,Branch 4,Mumbai,2733.76,Failed,Failed,2025-04-02 09:03:03.758888
+T866454,Branch 4,Mumbai,973.62,Deposit,Success,2025-04-05 13:02:21.720972
+T260938,Branch 4,,1022.86,Deposit,Failed,2025-04-04 08:09:12.110326
+T819267,Branch 4,Mumbai,2384.88,Failed,Success,2025-04-01 07:31:35.933763
+T469184,Branch 4,Mumbai,819.89,Withdrawal,Failed,2025-04-06 18:00:42.882385
+T168529,Branch 4,Mumbai,1239.71,Failed,Failed,2025-04-05 02:24:51.907632
+T609776,Branch 4,Mumbai,1715.93,Deposit,Success,
+T110044,Branch 4,Mumbai,4854.61,Transfer,Failed,2025-04-04 02:43:53.306582
+T226462,Branch 4,Mumbai,280.89,Transfer,Failed,2025-04-06 01:04:09.841161
+T388743,,Mumbai,1516.25,Deposit,Success,2025-04-04 21:36:07.098518
+T248862,Branch 4,Mumbai,,Transfer,Failed,2025-04-07 16:37:06.164496
+T935550,Branch 4,Mumbai,614.36,Failed,Success,2025-04-02 02:02:13.102277
+T808581,Branch 4,Mumbai,1915.54,Deposit,Success,2025-04-03 02:44:10.734060
+T409444,Branch 4,Mumbai,3506.1,,Failed,2025-04-05 14:30:40.669182
+T929164,Branch 4,Mumbai,1678.91,Deposit,Success,2025-04-06 18:41:01.910234
+T734323,Branch 4,Mumbai,4866.3,Failed,Success,2025-04-05 05:51:21.546147
+T122965,Branch 4,Mumbai,3519.89,Transfer,,2025-04-01 08:30:42.531051
+T176299,Branch 4,Mumbai,4427.45,,Success,2025-04-01 13:03:15.311290
+T432741,Branch 4,Mumbai,4651.77,Failed,Success,2025-04-03 06:34:56.559434
+T610156,,Mumbai,,Failed,Success,2025-04-05 05:56:54.073248
+T679604,Branch 4,Mumbai,2606.54,Failed,Failed,2025-04-04 07:48:48.181936
+,Branch 4,Mumbai,421.34,Deposit,Success,2025-04-05 16:41:02.491602
+T317634,Branch 4,Mumbai,1571.79,Deposit,Success,2025-04-01 14:42:54.251945
+T343621,Branch 4,Mumbai,4954.94,Withdrawal,Failed,2025-04-01 07:43:57.881803
+,Branch 4,Mumbai,524.77,Failed,Success,2025-04-03 01:39:49.298950
+T834755,Branch 4,Mumbai,3722.52,Withdrawal,Success,2025-04-05 03:41:38.091380
+T813007,Branch 4,Mumbai,,Withdrawal,Failed,2025-04-03 11:55:25.460131
+T135180,Branch 4,Mumbai,1544.79,Withdrawal,Failed,2025-04-06 22:58:20.794344
+T246384,Branch 4,Mumbai,649.27,Transfer,Failed,2025-04-01 07:19:25.852801
+T967536,Branch 4,Mumbai,,Withdrawal,Success,2025-04-01 05:58:58.963694
+,Branch 4,Mumbai,,Withdrawal,Success,2025-04-04 22:40:16.464548
+T750480,Branch 4,Mumbai,957.01,Withdrawal,Failed,2025-04-04 00:16:20.861810
+T471985,Branch 4,Mumbai,2782.71,Deposit,Failed,2025-04-04 01:21:16.055075
+T559172,Branch 4,Mumbai,1226.5,Failed,Failed,2025-04-01 12:05:45.866204
+T328248,Branch 4,Mumbai,2402.65,Failed,Success,2025-04-02 13:44:27.253810
+T484218,Branch 4,,,Transfer,Failed,2025-04-02 15:15:17.064655
+T226818,Branch 4,Mumbai,148.24,Withdrawal,Failed,2025-04-02 20:17:32.922015
+,Branch 4,Mumbai,2978.71,Withdrawal,Success,2025-04-05 06:43:34.587839
+,Branch 4,Mumbai,872.53,Withdrawal,Success,2025-04-07 05:28:25.198734
+T879523,Branch 4,Mumbai,3190.11,Transfer,Failed,2025-04-04 16:52:19.137515
+T525735,Branch 4,Mumbai,3052.65,Deposit,Failed,2025-04-02 11:58:40.409322
+T873465,Branch 4,Mumbai,561.27,Failed,Success,2025-04-04 00:38:04.620949
+T502149,Branch 4,Mumbai,494.82,Deposit,Success,2025-04-04 03:05:42.643009
+T531508,Branch 4,Mumbai,1001.86,Transfer,Failed,2025-04-01 12:39:27.050771
+T869049,,Mumbai,1563.77,,Success,2025-04-04 18:37:36.286873
+T823123,Branch 4,Mumbai,4836.14,Failed,Failed,2025-04-05 01:39:09.858072
+T468515,Branch 4,Mumbai,3221.06,Withdrawal,Failed,2025-04-05 16:56:58.528856
+T967374,Branch 4,Mumbai,3064.09,,Failed,2025-04-02 23:39:41.058031
+T826186,Branch 4,Mumbai,1438.92,Transfer,,2025-04-07 05:33:31.856299
+T964646,Branch 4,Mumbai,4409.7,Deposit,Success,
+T283321,Branch 4,Mumbai,2550.32,Withdrawal,Failed,2025-04-04 13:14:02.481707
+T886211,Branch 4,Mumbai,3778.72,Withdrawal,Success,2025-04-03 17:32:20.916744
+T290082,Branch 4,Mumbai,1575.87,Transfer,Failed,2025-04-02 13:38:44.728644
+T952395,Branch 4,Mumbai,,Deposit,Success,2025-04-01 05:53:06.182705
+T297308,Branch 4,Mumbai,4662.31,Transfer,Success,2025-04-01 19:19:30.723971
+T359356,Branch 4,,4421.39,Failed,Success,2025-04-06 22:10:59.525223
+T258680,Branch 4,Mumbai,4112.66,Deposit,Success,2025-04-07 15:50:37.234560
+T284783,Branch 4,Mumbai,571.34,Deposit,Success,2025-04-01 18:34:20.643020
+T150998,Branch 4,Mumbai,2478.86,Withdrawal,Failed,2025-04-06 17:52:18.918969
+,Branch 4,Mumbai,1741.9,Withdrawal,Failed,2025-04-05 07:00:11.776018
+T136247,Branch 4,Mumbai,4568.2,Deposit,Success,2025-04-03 09:50:19.617565
+T358566,Branch 4,Mumbai,3804.43,Withdrawal,Failed,2025-04-03 22:00:18.440997
+T350208,Branch 4,Mumbai,1188.22,Transfer,Failed,2025-04-05 15:32:08.803942
+,Branch 4,Mumbai,2823.38,,Failed,2025-04-02 09:29:32.275100
+,Branch 4,Mumbai,2046.29,Withdrawal,Failed,
+T672610,Branch 4,Mumbai,4147.23,,Success,2025-04-01 13:54:29.046889
+T213100,Branch 4,Mumbai,3312.52,Withdrawal,Success,2025-04-03 09:07:43.227573
+T322565,Branch 4,Mumbai,,Failed,Failed,
+T884161,Branch 4,Mumbai,4433.19,Deposit,Failed,2025-04-05 12:57:21.536118
+T655487,Branch 4,,2235.86,Withdrawal,Success,2025-04-01 02:13:08.142428
+T896315,Branch 4,Mumbai,1229.51,Transfer,Success,2025-04-07 17:24:09.275381
+T213660,,Mumbai,1615.32,Deposit,Success,2025-04-02 16:48:27.061818
+T585686,Branch 4,Mumbai,413.69,Withdrawal,Failed,2025-04-03 22:13:47.820860
+T181481,Branch 4,Mumbai,4461.09,Withdrawal,Failed,2025-04-07 15:37:36.160967
+T351263,Branch 4,Mumbai,1500.85,Transfer,Failed,2025-04-03 11:37:42.136608
+,Branch 4,Mumbai,2340.11,Transfer,Failed,2025-04-02 05:26:05.500236
+T793197,Branch 4,Mumbai,1356.04,Withdrawal,Failed,2025-04-03 16:03:36.275372
+,Branch 4,Mumbai,3100.72,Failed,Success,2025-04-02 07:00:32.354045
+T641825,Branch 4,Mumbai,788.94,,,2025-04-04 05:42:39.820783
+,Branch 4,Mumbai,,Failed,,2025-04-05 14:00:09.033069
+T318353,Branch 4,Mumbai,957.54,Failed,,2025-04-04 04:27:01.779454
+T686016,Branch 4,Mumbai,2505.52,Transfer,Success,2025-04-01 20:04:43.151234
+T380934,Branch 4,Mumbai,498.57,,Success,2025-04-03 01:57:47.640804
+T386544,Branch 4,Mumbai,833.07,Failed,Failed,2025-04-03 15:01:36.002525
+T354525,Branch 4,,938.78,Failed,,2025-04-01 11:15:17.366079
+T221303,Branch 4,Mumbai,3225.37,Deposit,Success,2025-04-04 04:48:29.605939
+T492164,Branch 4,Mumbai,1314.23,Withdrawal,Failed,2025-04-07 01:39:50.719816
+,Branch 4,Mumbai,2236.01,Transfer,Success,2025-04-04 21:24:39.295124
+T695838,Branch 4,Mumbai,,Transfer,Success,2025-04-04 13:52:55.920624
+T299340,Branch 4,Mumbai,2983.78,Withdrawal,Success,2025-04-01 03:24:45.223005
+T863701,Branch 4,Mumbai,3436.47,Withdrawal,Failed,2025-04-03 20:02:17.214038
+T421214,Branch 4,Mumbai,231.96,Transfer,Failed,2025-04-07 19:58:50.663173
+T304135,Branch 4,Mumbai,525.4,Deposit,Failed,2025-04-01 04:36:43.869367
+T472540,Branch 4,Mumbai,1155.16,Transfer,Success,2025-04-02 19:14:29.115792
+T653312,Branch 4,,4236.37,Withdrawal,Failed,2025-04-04 20:25:27.969520
+T576376,Branch 4,Mumbai,4683.48,Deposit,Failed,2025-04-06 22:25:48.089287
+T786494,Branch 4,Mumbai,2746.84,Failed,Failed,2025-04-04 16:59:38.444962
+T746125,Branch 4,Mumbai,1022.25,Failed,Success,2025-04-01 19:33:25.813779
+T681371,Branch 4,Mumbai,4780.42,Failed,Success,2025-04-06 09:38:44.152724
+T370606,Branch 4,Mumbai,3404.87,Withdrawal,Success,2025-04-06 09:39:02.108338
+T876324,Branch 4,Mumbai,3478.99,Withdrawal,Failed,2025-04-01 02:46:06.289530
+T799764,Branch 4,Mumbai,2203.36,,Success,2025-04-01 02:18:16.542857
+T276885,Branch 4,Mumbai,225.07,Deposit,Failed,2025-04-01 17:17:50.179568
+T774174,Branch 4,Mumbai,3613.68,Withdrawal,Failed,2025-04-04 10:29:30.947314
+T604845,Branch 4,Mumbai,3987.18,Deposit,Success,2025-04-01 00:18:10.474176
+T775728,Branch 4,Mumbai,601.37,Failed,Failed,2025-04-04 17:04:04.555136
+T760308,Branch 4,Mumbai,3769.57,Deposit,Failed,2025-04-02 08:41:08.783013
+T842890,Branch 4,Mumbai,3407.12,Failed,Success,2025-04-07 00:08:15.588663
+T660937,Branch 4,Mumbai,2408.33,Withdrawal,Success,2025-04-01 18:20:52.324016
+T515927,Branch 4,Mumbai,4475.4,Deposit,Failed,2025-04-03 11:00:18.139830
+T906991,Branch 4,Mumbai,394.75,,Failed,
+T322602,Branch 4,Mumbai,4967.42,Failed,Failed,2025-04-02 03:34:48.586605
+T436492,Branch 4,Mumbai,4978.46,Withdrawal,Failed,2025-04-01 04:54:20.359023
+T867554,Branch 4,Mumbai,,Failed,Success,2025-04-04 08:15:38.563634
+T684997,Branch 4,Mumbai,2520.46,Withdrawal,Success,2025-04-07 21:14:56.716763
+T627899,Branch 4,Mumbai,3481.53,,,2025-04-06 08:07:43.311327
+T904771,Branch 4,Mumbai,3685.74,,,2025-04-05 23:32:42.559549
+T759867,Branch 4,Mumbai,4231.76,,Success,2025-04-04 09:28:44.041992
+T547904,Branch 4,Mumbai,2106.0,Failed,Success,2025-04-07 03:26:58.568722
+T712671,Branch 4,Mumbai,4171.9,Transfer,Failed,2025-04-01 19:00:18.913014
+T935228,Branch 4,Mumbai,4768.02,,Success,2025-04-04 12:48:45.161358
+T391317,Branch 4,Mumbai,2398.41,Transfer,Failed,2025-04-02 17:16:33.996402
+T193918,Branch 4,Mumbai,747.29,Deposit,Success,2025-04-06 20:52:59.424691
+T761167,Branch 4,Mumbai,4999.51,Transfer,Success,2025-04-03 04:13:04.952093
+T378723,Branch 4,Mumbai,3513.68,Transfer,Success,2025-04-07 10:24:11.840219
+T306460,Branch 4,Mumbai,2871.83,Transfer,Success,2025-04-01 16:38:31.935040
+T867010,Branch 4,,1039.64,Deposit,Success,2025-04-05 05:28:13.770752
+T112735,Branch 4,Mumbai,1139.65,,Success,2025-04-03 10:25:14.935692
+T214184,Branch 4,Mumbai,3358.11,Transfer,Success,2025-04-05 16:13:05.075161
+T216609,Branch 4,Mumbai,2615.59,Failed,Failed,
+T330162,Branch 4,Mumbai,4344.37,Withdrawal,Success,2025-04-07 15:31:33.174685
+T216563,Branch 4,Mumbai,4155.99,Withdrawal,Success,
+T365075,Branch 4,Mumbai,3547.37,Deposit,,2025-04-06 20:23:59.920808
+T605360,Branch 4,Mumbai,3261.7,Failed,Success,2025-04-04 06:36:26.002514
+T776141,Branch 4,Mumbai,4136.72,Failed,Failed,2025-04-03 12:46:00.119140
+T244474,Branch 4,Mumbai,3852.81,Transfer,Success,2025-04-03 02:56:30.100129
+T819521,Branch 4,Mumbai,3688.18,Transfer,Success,2025-04-05 15:13:33.276568
+T830823,Branch 4,Mumbai,2673.67,Failed,Failed,2025-04-03 04:05:25.450669
+T178155,Branch 4,Mumbai,670.08,Deposit,Failed,2025-04-07 21:10:30.722726
+T398405,Branch 4,Mumbai,2687.27,Failed,Success,2025-04-07 00:36:01.305427
+,Branch 4,Mumbai,1787.94,Deposit,Success,2025-04-02 10:26:40.814967
+,Branch 4,Mumbai,2193.41,Failed,Success,2025-04-06 21:15:08.426064
+T320709,Branch 4,Mumbai,3978.77,Withdrawal,Failed,2025-04-03 18:24:59.167174
+T391288,Branch 4,Mumbai,1806.37,Withdrawal,Success,2025-04-04 18:07:06.171088
+,Branch 4,Mumbai,3969.58,Transfer,Success,2025-04-03 02:07:24.356113
+T542215,Branch 4,,768.62,Failed,Success,2025-04-06 04:09:01.991692
+,Branch 4,Mumbai,3815.16,Withdrawal,Success,2025-04-01 18:55:23.004968
+T164888,Branch 4,Mumbai,1799.94,Deposit,Success,2025-04-04 12:55:53.106734
+T955816,Branch 4,Mumbai,1806.96,Transfer,Failed,2025-04-06 22:07:24.646428
+T621446,Branch 4,Mumbai,2194.69,Failed,Failed,
+T969492,Branch 4,Mumbai,3931.12,Transfer,Failed,2025-04-05 12:36:50.082192
+T591069,Branch 4,Mumbai,4291.7,Failed,Success,2025-04-04 09:35:47.429682
+T183093,Branch 4,Mumbai,3200.59,,Failed,2025-04-06 04:13:26.615280
+T549549,Branch 4,Mumbai,3771.23,,Success,2025-04-06 01:36:14.419820
+T618227,Branch 4,Mumbai,455.81,,Failed,2025-04-06 15:41:32.565590
+T222748,Branch 4,Mumbai,4474.26,Failed,Success,2025-04-06 07:04:58.474602
+T656349,,Mumbai,367.16,Withdrawal,Failed,2025-04-06 06:47:50.954136
+T921455,Branch 4,Mumbai,2194.37,Withdrawal,,2025-04-05 02:52:22.122196
+T210355,Branch 4,Mumbai,1265.8,,Success,2025-04-03 11:42:06.569467
+T558313,Branch 4,Mumbai,3669.35,Withdrawal,Success,2025-04-03 11:53:40.266242
+T286637,Branch 4,Mumbai,4663.15,Deposit,Success,2025-04-03 15:18:50.791582
+T180301,Branch 4,Mumbai,3505.03,Failed,Failed,2025-04-01 15:45:15.456638
+T750116,Branch 4,Mumbai,2144.2,Failed,Failed,2025-04-03 13:31:27.983905
+,Branch 4,Mumbai,3381.41,Deposit,Failed,2025-04-06 17:57:40.869582
+,Branch 4,Mumbai,1821.09,Deposit,Failed,2025-04-05 06:23:00.322678
+T840468,Branch 4,Mumbai,3227.02,Deposit,Failed,2025-04-02 11:44:43.107753
+,Branch 4,Mumbai,2546.99,Deposit,Failed,2025-04-07 21:06:08.113429
+T731546,,Mumbai,699.91,Deposit,Success,2025-04-06 13:26:38.142214
+T509098,Branch 4,Mumbai,714.02,Failed,Failed,2025-04-07 23:40:43.349748
+T398593,Branch 4,Mumbai,4789.61,Transfer,Success,2025-04-07 01:29:30.407974
+T411825,,Mumbai,1558.56,Withdrawal,Success,2025-04-06 21:58:13.965838
+T852594,,Mumbai,4239.37,Withdrawal,Success,2025-04-05 17:58:03.657525
+T422806,,Mumbai,3370.24,Failed,Success,2025-04-06 04:47:15.140324
+T362615,Branch 4,Mumbai,115.99,Transfer,Failed,2025-04-03 23:47:36.851514
+T396133,,Mumbai,4340.23,Transfer,Success,2025-04-04 10:10:32.814101
+T279995,Branch 4,Mumbai,2849.62,Withdrawal,Success,2025-04-02 10:45:42.986702
+T941319,Branch 4,Mumbai,646.98,Deposit,Success,2025-04-07 01:32:56.664605
+,Branch 4,Mumbai,4594.9,Transfer,Success,2025-04-07 12:30:08.532044
+,Branch 4,Mumbai,4328.13,Transfer,Failed,2025-04-01 01:07:13.264949
+T477543,Branch 4,Mumbai,1170.2,,Success,2025-04-02 03:57:07.329914
+T416599,Branch 4,Mumbai,2473.14,,Failed,2025-04-07 04:11:05.815247
+T287169,Branch 4,Mumbai,3131.09,Transfer,Success,2025-04-02 11:10:29.619963
+T745104,Branch 4,Mumbai,671.5,Failed,Success,2025-04-05 18:37:53.904409
+T404041,Branch 4,Mumbai,1861.13,Transfer,Success,2025-04-03 05:53:36.224182
+T603144,Branch 4,,1476.67,Failed,Failed,2025-04-02 06:37:47.754757
+T148456,Branch 4,Mumbai,3616.18,Deposit,Failed,2025-04-01 19:07:42.996693
+,Branch 4,Mumbai,4296.0,Withdrawal,Failed,2025-04-04 21:51:51.954113
+T542134,Branch 4,Mumbai,3080.05,,Success,2025-04-02 10:45:59.383909
+T719135,Branch 4,Mumbai,3965.53,Deposit,,2025-04-04 21:32:40.707358
+T866262,,Mumbai,4927.4,Deposit,Failed,2025-04-03 10:27:32.596859
+,Branch 4,Mumbai,3552.53,Withdrawal,Success,2025-04-06 02:17:46.016095
+T601485,Branch 4,Mumbai,4034.3,Failed,Success,2025-04-02 07:30:31.264536
+T285048,Branch 4,Mumbai,130.8,Failed,Failed,2025-04-03 11:31:29.451041
+T253911,,Mumbai,3195.66,Withdrawal,Success,2025-04-03 21:59:24.572462
+T905839,Branch 4,Mumbai,767.15,Deposit,Success,2025-04-07 23:51:49.189024
+T830173,Branch 4,Mumbai,772.42,Transfer,Failed,2025-04-04 04:02:37.208569
+T531841,Branch 4,Mumbai,3412.72,Failed,Success,2025-04-06 14:57:38.906510
+T851591,Branch 4,Mumbai,2444.01,Withdrawal,Success,2025-04-03 19:29:12.069941
+T472927,Branch 4,Mumbai,3336.5,Withdrawal,Success,2025-04-03 00:36:14.158381
+T988023,Branch 4,Mumbai,3946.14,Failed,Success,2025-04-06 12:03:24.685660
+T458153,,Mumbai,185.97,Transfer,Success,2025-04-03 20:44:16.273402
+T270242,Branch 4,Mumbai,1139.8,Withdrawal,Success,2025-04-03 00:04:58.136893
+T442915,Branch 4,Mumbai,3394.93,Withdrawal,,2025-04-02 16:32:52.958447
+T654329,Branch 4,Mumbai,120.81,Failed,Success,2025-04-02 12:51:28.738028
+T596542,Branch 4,Mumbai,,,Success,2025-04-05 15:09:19.863021
+T738634,Branch 4,Mumbai,994.58,Transfer,,2025-04-02 06:22:01.501403
+T590282,Branch 4,Mumbai,849.15,Failed,Failed,2025-04-03 06:06:37.991399
+T424960,Branch 4,Mumbai,831.83,Withdrawal,Success,2025-04-05 20:43:53.246845
+T848937,Branch 4,Mumbai,2008.05,Withdrawal,Failed,2025-04-02 09:34:52.246316
+T154574,Branch 4,Mumbai,1901.97,Failed,Failed,2025-04-07 20:24:01.863720
+T198624,Branch 4,Mumbai,190.45,Failed,Failed,
+T219338,Branch 4,Mumbai,1219.65,Withdrawal,Failed,
+T751877,Branch 4,Mumbai,3990.48,Failed,Failed,2025-04-03 14:33:09.464174
+T234387,,Mumbai,4423.57,,Success,2025-04-02 03:01:03.436058
+T282752,Branch 4,Mumbai,2042.82,Failed,Success,2025-04-04 21:21:27.422532
+T977495,Branch 4,Mumbai,3444.81,Transfer,,2025-04-03 07:35:44.292836
+T965550,Branch 4,Mumbai,3259.73,Failed,Failed,2025-04-07 19:04:12.472298
+,Branch 4,Mumbai,3922.15,Deposit,Failed,2025-04-04 19:18:34.350297
+,Branch 4,Mumbai,209.77,Transfer,Failed,2025-04-01 15:16:35.599198
+T565710,Branch 4,Mumbai,4819.32,Failed,Success,2025-04-03 00:43:51.755999
+T603070,Branch 4,Mumbai,3709.48,Withdrawal,Success,2025-04-04 11:37:40.573889
+T278576,Branch 4,Mumbai,1472.73,,Success,2025-04-05 22:35:40.206485
+T583206,Branch 4,Mumbai,1973.21,Failed,Failed,2025-04-02 07:49:42.337655
+T954268,Branch 4,Mumbai,2200.39,Withdrawal,Success,2025-04-04 21:57:25.090449
+T619697,Branch 4,Mumbai,2266.93,Failed,Failed,2025-04-05 19:56:55.961997
+T872518,Branch 4,Mumbai,1829.14,Transfer,Success,2025-04-02 16:44:09.926763
+T207656,Branch 4,Mumbai,2148.0,Transfer,Failed,2025-04-06 12:42:59.709886
+T490324,Branch 4,Mumbai,4102.03,Transfer,Success,2025-04-03 00:43:10.915791
+T903694,Branch 4,Mumbai,,Withdrawal,Success,2025-04-07 06:31:30.883297
+T258794,Branch 4,Mumbai,4610.32,Withdrawal,Success,2025-04-04 00:54:16.843277
+T783742,Branch 4,Mumbai,813.12,Failed,Failed,2025-04-01 18:24:33.953113
+T298110,Branch 4,Mumbai,4945.57,Deposit,Failed,2025-04-06 08:45:17.421037
+T178914,Branch 4,Mumbai,3058.54,Deposit,Failed,
+T452342,Branch 4,Mumbai,1841.45,Failed,Failed,2025-04-03 19:49:49.045561
+T554766,Branch 4,Mumbai,1690.56,Transfer,Success,2025-04-01 00:51:20.937897
+T950707,Branch 4,Mumbai,1675.09,Deposit,Failed,2025-04-07 23:09:44.072087
+T876022,Branch 4,,441.41,Failed,Failed,2025-04-04 02:39:21.368098
+T860952,Branch 4,Mumbai,2149.26,Withdrawal,Failed,2025-04-01 16:25:27.425134
+T501434,Branch 4,Mumbai,,Failed,Failed,2025-04-01 09:49:55.677009
+T566277,Branch 4,Mumbai,3499.54,Deposit,Failed,2025-04-01 05:48:37.824251
+T580406,Branch 4,Mumbai,2429.47,Transfer,Success,2025-04-03 20:17:48.510793
+T296273,Branch 4,Mumbai,333.8,Transfer,Failed,2025-04-06 02:53:52.908922
+,Branch 4,,2782.76,Transfer,Failed,2025-04-02 08:45:33.874634
+T925540,Branch 4,Mumbai,4871.57,Deposit,Success,2025-04-02 20:38:27.601505
+T697647,Branch 4,Mumbai,2230.86,Transfer,Failed,2025-04-06 09:45:02.142421
+T391883,Branch 4,Mumbai,3794.17,Deposit,Success,2025-04-04 23:15:21.713908
+T699322,Branch 4,Mumbai,459.28,,Failed,2025-04-02 05:44:48.192727
+T616360,Branch 4,Mumbai,1086.62,Withdrawal,Success,2025-04-02 15:45:21.196367
+T359476,Branch 4,Mumbai,1392.95,Deposit,Failed,2025-04-03 06:07:16.535856
+T317665,Branch 4,Mumbai,,Withdrawal,Success,2025-04-06 16:03:18.686829
+T467851,Branch 4,Mumbai,,Failed,Failed,2025-04-01 10:00:51.996501
+,Branch 4,Mumbai,4490.43,Withdrawal,Success,2025-04-02 21:30:02.740006
+,Branch 4,Mumbai,684.27,,Success,2025-04-04 01:17:22.794813
+T668936,Branch 4,Mumbai,1493.5,Deposit,Success,2025-04-05 05:02:09.578040
+T137630,Branch 4,Mumbai,1125.56,,Failed,2025-04-05 00:57:42.371354
+T251717,,Mumbai,2783.37,Failed,Failed,2025-04-02 02:45:08.185335
+T881669,Branch 4,Mumbai,3576.78,Transfer,Success,2025-04-03 03:32:32.090342
+T881387,Branch 4,Mumbai,1667.57,Transfer,Success,2025-04-02 05:06:09.185327
+T483051,Branch 4,Mumbai,1542.17,Failed,Failed,2025-04-04 04:55:56.545188
+T103096,Branch 4,Mumbai,4090.91,Deposit,Success,2025-04-06 01:20:03.432754
+T698665,Branch 4,Mumbai,3816.55,Withdrawal,Success,
+T769284,Branch 4,Mumbai,3015.17,Deposit,Failed,2025-04-03 20:21:33.605064
+T487009,Branch 4,Mumbai,,Deposit,Success,2025-04-07 06:45:13.024227
+T598136,Branch 4,Mumbai,1040.98,Transfer,Success,2025-04-06 03:19:57.534316
+T891650,Branch 4,Mumbai,4292.66,Failed,Success,2025-04-06 22:37:48.064413
+T631286,Branch 4,Mumbai,1562.06,Failed,Success,2025-04-03 15:10:18.635500
+T911452,,Mumbai,4015.09,Transfer,Failed,2025-04-03 02:08:45.184211
+T275648,Branch 4,Mumbai,1870.73,Withdrawal,Failed,
+T850169,Branch 4,Mumbai,278.48,Deposit,Success,2025-04-03 22:12:07.886835
+T600879,Branch 4,Mumbai,1666.16,Withdrawal,Failed,2025-04-03 15:04:02.941195
+T890554,Branch 4,Mumbai,2425.2,Transfer,Success,2025-04-05 13:04:09.759816
+T916237,Branch 4,Mumbai,3180.89,Transfer,Failed,2025-04-07 15:06:25.468065
+,Branch 4,Mumbai,2837.37,Transfer,Failed,2025-04-06 17:24:15.010517
+T712750,Branch 4,Mumbai,955.07,Withdrawal,Failed,2025-04-04 09:18:48.229560
+T589652,Branch 4,Mumbai,4487.82,Withdrawal,Failed,2025-04-04 17:03:46.294960
+T218674,Branch 4,Mumbai,2182.22,Withdrawal,Success,2025-04-04 12:35:07.496129
+T343372,Branch 4,Mumbai,1749.45,Withdrawal,Failed,2025-04-02 08:17:16.646228
+,,Mumbai,4710.86,Deposit,Failed,2025-04-03 16:26:09.264824
+T325870,Branch 4,Mumbai,1013.35,Transfer,Failed,2025-04-04 22:14:02.152027
+,Branch 4,Mumbai,3474.06,Failed,Success,2025-04-01 00:23:26.437528
+T898397,Branch 4,Mumbai,3856.62,Transfer,Failed,2025-04-07 05:50:45.133812
+T637749,Branch 4,Mumbai,4981.45,Failed,Success,2025-04-02 12:55:22.251576
+T484988,Branch 4,Mumbai,,Failed,Success,2025-04-05 15:03:42.509374
+T376491,Branch 4,Mumbai,2053.89,Deposit,Failed,2025-04-04 05:30:34.681202
+T225861,Branch 4,Mumbai,2199.91,Deposit,Success,2025-04-06 09:00:10.459999
+T678846,Branch 4,Mumbai,,Transfer,Success,2025-04-05 22:59:31.716067
+T600617,Branch 4,Mumbai,4905.21,,Success,2025-04-01 20:57:19.274607
+T623089,Branch 4,Mumbai,3645.07,Failed,Failed,2025-04-05 11:12:14.410838
+T470619,Branch 4,Mumbai,4043.99,,Failed,2025-04-06 07:55:07.222840
+T561601,Branch 4,Mumbai,4374.56,Withdrawal,Failed,2025-04-06 15:54:57.950798
+T685835,Branch 4,Mumbai,4413.07,Failed,Failed,2025-04-06 02:34:59.168327
+T361156,Branch 4,Mumbai,152.95,Withdrawal,Failed,2025-04-03 06:19:06.363149
+T454096,Branch 4,Mumbai,3138.57,Transfer,Success,2025-04-04 23:39:13.821034
+T211747,Branch 4,Mumbai,3279.97,Withdrawal,Success,2025-04-07 05:05:08.883172
+T365988,Branch 4,Mumbai,1971.08,Withdrawal,Failed,2025-04-02 12:46:26.707700
+T124259,Branch 4,Mumbai,549.93,Transfer,Success,2025-04-05 01:07:28.065598
+T805576,Branch 4,Mumbai,2994.01,Withdrawal,Success,2025-04-05 06:58:20.264866
+T374571,Branch 4,Mumbai,1663.47,,Failed,2025-04-07 01:08:37.785946
+T886086,Branch 4,Mumbai,1892.26,Withdrawal,Failed,2025-04-04 18:03:26.283600
+T122452,Branch 4,Mumbai,3841.8,Deposit,Success,2025-04-06 22:55:03.189039
+T158886,Branch 4,Mumbai,2581.42,Deposit,Failed,2025-04-03 10:27:19.424307
+T346085,Branch 4,Mumbai,1082.76,Transfer,Success,2025-04-05 13:26:53.511215
+T940434,Branch 4,Mumbai,4501.76,Withdrawal,Failed,
+T402180,Branch 4,Mumbai,4897.82,,Failed,2025-04-03 00:42:31.536793
+,Branch 4,Mumbai,1880.38,Failed,Failed,2025-04-02 14:42:24.299534
+T896697,Branch 4,Mumbai,1840.42,,,2025-04-07 16:23:01.309628
+T721048,Branch 4,Mumbai,1405.05,Transfer,Failed,2025-04-04 01:24:21.426472
+T793133,Branch 4,Mumbai,1622.97,Withdrawal,Success,2025-04-05 11:03:53.814002
+,Branch 4,Mumbai,,Failed,,2025-04-04 18:57:12.061234
+T334836,,Mumbai,380.83,,Failed,2025-04-05 18:50:54.263241
+T396076,Branch 4,Mumbai,4662.48,Deposit,Success,2025-04-06 11:01:05.887556
+T855200,Branch 4,Mumbai,,Deposit,Failed,2025-04-04 10:40:51.988766
+T882616,Branch 4,Mumbai,1625.78,Transfer,Success,2025-04-02 09:55:18.700468
+T393230,Branch 4,Mumbai,1525.6,Deposit,Failed,2025-04-05 22:53:35.790677
+T679713,Branch 4,Mumbai,212.98,Failed,Success,2025-04-06 22:36:43.918989
+,Branch 4,Mumbai,1346.34,Failed,Success,2025-04-02 05:19:35.634894
+T642306,Branch 4,Mumbai,4371.88,Deposit,Failed,2025-04-04 16:59:25.617172
+T815568,Branch 4,Mumbai,4954.49,Failed,,2025-04-05 04:26:47.805488
+T483456,Branch 4,Mumbai,4488.04,Deposit,Success,2025-04-04 02:33:40.365408
+T355271,Branch 4,Mumbai,1472.79,Failed,Success,2025-04-02 03:53:19.300511
+T618711,Branch 4,Mumbai,,Deposit,Success,2025-04-01 04:38:55.927914
+T981137,Branch 4,Mumbai,3995.73,Transfer,Failed,2025-04-02 09:53:16.399343
+T423576,Branch 4,Mumbai,1477.61,Withdrawal,Success,2025-04-01 20:14:59.131636
+T502092,Branch 4,Mumbai,3625.61,Transfer,Failed,2025-04-07 21:09:34.420825
+T543781,Branch 4,Mumbai,670.97,Failed,Success,2025-04-06 04:13:03.884008
+T684293,Branch 4,Mumbai,3112.53,Deposit,Success,2025-04-03 12:02:39.188076
+T935794,Branch 4,Mumbai,4245.89,Failed,,2025-04-04 17:20:57.027836
+T394716,Branch 4,Mumbai,2599.69,Deposit,,2025-04-07 22:06:48.025956
+T657876,Branch 4,Mumbai,3679.76,Deposit,Failed,2025-04-06 10:54:06.791099
+T154391,Branch 4,Mumbai,4999.25,Withdrawal,Failed,2025-04-06 12:47:34.147999
+T181056,Branch 4,Mumbai,3166.94,Deposit,,2025-04-01 08:37:52.294514
+T778214,Branch 4,Mumbai,3039.1,Withdrawal,Failed,2025-04-01 07:13:18.207291
+,Branch 4,,1125.07,Withdrawal,Failed,2025-04-02 19:39:27.511297
+,Branch 4,Mumbai,3685.2,Withdrawal,Success,2025-04-04 04:16:55.139690
+T906681,,Mumbai,4436.65,Failed,Failed,2025-04-04 03:42:26.571054
+T227621,Branch 4,Mumbai,,Deposit,Failed,2025-04-04 11:47:55.111146
+T290610,,Mumbai,2900.01,Withdrawal,Failed,2025-04-03 20:43:09.123770
+T442064,Branch 4,Mumbai,3157.91,,Success,2025-04-02 23:41:53.668852
+T174410,Branch 4,Mumbai,1123.91,Transfer,Failed,2025-04-07 04:50:38.688061
+T848358,Branch 4,Mumbai,684.36,Transfer,Failed,2025-04-01 19:30:04.262405
+T945487,Branch 4,Mumbai,4802.4,Deposit,Failed,2025-04-02 19:41:41.177233
+T140156,Branch 4,Mumbai,1370.37,Deposit,Success,2025-04-06 08:13:40.765760
+,Branch 4,Mumbai,4740.32,Deposit,Success,2025-04-01 02:29:02.322392
+T604087,Branch 4,Mumbai,1933.25,,Success,2025-04-04 07:20:47.037534
+T469960,Branch 4,Mumbai,,Withdrawal,Failed,2025-04-04 11:29:24.959838
+T654974,Branch 4,Mumbai,1023.72,Withdrawal,Failed,2025-04-01 22:32:09.147357
+T415556,Branch 4,Mumbai,257.01,Deposit,Failed,2025-04-03 15:09:19.796250
+T552158,Branch 4,Mumbai,2446.53,Transfer,Failed,2025-04-06 12:29:30.134040
+T172378,Branch 4,Mumbai,3728.06,Transfer,Failed,2025-04-01 15:20:03.131515
+T265623,Branch 4,Mumbai,1376.16,Transfer,Failed,2025-04-06 15:41:10.386996
+T194104,Branch 4,Mumbai,1135.01,Deposit,Failed,2025-04-03 06:00:30.171687
+T607073,Branch 4,Mumbai,4206.66,Deposit,Success,2025-04-06 14:17:51.979638
+T292806,Branch 4,Mumbai,2614.44,Transfer,Success,2025-04-05 04:58:01.409405
+T252631,Branch 4,Mumbai,3405.31,Withdrawal,Failed,2025-04-06 10:43:08.535537
+T607009,Branch 4,Mumbai,3295.37,Withdrawal,Success,2025-04-06 08:39:01.563065
+T689757,Branch 4,Mumbai,3885.43,Transfer,Success,2025-04-01 05:41:18.407682
+T945595,Branch 4,Mumbai,478.51,Withdrawal,,2025-04-04 09:21:14.315850
+T569829,Branch 4,Mumbai,3232.59,Withdrawal,Success,2025-04-02 00:07:20.238790
+T530165,Branch 4,Mumbai,429.54,Transfer,Failed,2025-04-06 19:07:27.743519
+T292945,Branch 4,Mumbai,3450.26,Failed,Failed,2025-04-03 09:21:17.234182
+T292085,Branch 4,Mumbai,,Transfer,Failed,2025-04-05 06:33:44.239896
+T219767,Branch 4,Mumbai,2975.81,Withdrawal,Failed,2025-04-03 05:18:08.459372
+T302260,Branch 4,Mumbai,4533.09,Failed,Success,2025-04-06 09:05:26.385245
+T374976,Branch 4,Mumbai,2444.27,Transfer,Success,2025-04-07 09:33:01.029880
+T287153,Branch 4,Mumbai,766.68,Failed,Failed,2025-04-07 13:59:45.137566
+T944701,Branch 4,Mumbai,4367.42,Transfer,Failed,2025-04-03 09:59:14.264868
+T685287,Branch 4,Mumbai,4668.33,Deposit,Success,2025-04-03 23:25:57.325069
+T145120,Branch 4,Mumbai,4343.05,Withdrawal,Success,2025-04-07 01:52:47.076340
+T539939,Branch 4,Mumbai,2462.99,Transfer,Failed,2025-04-05 07:28:14.758673
+T143421,Branch 4,Mumbai,1770.5,Deposit,Success,2025-04-03 14:53:42.446840
+T280494,Branch 4,Mumbai,2995.94,Transfer,Success,2025-04-04 22:39:48.612805
+T119107,Branch 4,Mumbai,2093.02,Withdrawal,Failed,2025-04-04 03:56:06.400166
+T577502,Branch 4,Mumbai,4472.78,,Success,2025-04-01 04:51:52.429228
+T374096,Branch 4,Mumbai,3203.71,Transfer,Failed,2025-04-01 20:17:00.270573
+T630783,Branch 4,Mumbai,3326.16,Transfer,Success,2025-04-02 05:57:27.841417
+T949644,Branch 4,Mumbai,3960.32,Transfer,Success,2025-04-03 13:28:03.924133
+T358198,Branch 4,Mumbai,3232.0,Withdrawal,Failed,2025-04-02 00:30:57.069904
+T418684,Branch 4,Mumbai,393.83,Failed,Success,2025-04-02 02:38:15.993685
+T650080,Branch 4,Mumbai,2752.19,Transfer,Success,2025-04-02 23:53:16.963868
+T706792,Branch 4,Mumbai,4024.58,Withdrawal,Success,2025-04-01 18:14:17.096236
+T373078,Branch 4,,223.19,Transfer,Failed,2025-04-05 22:05:13.802160
+T229837,Branch 4,Mumbai,918.08,Withdrawal,,2025-04-05 00:13:04.101307
+T124352,Branch 4,Mumbai,604.51,Deposit,Failed,2025-04-06 17:08:59.055306
+T300405,Branch 4,Mumbai,3782.18,Deposit,Success,2025-04-02 13:06:25.814285
+T732197,Branch 4,Mumbai,2242.9,Transfer,Success,2025-04-01 08:30:00.637359
+T171475,Branch 4,Mumbai,2079.95,Failed,Success,2025-04-06 19:40:50.585334
+T654852,Branch 4,Mumbai,3387.18,,Failed,2025-04-04 10:11:04.543005
+T464327,Branch 4,Mumbai,4236.61,Transfer,Failed,2025-04-02 22:42:55.195523
+T918746,Branch 4,Mumbai,2162.16,Withdrawal,Success,2025-04-01 01:35:49.515028
+T858284,,Mumbai,1487.38,Transfer,Failed,2025-04-06 12:41:31.412412
+,Branch 4,Mumbai,4425.96,Failed,Success,2025-04-04 18:47:07.295051
+T819268,Branch 4,Mumbai,1350.15,Withdrawal,Success,
+T996255,Branch 4,Mumbai,3613.55,Deposit,Failed,2025-04-05 13:46:25.431649
+T217728,Branch 4,Mumbai,1243.3,Transfer,Success,2025-04-07 01:59:11.891516
+T935788,Branch 4,Mumbai,284.59,Transfer,Failed,2025-04-02 08:31:39.425586
+T926360,Branch 4,Mumbai,395.58,Failed,Success,2025-04-02 21:34:15.323666
+T250088,Branch 4,Mumbai,1864.11,Failed,Success,2025-04-06 21:18:04.080085
+,Branch 4,Mumbai,3832.16,Deposit,Success,2025-04-04 04:25:06.527656
+T561191,Branch 4,Mumbai,1859.85,Deposit,Success,2025-04-02 09:48:10.468319
+T752484,Branch 4,Mumbai,2968.05,Transfer,Failed,2025-04-06 19:22:40.910794
+T356743,Branch 4,Mumbai,4463.11,Deposit,Failed,2025-04-01 03:05:17.039137
+T838820,Branch 4,Mumbai,2215.19,Transfer,Failed,2025-04-02 04:29:44.303943
+,Branch 4,Mumbai,824.09,Failed,Failed,2025-04-06 00:49:39.037449
+T381069,Branch 4,Mumbai,4162.13,Withdrawal,Success,2025-04-07 23:48:53.232158
+T761381,Branch 4,Mumbai,4198.55,Withdrawal,Failed,2025-04-06 21:10:35.044706
+T886407,Branch 4,Mumbai,470.32,Transfer,Failed,2025-04-03 05:04:36.995085
+T142648,Branch 4,Mumbai,3729.12,Transfer,Failed,2025-04-01 00:26:15.396546
+T908045,Branch 4,Mumbai,909.98,Withdrawal,Failed,2025-04-01 15:26:41.149060
+T995397,Branch 4,Mumbai,455.22,Withdrawal,Success,2025-04-04 04:11:14.350683
+T307838,Branch 4,Mumbai,3835.65,Deposit,Success,2025-04-02 04:23:34.934336
+T478716,Branch 4,Mumbai,3174.03,Withdrawal,Success,2025-04-02 10:11:32.142655
+T598237,Branch 4,Mumbai,,Deposit,Failed,2025-04-03 20:29:46.428023
+T321603,,Mumbai,2268.84,Failed,Failed,2025-04-01 11:31:28.115395
+T808302,Branch 4,Mumbai,4253.71,Transfer,Success,2025-04-05 19:34:02.799597
+,Branch 4,Mumbai,,Withdrawal,Success,2025-04-05 16:52:36.445859
+T384514,Branch 4,Mumbai,1553.17,,Failed,2025-04-05 10:55:48.252375
+T747906,Branch 4,Mumbai,2160.51,Withdrawal,Success,2025-04-01 19:22:59.007251
+T790290,Branch 4,Mumbai,3690.76,Deposit,Failed,2025-04-06 12:37:20.315246
+T215594,Branch 4,Mumbai,3246.11,Deposit,Failed,2025-04-04 19:28:49.125228
+T108799,Branch 4,Mumbai,3778.52,Transfer,Success,2025-04-03 13:03:43.228484
+T403573,Branch 4,Mumbai,2969.65,Failed,Success,
+T821852,Branch 4,Mumbai,3707.02,Transfer,Success,2025-04-03 23:42:04.260881
+T731390,Branch 4,Mumbai,2754.85,Transfer,Failed,2025-04-04 13:27:32.935515
+T273107,Branch 4,Mumbai,3603.44,Deposit,Failed,2025-04-03 20:42:52.265581
+T120832,Branch 4,Mumbai,3176.77,Transfer,Failed,2025-04-02 23:51:52.515871
+T509407,,Mumbai,2631.09,Deposit,Failed,2025-04-04 12:41:22.574168
+T395924,Branch 4,Mumbai,1546.72,Transfer,Success,2025-04-04 17:24:39.257749
+T587454,Branch 4,Mumbai,4546.31,Deposit,Failed,2025-04-02 09:26:55.525429
+T601638,Branch 4,Mumbai,1410.79,Failed,Failed,2025-04-07 04:44:47.629493
+T419759,Branch 4,Mumbai,1024.98,,Success,2025-04-04 18:25:19.010640
+T152471,Branch 4,Mumbai,3682.89,Transfer,Success,2025-04-05 22:49:09.341039
+T766449,Branch 4,Mumbai,2980.28,Transfer,Failed,2025-04-01 11:58:04.661075
+T389734,Branch 4,Mumbai,2732.99,Failed,Success,2025-04-07 17:18:08.562592
+T524050,Branch 4,Mumbai,1865.49,Deposit,Success,2025-04-02 20:26:08.706404
+T109962,Branch 4,Mumbai,3847.84,Withdrawal,Failed,2025-04-01 08:43:34.748453
+T612457,Branch 4,Mumbai,2376.77,Withdrawal,Success,2025-04-01 15:41:44.551844
+T153289,Branch 4,Mumbai,,Failed,Success,2025-04-05 06:55:10.204700
+T182129,Branch 4,Mumbai,1454.45,Failed,Failed,2025-04-03 17:24:03.095573
+T577150,Branch 4,Mumbai,2864.72,Failed,Success,2025-04-05 07:10:16.508042
+T339314,Branch 4,Mumbai,3585.57,Deposit,Failed,2025-04-03 01:53:39.555819
+,Branch 4,Mumbai,598.89,Failed,Failed,2025-04-06 11:43:11.903650
+,Branch 4,Mumbai,1190.0,Withdrawal,Failed,2025-04-06 19:36:30.856668
+T608982,Branch 4,Mumbai,2381.88,Transfer,Failed,2025-04-06 15:52:30.626029
+T658156,Branch 4,Mumbai,753.27,Failed,Failed,2025-04-06 23:25:34.521030
+T182434,Branch 4,Mumbai,2367.34,Failed,Failed,
+T534301,Branch 4,Mumbai,4394.45,Failed,Success,2025-04-06 18:05:54.027070
+T842240,Branch 4,Mumbai,3774.53,Failed,Failed,2025-04-02 01:09:50.068101
+T523790,Branch 4,Mumbai,1005.68,Transfer,Failed,2025-04-04 06:53:02.127554
+T299024,Branch 4,Mumbai,576.62,Failed,Failed,2025-04-05 21:54:36.993076
+T702826,Branch 4,Mumbai,2506.72,Failed,Failed,2025-04-04 12:36:16.204283
+T399704,Branch 4,Mumbai,843.24,Transfer,Success,2025-04-05 13:03:26.631786
+T161448,Branch 4,Mumbai,3972.05,Withdrawal,Failed,2025-04-06 10:51:52.352703
+T644667,Branch 4,Mumbai,1559.96,Withdrawal,Failed,2025-04-03 04:01:58.716478
+T556670,Branch 4,Mumbai,3613.04,,Success,2025-04-06 09:54:54.005014
+T923282,,Mumbai,3055.79,,Success,2025-04-07 06:41:51.013635
+T533275,Branch 4,Mumbai,2708.77,Failed,Success,2025-04-01 18:53:30.216582
+,Branch 4,Mumbai,494.0,Transfer,Failed,2025-04-05 15:34:20.829497
+T153763,Branch 4,Mumbai,911.39,Failed,Success,2025-04-07 17:34:39.627987
+T330380,Branch 4,Mumbai,3035.18,Deposit,Success,2025-04-01 05:45:32.403701
+T750856,Branch 4,Mumbai,1017.07,Transfer,Failed,2025-04-07 13:07:44.872988
+T575048,Branch 4,Mumbai,1108.39,,Failed,2025-04-04 20:25:02.386433
+T846415,Branch 4,Mumbai,457.4,Withdrawal,Failed,2025-04-05 16:23:19.495136
+T252326,Branch 4,Mumbai,3414.84,Deposit,Failed,2025-04-02 15:03:33.135601
+T523191,Branch 4,Mumbai,195.33,Transfer,Success,2025-04-04 03:46:31.063086
+,Branch 4,Mumbai,3384.24,Transfer,Success,2025-04-01 06:50:11.238563
+T991260,Branch 4,Mumbai,1094.5,Deposit,Success,2025-04-03 18:49:39.225588
+T666256,Branch 4,Mumbai,927.05,Deposit,Failed,2025-04-06 03:46:41.627559
+,Branch 4,Mumbai,1508.57,Failed,Success,2025-04-03 11:03:55.508949
+T959880,Branch 4,Mumbai,4971.1,Transfer,Failed,2025-04-03 18:42:59.560521
+T981695,Branch 4,Mumbai,3521.76,Failed,Failed,2025-04-05 12:10:37.233707
+T346082,Branch 4,Mumbai,2524.56,Transfer,Success,2025-04-02 06:13:09.335689
+,Branch 4,Mumbai,3949.26,,Failed,2025-04-03 21:58:11.471286
+T435789,Branch 4,Mumbai,3341.03,,Success,2025-04-06 04:00:35.994023
+T813273,Branch 4,Mumbai,3764.59,Withdrawal,Failed,2025-04-05 01:25:43.673218
+T481075,Branch 4,Mumbai,539.26,Withdrawal,Failed,2025-04-05 13:59:33.195814
+T610261,Branch 4,Mumbai,3044.32,,Failed,2025-04-03 02:58:47.253157
+,Branch 4,Mumbai,4631.59,Deposit,Success,
+T926737,Branch 4,Mumbai,2292.01,,Success,2025-04-07 23:32:18.959403
+,Branch 4,Mumbai,3698.91,Deposit,Success,2025-04-03 10:48:32.411168
+T832915,Branch 4,Mumbai,3222.32,Failed,Failed,2025-04-02 10:30:18.461149
+T916424,Branch 4,Mumbai,3602.19,,Success,2025-04-03 15:20:40.347637
+T680247,Branch 4,Mumbai,1040.92,Deposit,Failed,2025-04-03 22:21:16.266495
+T810766,Branch 4,Mumbai,1803.41,Deposit,Success,
+T193942,Branch 4,,,Deposit,Success,2025-04-03 11:49:31.860479
+T442130,Branch 4,Mumbai,3562.69,Failed,Failed,2025-04-03 07:32:26.837200
+T652354,Branch 4,Mumbai,,Failed,Success,2025-04-03 23:58:44.991982
+T451110,Branch 4,Mumbai,3779.07,Failed,Success,2025-04-04 02:01:18.747064
+T567514,Branch 4,Mumbai,3762.05,Transfer,Failed,2025-04-04 08:53:02.824175
+,Branch 4,Mumbai,2872.05,Deposit,Success,2025-04-05 07:57:49.004097
+,Branch 4,Mumbai,1213.59,Withdrawal,Success,2025-04-04 20:39:57.649948
+,Branch 4,Mumbai,3205.9,Withdrawal,Success,2025-04-04 19:35:40.579135
+T339463,Branch 4,Mumbai,494.37,Deposit,Failed,2025-04-06 21:44:51.906332
+T157549,Branch 4,Mumbai,4467.5,Deposit,,2025-04-06 17:07:15.948590
+T750788,Branch 4,Mumbai,2889.57,,Success,2025-04-07 20:54:00.752639
+T965575,Branch 4,Mumbai,3020.6,Failed,Failed,2025-04-01 07:14:07.240494
+T217500,Branch 4,Mumbai,2884.64,Deposit,Success,2025-04-06 04:16:17.723735
+,Branch 4,Mumbai,4196.32,Failed,Success,2025-04-07 02:36:46.732901
+,Branch 4,Mumbai,2323.63,Deposit,Failed,2025-04-07 23:51:09.588707
+,,Mumbai,4447.18,Transfer,Success,2025-04-07 01:42:49.441377
+T446009,Branch 4,Mumbai,2021.44,Withdrawal,Success,2025-04-02 17:41:47.580981
+T634694,Branch 4,Mumbai,4029.65,Deposit,Success,2025-04-05 22:04:01.900555
+T126399,Branch 4,Mumbai,4661.51,Withdrawal,Failed,2025-04-03 07:18:16.718220
+T558189,Branch 4,Mumbai,3493.54,Failed,Success,2025-04-02 13:35:57.714561
+T363964,Branch 4,Mumbai,1342.7,Deposit,Success,2025-04-05 11:36:52.697422
+T957597,Branch 4,Mumbai,1527.21,Deposit,Success,2025-04-05 13:16:51.333413
+T668638,Branch 4,Mumbai,582.75,Failed,Success,2025-04-03 09:21:21.756947
+T983839,Branch 4,Mumbai,3338.27,Deposit,Success,2025-04-06 03:30:02.224889
+,Branch 4,Mumbai,1982.51,Withdrawal,Failed,2025-04-06 17:36:33.005554
+T513973,Branch 4,Mumbai,3765.96,Deposit,Failed,2025-04-01 21:50:46.879940
+T205299,Branch 4,Mumbai,1908.22,Transfer,Success,
+T501915,Branch 4,Mumbai,3735.92,Failed,Success,2025-04-06 19:17:30.265650
+T436689,Branch 4,Mumbai,4302.31,Deposit,Failed,2025-04-05 01:28:43.928813
+T814125,Branch 4,Mumbai,4618.11,Withdrawal,Failed,2025-04-03 03:16:58.494726
+T448879,Branch 4,Mumbai,132.36,Deposit,Failed,2025-04-01 09:35:33.597468
+T940808,Branch 4,Mumbai,1350.68,Transfer,Success,2025-04-07 23:35:09.089256
+T871591,Branch 4,Mumbai,,,Success,2025-04-07 02:16:44.130554
+,Branch 4,Mumbai,503.36,Deposit,Failed,
+,Branch 4,Mumbai,4010.95,Failed,Failed,2025-04-05 23:45:37.175857
+,Branch 4,Mumbai,,Deposit,Success,2025-04-04 17:30:19.662903
+,Branch 4,Mumbai,4450.59,Failed,Success,2025-04-02 16:35:03.613073
+T753649,Branch 4,Mumbai,4429.15,Transfer,Success,2025-04-02 17:08:25.319720
+T132209,Branch 4,Mumbai,4310.15,Withdrawal,Success,2025-04-07 14:36:53.384552
+T987205,Branch 4,Mumbai,2780.74,Failed,Failed,2025-04-04 15:24:08.191707
+T910303,Branch 4,Mumbai,,Withdrawal,Failed,2025-04-04 00:43:22.275348
+T813663,Branch 4,Mumbai,870.79,Deposit,Failed,2025-04-05 04:34:47.613449
+T127827,Branch 4,Mumbai,4464.29,Deposit,Failed,2025-04-02 17:14:18.551759
+T791914,Branch 4,Mumbai,4930.46,Deposit,Success,2025-04-03 10:40:21.864917
+T934039,Branch 4,Mumbai,,Withdrawal,Failed,2025-04-04 08:14:22.205376
+,Branch 4,Mumbai,3226.84,Transfer,Success,2025-04-07 02:20:38.411928
+T435439,Branch 4,Mumbai,,Deposit,Success,
+,Branch 4,Mumbai,322.51,Withdrawal,Failed,2025-04-01 18:47:52.256761
+T632451,Branch 4,Mumbai,1611.38,Deposit,Success,2025-04-06 16:16:35.412083
+T983533,,Mumbai,1042.87,Failed,Success,2025-04-06 01:40:12.029387
+T725044,Branch 4,Mumbai,,Failed,Success,2025-04-01 12:03:14.502940
+T703847,Branch 4,Mumbai,1124.16,Transfer,Failed,2025-04-07 02:50:49.731523
+T609941,Branch 4,Mumbai,1854.48,Transfer,Success,2025-04-05 21:03:14.073193
+T600386,Branch 4,Mumbai,2444.0,Failed,Success,2025-04-02 12:26:07.870847
+T963560,Branch 4,Mumbai,4371.11,Deposit,Failed,2025-04-02 20:53:19.482860
+T485667,Branch 4,,3590.73,Transfer,Success,2025-04-07 15:56:54.840646
+,,Mumbai,3291.64,Deposit,Failed,2025-04-07 23:22:29.868522
+T680120,Branch 4,Mumbai,3826.24,Failed,Success,2025-04-03 12:53:07.238285
+T928645,Branch 4,Mumbai,3768.07,Withdrawal,Failed,2025-04-07 18:48:15.913637
+,Branch 4,Mumbai,4711.98,Deposit,Success,2025-04-01 06:04:00.006447
+,Branch 4,Mumbai,2945.64,Deposit,Failed,2025-04-05 09:35:08.613945
+T632849,,Mumbai,2776.15,Deposit,Success,2025-04-05 00:03:17.327108
+T223431,Branch 4,Mumbai,219.68,Withdrawal,Success,2025-04-05 12:44:19.704358
+T612521,Branch 4,Mumbai,1892.53,Withdrawal,Success,2025-04-05 17:57:34.892253
+T601100,Branch 4,Mumbai,3688.3,Transfer,Failed,2025-04-05 17:41:37.025242
+T746977,Branch 4,Mumbai,4066.05,,Success,2025-04-06 04:02:25.686169
+T371946,Branch 4,Mumbai,1885.97,Failed,Success,2025-04-07 13:00:56.827865
+T733916,Branch 4,Mumbai,,Withdrawal,Success,2025-04-04 01:47:42.004462
+T366492,Branch 4,Mumbai,3520.74,Deposit,Success,
+T806113,Branch 4,Mumbai,2399.86,Withdrawal,Success,2025-04-05 00:34:10.159760
+T222342,Branch 4,Mumbai,1505.85,,Failed,2025-04-02 11:13:56.444289
+T129991,Branch 4,Mumbai,4921.04,Deposit,Failed,2025-04-02 21:57:05.106647
+T126720,Branch 4,Mumbai,,Transfer,Failed,2025-04-07 04:17:00.962646
+T342816,Branch 4,Mumbai,744.81,Failed,Failed,2025-04-02 23:45:32.738699
+T493031,Branch 4,Mumbai,,Deposit,Success,2025-04-07 20:20:51.526312
+T386737,Branch 4,Mumbai,4694.24,Deposit,Failed,2025-04-05 23:41:55.314494
+T823342,Branch 4,Mumbai,2388.08,Withdrawal,Failed,2025-04-05 10:34:03.772339
+T240052,,Mumbai,994.02,Transfer,Failed,2025-04-01 19:56:54.865814
+T721019,Branch 4,Mumbai,2036.38,Transfer,Success,2025-04-02 11:54:10.754680
+T853035,Branch 4,Mumbai,2752.5,,Failed,2025-04-03 14:49:11.004451
+,Branch 4,Mumbai,1604.34,Failed,Success,2025-04-03 06:59:28.184458
+,Branch 4,Mumbai,2721.22,Withdrawal,Success,2025-04-02 01:49:01.783345
+T153505,,Mumbai,1375.48,Failed,Success,
+T708749,Branch 4,Mumbai,761.19,Deposit,Failed,2025-04-01 14:06:56.319592
+,,Mumbai,2767.5,Transfer,Success,2025-04-06 23:05:45.213556
+T600856,Branch 4,Mumbai,2568.11,Withdrawal,Success,
+T831422,Branch 4,Mumbai,4948.11,Withdrawal,Success,2025-04-04 19:36:47.281256
+T507883,Branch 4,Mumbai,3122.78,Withdrawal,Failed,2025-04-03 12:00:18.142021
+T322116,Branch 4,Mumbai,3085.65,Failed,Success,2025-04-03 20:56:40.141008
+T447562,,Mumbai,,Deposit,Failed,2025-04-06 19:03:34.357575
+T689081,Branch 4,Mumbai,2811.38,Failed,Failed,2025-04-01 11:45:43.666311
+T265027,Branch 4,Mumbai,4784.89,Withdrawal,Success,2025-04-01 15:36:57.628980
+T823819,Branch 4,Mumbai,1109.23,,Success,2025-04-02 04:02:18.462697
+T889382,,Mumbai,2632.59,,Failed,2025-04-06 21:58:20.144410
+T144861,Branch 4,Mumbai,4814.86,Transfer,Success,2025-04-04 09:20:23.317081
+T804191,Branch 4,Mumbai,3298.29,Failed,Success,2025-04-04 04:54:02.940588
+T438343,Branch 4,Mumbai,4128.63,Transfer,Success,2025-04-03 03:10:25.290506
